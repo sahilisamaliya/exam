@@ -4,7 +4,7 @@
     {
       "id": "1",
       "backImage": "https://i.pinimg.com/736x/5d/db/cd/5ddbcd34bd7a0dfbfac8f7f8208d6a1d.jpg",
-      "name": "10 class",
+      "name": "10 Class",
       "image": "https://cdn3d.iconscout.com/3d/premium/thumb/copywriting-4872198-4054604.png",
       "sub": [
         {
@@ -63,23 +63,28 @@
           "paper": [
             {
               "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "MAR-2017 Set-1",
+              "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(MAR-2017)-11Sc.%20&%20Tech.(10th%20Guj%20Med).pdf"
             },
             {
               "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "MAR-2013 New Course Set-2",
+              "pdf": "https://drive.google.com/uc?export=view&id=1mvzCiQjts4BLm8262IxEiA6-HOC7uJ7V"
             },
             {
               "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "MAR-2013 Set-3",
+              "pdf": "https://drive.google.com/uc?export=view&id=1FWhd5NAqe4PXmuAUdZf0atjaun1eLpTy"
             },
             {
               "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "July-2018 Set-4",
+              "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(July-2018)-11Sc%20&%20Tech.%20(%2010th%20Guj%20MED%20).pdf"
+            },
+            {
+              "id": "5",
+              "name": "Maths Sample Paper 1",
+              "pdf": "https://drive.google.com/uc?export=view&id=0B7WTkS2Aqpw9RDZnZGZXdk5BSG8"
             }
           ]
         },
@@ -200,7 +205,7 @@
     {
       "id": "2",
       "backImage": "https://img.freepik.com/free-vector/abstract-classic-blue-background-design_23-2148437740.jpg",
-      "name": "11 class",
+      "name": "11 Class",
       "image": "https://cdn3d.iconscout.com/3d/premium/thumb/copywriting-4621022-3839981.png",
       "sub": [
         {
@@ -376,7 +381,7 @@
     {
       "id": "3",
       "backImage": "https://c4.wallpaperflare.com/wallpaper/707/220/899/gradient-blue-pink-abstract-art-wallpaper-preview.jpg",
-      "name": "12 class",
+      "name": "12 Class Commerce",
       "image": "https://cdn3d.iconscout.com/3d/premium/thumb/hand-hold-marker-4363695-3640372.png",
       "sub": [
         {
