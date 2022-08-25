@@ -31,7 +31,7 @@
             {
               "id": "4",
               "name": "Maths Sample Paper 1",
-              "pdf": "https://drive.google.com/uc?export=view&id=0B7WTkS2Aqpw9UmhwaV9FM2FiOXc"
+              "pdf": "https://drive.google.com/uc?export=view&id=1KT74MVj1_RM8ZXtpehvWdhUVBkGjhVr0"
             },
             {
               "id": "5",
@@ -52,6 +52,12 @@
               "id": "8",
               "name": "Maths Sample Paper 5",
               "pdf": "https://drive.google.com/uc?export=view&id=0B7WTkS2Aqpw9MVFTS2hNX3RPbEU"
+            }
+          ],
+          "books": [
+            {
+              "name": "પ્રકરણ 1. વાસ્તવિક સંખ્યાઓ",
+              "pdf": "https://drive.google.com/uc?export=view&id=1KT74MVj1_RM8ZXtpehvWdhUVBkGjhVr0"
             }
           ]
         },
