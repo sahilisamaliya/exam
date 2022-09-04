@@ -1,508 +1,564 @@
 {
-    "status": "success",
-    "data": [
+  "status": "success",
+  "data": [
+    {
+      "id": "1",
+      "backImage": "https://i.pinimg.com/736x/5d/db/cd/5ddbcd34bd7a0dfbfac8f7f8208d6a1d.jpg",
+      "name": "10 Class",
+      "image": "https://cdn3d.iconscout.com/3d/premium/thumb/copywriting-4872198-4054604.png",
+      "sub": [
         {
-            "id": "1",
-            "backImage": "https://i.pinimg.com/736x/5d/db/cd/5ddbcd34bd7a0dfbfac8f7f8208d6a1d.jpg",
-            "name": "10 Class",
-            "image": "https://cdn3d.iconscout.com/3d/premium/thumb/copywriting-4872198-4054604.png",
-            "sub": [
-                {
-                    "id": "1",
-                    "eName": "Maths",
-                    "gName": "ગણિત",
-                    "image": "https://t3.ftcdn.net/jpg/03/23/85/24/360_F_323852446_IJaIt5k1EiiYmfwKc5puBlxn8GVMrF2z.jpg",
-                    "paper": [
-                        {
-                            "id": "1",
-                            "name": "July-2018 Set-1",
-                            "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(July-2018)-12Maths(%2010th%20Guj%20MED).pdf"
-                        },
-                        {
-                            "id": "2",
-                            "name": "MAR-2017 Set-2",
-                            "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(MAR-2017)-12Maths(10th%20Guj%20Med).pdf"
-                        },
-                        {
-                            "id": "3",
-                            "name": "MAR-2018 Set-3",
-                            "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(MAR-2018)-12Maths(%2010th%20GUJ%20MED).pdf"
-                        },
-                        {
-                            "id": "4",
-                            "name": "Maths Sample Paper 1",
-                            "pdf": "https://drive.google.com/uc?export=view&id=1KT74MVj1_RM8ZXtpehvWdhUVBkGjhVr0"
-                        },
-                        {
-                            "id": "5",
-                            "name": "Maths Sample Paper 2",
-                            "pdf": "https://drive.google.com/uc?export=view&id=0B7WTkS2Aqpw9UzNYak5TZWxNd28"
-                        },
-                        {
-                            "id": "6",
-                            "name": "Maths Sample Paper 3",
-                            "pdf": "https://drive.google.com/uc?export=view&id=0B7WTkS2Aqpw9ZWdHaEgwaUJ0OGM"
-                        },
-                        {
-                            "id": "7",
-                            "name": "Maths Sample Paper 4",
-                            "pdf": "https://drive.google.com/uc?export=view&id=0B7WTkS2Aqpw9RmdyNGRvWk1Sb0E"
-                        },
-                        {
-                            "id": "8",
-                            "name": "Maths Sample Paper 5",
-                            "pdf": "https://drive.google.com/uc?export=view&id=0B7WTkS2Aqpw9MVFTS2hNX3RPbEU"
-                        }
-                    ],
-                    "books": [
-                        {
-                            "name": "પ્રકરણ 1. વાસ્તવિક સંખ્યાઓ",
-                            "pdf": "https://drive.google.com/uc?export=view&id=1KT74MVj1_RM8ZXtpehvWdhUVBkGjhVr0"
-                        }
-                    ]
-                },
-                {
-                    "id": "2",
-                    "eName": "Science",
-                    "gName": "વિજ્ઞાન",
-                    "image": "https://media.istockphoto.com/illustrations/dark-technology-wallpaper-art-abstract-blue-background-illustration-id1307733990?k=20&m=1307733990&s=612x612&w=0&h=xZXebk6U1ZDX1NEk1TRNN8-ZZf2E57K0gP2q6n0hjOk=",
-                    "paper": [
-                        {
-                            "id": "1",
-                            "name": "MAR-2017 Set-1",
-                            "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(MAR-2017)-11Sc.%20&%20Tech.(10th%20Guj%20Med).pdf"
-                        },
-                        {
-                            "id": "2",
-                            "name": "MAR-2013 New Course Set-2",
-                            "pdf": "https://drive.google.com/uc?export=view&id=1mvzCiQjts4BLm8262IxEiA6-HOC7uJ7V"
-                        },
-                        {
-                            "id": "3",
-                            "name": "MAR-2013 Set-3",
-                            "pdf": "https://drive.google.com/uc?export=view&id=1FWhd5NAqe4PXmuAUdZf0atjaun1eLpTy"
-                        },
-                        {
-                            "id": "4",
-                            "name": "July-2018 Set-4",
-                            "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(July-2018)-11Sc%20&%20Tech.%20(%2010th%20Guj%20MED%20).pdf"
-                        },
-                        {
-                            "id": "5",
-                            "name": "Science Sample Paper 1",
-                            "pdf": "https://drive.google.com/uc?export=view&id=0B7WTkS2Aqpw9RDZnZGZXdk5BSG8"
-                        }
-                    ]
-                },
-                {
-                    "id": "3",
-                    "eName": "Social Science",
-                    "gName": "સામાજિક વિજ્ઞાન",
-                    "image": "https://www.pngmagic.com/product_images/yellow-orange-gradient-vector-background.jpg",
-                    "paper": [
-                        {
-                            "id": "1",
-                            "name": "July-2018 Set-1",
-                            "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(July-2018)-10Social%20Science(%2010th%20Guj%20MED).pdf"
-                        },
-                        {
-                            "id": "2",
-                            "name": "Mathematics Standard 2020 Main Exam Set-2",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "3",
-                            "name": "Mathematics Standard 2020 Main Exam Set-3",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "4",
-                            "name": "Mathematics Standard 2020 Main Exam Set-4",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        }
-                    ]
-                },
-                {
-                    "id": "4",
-                    "eName": "Hindi",
-                    "gName": "હિન્દી",
-                    "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg",
-                    "paper": [
-                        {
-                            "id": "1",
-                            "name": "Mathematics Standard 2020 Main Exam Set-1",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "2",
-                            "name": "Mathematics Standard 2020 Main Exam Set-2",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "3",
-                            "name": "Mathematics Standard 2020 Main Exam Set-3",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "4",
-                            "name": "Mathematics Standard 2020 Main Exam Set-4",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        }
-                    ]
-                },
-                {
-                    "id": "5",
-                    "eName": "English",
-                    "gName": "અંગ્રેજી",
-                    "image": "https://i.stack.imgur.com/0ASXA.jpg",
-                    "paper": [
-                        {
-                            "id": "1",
-                            "name": "Mathematics Standard 2020 Main Exam Set-1",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "2",
-                            "name": "Mathematics Standard 2020 Main Exam Set-2",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "3",
-                            "name": "Mathematics Standard 2020 Main Exam Set-3",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "4",
-                            "name": "Mathematics Standard 2020 Main Exam Set-4",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        }
-                    ]
-                },
-                {
-                    "id": "6",
-                    "eName": "Gujarati",
-                    "gName": "ગુજરાતી",
-                    "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/04/Gradient-Featured-Image-03.jpg?w=960&h=600&crop=1",
-                    "paper": [
-                        {
-                            "id": "1",
-                            "name": "F.L Gujarati",
-                            "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(July-2018)-01(Guj%20F.L)Gujarati(%2010th%20Guj%20MED).pdf"
-                        },
-                        {
-                            "id": "2",
-                            "name": "Mathematics Standard 2020 Main Exam Set-2",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "3",
-                            "name": "Mathematics Standard 2020 Main Exam Set-3",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "4",
-                            "name": "Mathematics Standard 2020 Main Exam Set-4",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        }
-                    ]
-                }
-            ]
+          "id": "1",
+          "eName": "Maths",
+          "gName": "ગણિત",
+          "image": "https://t3.ftcdn.net/jpg/03/23/85/24/360_F_323852446_IJaIt5k1EiiYmfwKc5puBlxn8GVMrF2z.jpg",
+          "paper": [
+            {
+              "id": "1",
+              "name": "July-2018 Set-1",
+              "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(July-2018)-12Maths(%2010th%20Guj%20MED).pdf"
+            },
+            {
+              "id": "2",
+              "name": "MAR-2017 Set-2",
+              "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(MAR-2017)-12Maths(10th%20Guj%20Med).pdf"
+            },
+            {
+              "id": "3",
+              "name": "MAR-2018 Set-3",
+              "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(MAR-2018)-12Maths(%2010th%20GUJ%20MED).pdf"
+            },
+            {
+              "id": "4",
+              "name": "Maths Sample Paper 1",
+              "pdf": "https://drive.google.com/uc?export=view&id=1KT74MVj1_RM8ZXtpehvWdhUVBkGjhVr0"
+            },
+            {
+              "id": "5",
+              "name": "Maths Sample Paper 2",
+              "pdf": "https://drive.google.com/uc?export=view&id=0B7WTkS2Aqpw9UzNYak5TZWxNd28"
+            },
+            {
+              "id": "6",
+              "name": "Maths Sample Paper 3",
+              "pdf": "https://drive.google.com/uc?export=view&id=0B7WTkS2Aqpw9ZWdHaEgwaUJ0OGM"
+            },
+            {
+              "id": "7",
+              "name": "Maths Sample Paper 4",
+              "pdf": "https://drive.google.com/uc?export=view&id=0B7WTkS2Aqpw9RmdyNGRvWk1Sb0E"
+            },
+            {
+              "id": "8",
+              "name": "Maths Sample Paper 5",
+              "pdf": "https://drive.google.com/uc?export=view&id=0B7WTkS2Aqpw9MVFTS2hNX3RPbEU"
+            }
+          ],
+          "books": [
+            {
+              "name": "પ્રકરણ 1. વાસ્તવિક સંખ્યાઓ",
+              "pdf": "https://drive.google.com/uc?export=view&id=1KT74MVj1_RM8ZXtpehvWdhUVBkGjhVr0"
+            },
+            {
+              "name": "પ્રકરણ 2. બહુપદીઓ",
+              "pdf": "https://drive.google.com/uc?export=view&id=1OeydpZBMPNozEvfZI5HL4puAQCNiKMn6"
+            },
+            {
+              "name": "પ્રકરણ ૩. દ્વિચલ સુરેખ સમીકરણયુગ્મ",
+              "pdf": "https://drive.google.com/uc?export=view&id=1_Y5gqanMwYkAojj3D6r4YZtDan5gM0g5"
+            },
+            {
+              "name": "પ્રકરણ 4. દ્વિઘાત સમીકરણ",
+              "pdf": "https://drive.google.com/uc?export=view&id=13vz5jle2FWagbD_EA1k-NGN_6tX4MLeJ"
+            },
+            {
+              "name": "પ્રકરણ 5. સમાંતર શ્રેણી",
+              "pdf": "https://drive.google.com/uc?export=view&id=1Q7dHNLktrCp1Mm4pE-2WoBc6K-0g9rnm"
+            },
+            {
+              "name": "પ્રકરણ 6. ત્રિકોણ",
+              "pdf": "https://drive.google.com/uc?export=view&id=1ZykPgHONxcjYrOxNbh6P_wwVsnAQS8kI"
+            },
+            {
+              "name": "પપ્રકરણ 7. યામ ભૂમિતિ",
+              "pdf": "https://drive.google.com/uc?export=view&id=19xH8maR9ssqLAghykYIbxqA2Ci5R7-E0"
+            },
+            {
+              "name": "પપ્રકરણ 8. ત્રિકોણમિતિનો પરિચય",
+              "pdf": "https://drive.google.com/uc?export=view&id=1Gb9j7UQqJvYJoDBDyq472ew3YCd6LZJf"
+            },
+            {
+              "name": "પ્રકરણ 9. ત્રિકોણમિતિનો ઉપયોગ",
+              "pdf": "https://drive.google.com/uc?export=view&id=1iIyOZl4zWHkZqDzNFTb4W074TbRXKEyZ"
+            },
+            {
+              "name": "પ્રકરણ 10. વર્તુળ",
+              "pdf": "https://drive.google.com/uc?export=view&id=1_I5TK3EtbEFTpj73wTiXZBiWaHwkNmGH"
+            },
+            {
+              "name": "પ્રકરણ 11. રચના",
+              "pdf": "https://drive.google.com/uc?export=view&id=1VkqkHgI9beytezTS7HFpP9kJZ-VZzuB_"
+            },
+            {
+              "name": "પ્રકરણ 12. વર્તુળ સંબંધિત ક્ષેત્રફળ",
+              "pdf": "https://drive.google.com/uc?export=view&id=1_GyvM5r9lWkEhM3Vj5GlcraTrII82D4o"
+            },
+            {
+              "name": "પ્રકરણ 13. પૃષ્ઠફળ અને ઘનફળ",
+              "pdf": "https://drive.google.com/uc?export=view&id=1b3xuwZ-fj8TCHOHsY7SWrz5ik5u3WHzR"
+            },
+            {
+              "name": "પ્રકરણ 14. આંકડાશાસ્ત્ર",
+              "pdf": "https://drive.google.com/uc?export=view&id=11tCzqCe00ojp_FtYZWEzQ5GG7AMS5XLr"
+            },
+            {
+              "name": "પ્રકરણ 15. સંભાવનાર",
+              "pdf": "https://drive.google.com/uc?export=view&id=1hSRlwc6FPHk4pQY-K9OUdUKRfXa0ix87"
+            }
+          ]
         },
         {
-            "id": "2",
-            "backImage": "https://img.freepik.com/free-vector/abstract-classic-blue-background-design_23-2148437740.jpg",
-            "name": "11 Class Commerce",
-            "image": "https://cdn3d.iconscout.com/3d/premium/thumb/copywriting-4621022-3839981.png",
-            "sub": [
-                {
-                    "id": "1",
-                    "eName": "Economics",
-                    "gName": "અર્થશાસ્ત્ર",
-                    "image": "https://t3.ftcdn.net/jpg/03/23/85/24/360_F_323852446_IJaIt5k1EiiYmfwKc5puBlxn8GVMrF2z.jpg",
-                    "paper": [
-                        {
-                            "id": "1",
-                            "name": "Mathematics Standard 2020 Main Exam Set-1",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "2",
-                            "name": "Mathematics Standard 2020 Main Exam Set-2",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "3",
-                            "name": "Mathematics Standard 2020 Main Exam Set-3",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "4",
-                            "name": "Mathematics Standard 2020 Main Exam Set-4",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        }
-                    ]
-                },
-                {
-                    "id": "2",
-                    "eName": "Business Studies",
-                    "gName": "ધંધાકીય ભણતર",
-                    "image": "https://www.emeraldgrouppublishing.com/sites/default/files/image/MicrosoftTeams-image%20%2821%29_0.png.jpg",
-                    "paper": [
-                        {
-                            "id": "1",
-                            "name": "Mathematics Standard 2020 Main Exam Set-1",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "2",
-                            "name": "Mathematics Standard 2020 Main Exam Set-2",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "3",
-                            "name": "Mathematics Standard 2020 Main Exam Set-3",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "4",
-                            "name": "Mathematics Standard 2020 Main Exam Set-4",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        }
-                    ]
-                },
-                {
-                    "id": "3",
-                    "eName": "Accountancy",
-                    "gName": "એકાઉન્ટન્સી",
-                    "image": "https://www.pngmagic.com/product_images/yellow-orange-gradient-vector-background.jpg",
-                    "paper": [
-                        {
-                            "id": "1",
-                            "name": "Mathematics Standard 2020 Main Exam Set-1",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "2",
-                            "name": "Mathematics Standard 2020 Main Exam Set-2",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "3",
-                            "name": "Mathematics Standard 2020 Main Exam Set-3",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "4",
-                            "name": "Mathematics Standard 2020 Main Exam Set-4",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        }
-                    ]
-                },
-                {
-                    "id": "4",
-                    "eName": "English",
-                    "gName": "અંગ્રેજી",
-                    "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg",
-                    "paper": [
-                        {
-                            "id": "1",
-                            "name": "Mathematics Standard 2020 Main Exam Set-1",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "2",
-                            "name": "Mathematics Standard 2020 Main Exam Set-2",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "3",
-                            "name": "Mathematics Standard 2020 Main Exam Set-3",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "4",
-                            "name": "Mathematics Standard 2020 Main Exam Set-4",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        }
-                    ]
-                },
-                {
-                    "id": "5",
-                    "eName": "Statistics",
-                    "gName": "આંકડા શાસ્ત્ર",
-                    "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/04/Gradient-Featured-Image-03.jpg?w=960&h=600&crop=1",
-                    "paper": [
-                        {
-                            "id": "1",
-                            "name": "Mathematics Standard 2020 Main Exam Set-1",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "2",
-                            "name": "Mathematics Standard 2020 Main Exam Set-2",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "3",
-                            "name": "Mathematics Standard 2020 Main Exam Set-3",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "4",
-                            "name": "Mathematics Standard 2020 Main Exam Set-4",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        }
-                    ]
-                }
-            ]
+          "id": "2",
+          "eName": "Science",
+          "gName": "વિજ્ઞાન",
+          "image": "https://media.istockphoto.com/illustrations/dark-technology-wallpaper-art-abstract-blue-background-illustration-id1307733990?k=20&m=1307733990&s=612x612&w=0&h=xZXebk6U1ZDX1NEk1TRNN8-ZZf2E57K0gP2q6n0hjOk=",
+          "paper": [
+            {
+              "id": "1",
+              "name": "MAR-2017 Set-1",
+              "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(MAR-2017)-11Sc.%20&%20Tech.(10th%20Guj%20Med).pdf"
+            },
+            {
+              "id": "2",
+              "name": "MAR-2013 New Course Set-2",
+              "pdf": "https://drive.google.com/uc?export=view&id=1mvzCiQjts4BLm8262IxEiA6-HOC7uJ7V"
+            },
+            {
+              "id": "3",
+              "name": "MAR-2013 Set-3",
+              "pdf": "https://drive.google.com/uc?export=view&id=1FWhd5NAqe4PXmuAUdZf0atjaun1eLpTy"
+            },
+            {
+              "id": "4",
+              "name": "July-2018 Set-4",
+              "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(July-2018)-11Sc%20&%20Tech.%20(%2010th%20Guj%20MED%20).pdf"
+            },
+            {
+              "id": "5",
+              "name": "Science Sample Paper 1",
+              "pdf": "https://drive.google.com/uc?export=view&id=0B7WTkS2Aqpw9RDZnZGZXdk5BSG8"
+            }
+          ]
         },
         {
-            "id": "3",
-            "backImage": "https://c4.wallpaperflare.com/wallpaper/707/220/899/gradient-blue-pink-abstract-art-wallpaper-preview.jpg",
-            "name": "12 Class Commerce",
-            "image": "https://cdn3d.iconscout.com/3d/premium/thumb/hand-hold-marker-4363695-3640372.png",
-            "sub": [
-                {
-                    "id": "1",
-                    "eName": "Economics",
-                    "gName": "અર્થશાસ્ત્ર",
-                    "image": "https://t3.ftcdn.net/jpg/03/23/85/24/360_F_323852446_IJaIt5k1EiiYmfwKc5puBlxn8GVMrF2z.jpg",
-                    "paper": [
-                        {
-                            "id": "1",
-                            "name": "Mathematics Standard 2020 Main Exam Set-1",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "2",
-                            "name": "Mathematics Standard 2020 Main Exam Set-2",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "3",
-                            "name": "Mathematics Standard 2020 Main Exam Set-3",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "4",
-                            "name": "Mathematics Standard 2020 Main Exam Set-4",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        }
-                    ]
-                },
-                {
-                    "id": "2",
-                    "eName": "Business Studies",
-                    "gName": "ધંધાકીય ભણતર",
-                    "image": "https://www.emeraldgrouppublishing.com/sites/default/files/image/MicrosoftTeams-image%20%2821%29_0.png.jpg",
-                    "paper": [
-                        {
-                            "id": "1",
-                            "name": "Mathematics Standard 2020 Main Exam Set-1",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "2",
-                            "name": "Mathematics Standard 2020 Main Exam Set-2",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "3",
-                            "name": "Mathematics Standard 2020 Main Exam Set-3",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "4",
-                            "name": "Mathematics Standard 2020 Main Exam Set-4",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        }
-                    ]
-                },
-                {
-                    "id": "3",
-                    "eName": "Accountancy",
-                    "gName": "એકાઉન્ટન્સી",
-                    "image": "https://www.pngmagic.com/product_images/yellow-orange-gradient-vector-background.jpg",
-                    "paper": [
-                        {
-                            "id": "1",
-                            "name": "Mathematics Standard 2020 Main Exam Set-1",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "2",
-                            "name": "Mathematics Standard 2020 Main Exam Set-2",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "3",
-                            "name": "Mathematics Standard 2020 Main Exam Set-3",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "4",
-                            "name": "Mathematics Standard 2020 Main Exam Set-4",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        }
-                    ]
-                },
-                {
-                    "id": "4",
-                    "eName": "English",
-                    "gName": "અંગ્રેજી",
-                    "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg",
-                    "paper": [
-                        {
-                            "id": "1",
-                            "name": "Mathematics Standard 2020 Main Exam Set-1",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "2",
-                            "name": "Mathematics Standard 2020 Main Exam Set-2",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "3",
-                            "name": "Mathematics Standard 2020 Main Exam Set-3",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "4",
-                            "name": "Mathematics Standard 2020 Main Exam Set-4",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        }
-                    ]
-                },
-                {
-                    "id": "5",
-                    "eName": "Statistics",
-                    "gName": "આંકડા શાસ્ત્ર",
-                    "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/04/Gradient-Featured-Image-03.jpg?w=960&h=600&crop=1",
-                    "paper": [
-                        {
-                            "id": "1",
-                            "name": "Mathematics Standard 2020 Main Exam Set-1",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "2",
-                            "name": "Mathematics Standard 2020 Main Exam Set-2",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "3",
-                            "name": "Mathematics Standard 2020 Main Exam Set-3",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        },
-                        {
-                            "id": "4",
-                            "name": "Mathematics Standard 2020 Main Exam Set-4",
-                            "pdf": "http://www.africau.edu/images/default/sample.pdf"
-                        }
-                    ]
-                }
-            ]
+          "id": "3",
+          "eName": "Social Science",
+          "gName": "સામાજિક વિજ્ઞાન",
+          "image": "https://www.pngmagic.com/product_images/yellow-orange-gradient-vector-background.jpg",
+          "paper": [
+            {
+              "id": "1",
+              "name": "July-2018 Set-1",
+              "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(July-2018)-10Social%20Science(%2010th%20Guj%20MED).pdf"
+            },
+            {
+              "id": "2",
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "3",
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "4",
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "eName": "Hindi",
+          "gName": "હિન્દી",
+          "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg",
+          "paper": [
+            {
+              "id": "1",
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "2",
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "3",
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "4",
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "eName": "English",
+          "gName": "અંગ્રેજી",
+          "image": "https://i.stack.imgur.com/0ASXA.jpg",
+          "paper": [
+            {
+              "id": "1",
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "2",
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "3",
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "4",
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "eName": "Gujarati",
+          "gName": "ગુજરાતી",
+          "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/04/Gradient-Featured-Image-03.jpg?w=960&h=600&crop=1",
+          "paper": [
+            {
+              "id": "1",
+              "name": "F.L Gujarati",
+              "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(July-2018)-01(Guj%20F.L)Gujarati(%2010th%20Guj%20MED).pdf"
+            },
+            {
+              "id": "2",
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "3",
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "4",
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            }
+          ]
         }
-    ]
+      ]
+    },
+    {
+      "id": "2",
+      "backImage": "https://img.freepik.com/free-vector/abstract-classic-blue-background-design_23-2148437740.jpg",
+      "name": "11 Class Commerce",
+      "image": "https://cdn3d.iconscout.com/3d/premium/thumb/copywriting-4621022-3839981.png",
+      "sub": [
+        {
+          "id": "1",
+          "eName": "Economics",
+          "gName": "અર્થશાસ્ત્ર",
+          "image": "https://t3.ftcdn.net/jpg/03/23/85/24/360_F_323852446_IJaIt5k1EiiYmfwKc5puBlxn8GVMrF2z.jpg",
+          "paper": [
+            {
+              "id": "1",
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "2",
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "3",
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "4",
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "eName": "Business Studies",
+          "gName": "ધંધાકીય ભણતર",
+          "image": "https://www.emeraldgrouppublishing.com/sites/default/files/image/MicrosoftTeams-image%20%2821%29_0.png.jpg",
+          "paper": [
+            {
+              "id": "1",
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "2",
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "3",
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "4",
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "eName": "Accountancy",
+          "gName": "એકાઉન્ટન્સી",
+          "image": "https://www.pngmagic.com/product_images/yellow-orange-gradient-vector-background.jpg",
+          "paper": [
+            {
+              "id": "1",
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "2",
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "3",
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "4",
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "eName": "English",
+          "gName": "અંગ્રેજી",
+          "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg",
+          "paper": [
+            {
+              "id": "1",
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "2",
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "3",
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "4",
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "eName": "Statistics",
+          "gName": "આંકડા શાસ્ત્ર",
+          "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/04/Gradient-Featured-Image-03.jpg?w=960&h=600&crop=1",
+          "paper": [
+            {
+              "id": "1",
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "2",
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "3",
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "4",
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "backImage": "https://c4.wallpaperflare.com/wallpaper/707/220/899/gradient-blue-pink-abstract-art-wallpaper-preview.jpg",
+      "name": "12 Class Commerce",
+      "image": "https://cdn3d.iconscout.com/3d/premium/thumb/hand-hold-marker-4363695-3640372.png",
+      "sub": [
+        {
+          "id": "1",
+          "eName": "Economics",
+          "gName": "અર્થશાસ્ત્ર",
+          "image": "https://t3.ftcdn.net/jpg/03/23/85/24/360_F_323852446_IJaIt5k1EiiYmfwKc5puBlxn8GVMrF2z.jpg",
+          "paper": [
+            {
+              "id": "1",
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "2",
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "3",
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "4",
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "eName": "Business Studies",
+          "gName": "ધંધાકીય ભણતર",
+          "image": "https://www.emeraldgrouppublishing.com/sites/default/files/image/MicrosoftTeams-image%20%2821%29_0.png.jpg",
+          "paper": [
+            {
+              "id": "1",
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "2",
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "3",
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "4",
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "eName": "Accountancy",
+          "gName": "એકાઉન્ટન્સી",
+          "image": "https://www.pngmagic.com/product_images/yellow-orange-gradient-vector-background.jpg",
+          "paper": [
+            {
+              "id": "1",
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "2",
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "3",
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "4",
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "eName": "English",
+          "gName": "અંગ્રેજી",
+          "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg",
+          "paper": [
+            {
+              "id": "1",
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "2",
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "3",
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "4",
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "eName": "Statistics",
+          "gName": "આંકડા શાસ્ત્ર",
+          "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/04/Gradient-Featured-Image-03.jpg?w=960&h=600&crop=1",
+          "paper": [
+            {
+              "id": "1",
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "2",
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "3",
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "4",
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
