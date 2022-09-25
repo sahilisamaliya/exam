@@ -246,7 +246,7 @@
           "books": [
             {
               "name": "પ્રકરણ 1 - ભારતનો વારસો",
-                "pdf": "https://drive.google.com/uc?export=view&id=11NXkDij4xaupVtschJ7_tFFN5n19-Nes"
+              "pdf": "https://drive.google.com/uc?export=view&id=11NXkDij4xaupVtschJ7_tFFN5n19-Nes"
             },
             {
               "name": "પ્રકરણ 2 - ભારતનો સાંસ્કૃતિક વારસો : પરંપરાઓ : હસ્ત અને લલિતકલા",
@@ -319,7 +319,8 @@
             {
               "name": "પ્રકરણ 19 - માનવ વિકાસ",
               "pdf": "https://drive.google.com/uc?export=view&id=12ScXyg9otdxelhQJ06Cue-oFR26lK9Zg"
-            },{
+            },
+            {
               "name": "પ્રકરણ 20 - ભારતની સામાજિક સમસ્યાઓ અને પડકારો",
               "pdf": "https://drive.google.com/uc?export=view&id=1mi91e7Bfwrk92NafbV3qGZiWWbXugtIW"
             },
@@ -432,17 +433,20 @@
             {
               "name": "પ્રકરણ 19 - तोता और इन्द्र",
               "pdf": "https://drive.google.com/uc?export=view&id=1OyRRIqcAywHZJPUf9MDC7JVSACTSTTn6"
-            },{
+            },
+            {
               "name": "પ્રકરણ 20 - अलबम",
               "pdf": "https://drive.google.com/uc?export=view&id=1G-zor0yfPADRUnhTkiKbFFXKWzmMV_h2"
             },
             {
               "name": "પ્રકરણ 21 - पहेलियाँ-मुकरियाँ",
               "pdf": "https://drive.google.com/uc?export=view&id=144n359LOa6tkEBwp3Q58fUDq2ZTC0yYN"
-            },{
+            },
+            {
               "name": "પ્રકરણ 22 - भीतरी समृद्धि",
               "pdf": "https://drive.google.com/uc?export=view&id=1O8DNnH2YM00i5b24I7dNU_Wz60dNMZsc"
-            },{
+            },
+            {
               "name": "પ્રકરણ 23 - भूख",
               "pdf": "https://drive.google.com/uc?export=view&id=10syTpuhG1wpTYpa744nsy4fj-l0QMMC1"
             }
@@ -474,6 +478,64 @@
               "name": "Mathematics Standard 2020 Main Exam Set-4",
               "pdf": "http://www.africau.edu/images/default/sample.pdf"
             }
+          ],
+          "books": [
+            {
+              "name": "Chapter 1 - Against the Odds",
+              "pdf": "https://drive.google.com/uc?export=view&id=1pYZJZRT4hOXwlGnzEH7GVkrw8sn6idD5"
+            },
+            {
+              "name": "Chapter 2 - The Human Robot",
+              "pdf": "https://drive.google.com/uc?export=view&id=1qlDXwg6FzJ_dABgTm8tyHFokVMhRXCfK"
+            },
+            {
+              "name": "Chapter 3 - An Interview with Arun Krishnamurthy",
+              "pdf": "https://drive.google.com/uc?export=view&id=1MswDlr33a9KC66azCbTxFrNNyqB9KHKH"
+            },
+            {
+              "name": "Chapter 4 - A Wonderful Creation",
+              "pdf": "https://drive.google.com/uc?export=view&id=1GrGw4NTAlDEuLcEludJ0IlR0UL3bGdiB"
+            },
+            {
+              "name": "Chapter 5 - Playing with Fire",
+              "pdf": "https://drive.google.com/uc?export=view&id=1MwOcU62rN8F_rYplJTSTHv6UtNkEr83Q"
+            },
+            {
+              "name": "Chapter 6 - I Love You, Teacher",
+              "pdf": "https://drive.google.com/uc?export=view&id=1nM4Bt1dh7sskwMShPUvbwwtsc_6mDgY9"
+            },
+            {
+              "name": "Chapter 7 - Kach & Devayani",
+              "pdf": "https://drive.google.com/uc?export=view&id=1AHLu5VpYCLA2ccU4zqMOuYUqOPN2dOfX"
+            },
+            {
+              "name": "Chapter 8 - Our Feathered Friends",
+              "pdf": "https://drive.google.com/uc?export=view&id=1QYXvmPpviip6wnKcYAeGui60suWZgpaa"
+            },
+            {
+              "name": "Chapter 9 - Tune up O Teens",
+              "pdf": "https://drive.google.com/uc?export=view&id=1nzL7rqJFFu9o2Ge0L7YSlNgH_SnrXWKp"
+            },
+            {
+              "name": "Chapter 10 - A Test of True Love",
+              "pdf": "https://drive.google.com/uc?export=view&id=1LKRC43Xrve1dQfnBDtIuBTn8Cj0ihFlA"
+            },
+            {
+              "name": "Poem 1 - My Song",
+              "pdf": "https://drive.google.com/uc?export=view&id=1GlKxoKC4lk8zRB8rpasZyDL02j_wpiOr"
+            },
+            {
+              "name": "Poem 2 - Pencil",
+              "pdf": "https://drive.google.com/uc?export=view&id=1jskUskq90TYe7GRXDmwVpvoQJGnEqSgx"
+            },
+            {
+              "name": "Poem 3 - Growing",
+              "pdf": "https://drive.google.com/uc?export=view&id=13ZGtCDUslKe80YimZLlPd8IWh1uYvBcK"
+            },
+            {
+              "name": "Poem 4 - Vanila Twilight",
+              "pdf": "https://drive.google.com/uc?export=view&id=1CbR9OHbFWQrlPGP6NVJDpR3qVi8KIEG1"
+            }
           ]
         },
         {
@@ -501,6 +563,148 @@
               "id": "4",
               "name": "Mathematics Standard 2020 Main Exam Set-4",
               "pdf": "http://www.africau.edu/images/default/sample.pdf"
+            }
+          ],
+          "books": [
+            {
+              "name": "પ્રકરણ 1 - વૈષ્ણવજન",
+              "pdf": "https://drive.google.com/uc?export=view&id=1pYZJZRT4hOXwlGnzEH7GVkrw8sn6idD5"
+            },
+            {
+              "name": "પ્રકરણ 2 - રેસનો ઘોડો",
+              "pdf": "https://drive.google.com/uc?export=view&id=1qlDXwg6FzJ_dABgTm8tyHFokVMhRXCfK"
+            },
+            {
+              "name": "પ્રકરણ 3 - શીલવંત સાધુને",
+              "pdf": "https://drive.google.com/uc?export=view&id=1MswDlr33a9KC66azCbTxFrNNyqB9KHKH"
+            },
+            {
+              "name": "પ્રકરણ 4 - ભૂલી ગયા પછી",
+              "pdf": "https://drive.google.com/uc?export=view&id=1GrGw4NTAlDEuLcEludJ0IlR0UL3bGdiB"
+            },
+            {
+              "name": "વ્યાકરણ : એકમ - 1 ધ્વનિશ્રેણી, જોડણી, સંધિ, સમાસ",
+              "pdf": "https://drive.google.com/uc?export=view&id=1CbR9OHbFWQrlPGP6NVJDpR3qVi8KIEG1"
+            },
+            {
+              "name": "પ્રકરણ 5 - દીકરી",
+              "pdf": "https://drive.google.com/uc?export=view&id=1MwOcU62rN8F_rYplJTSTHv6UtNkEr83Q"
+            },
+            {
+              "name": "પ્રકરણ 6 - વાઇરલ ઈન્ફેક્શન",
+              "pdf": "https://drive.google.com/uc?export=view&id=1nM4Bt1dh7sskwMShPUvbwwtsc_6mDgY9"
+            },
+            {
+              "name": "પ્રકરણ 7 - હું એવો ગુજરાતી",
+              "pdf": "https://drive.google.com/uc?export=view&id=1AHLu5VpYCLA2ccU4zqMOuYUqOPN2dOfX"
+            },
+            {
+              "name": "પ્રકરણ 8 - છત્રી",
+              "pdf": "https://drive.google.com/uc?export=view&id=1QYXvmPpviip6wnKcYAeGui60suWZgpaa"
+            },
+            {
+              "name": "વ્યાકરણ : એકમ - 2 સંજ્ઞા, વિશેષણ, ક્રિયાવિશેષણ અને તેના પ્રકારો",
+              "pdf": "https://drive.google.com/uc?export=view&id=1CbR9OHbFWQrlPGP6NVJDpR3qVi8KIEG1"
+            },
+            {
+              "name": "પ્રકરણ 9 - માધવને દીઠો છે ક્યાંય?",
+              "pdf": "https://drive.google.com/uc?export=view&id=1nzL7rqJFFu9o2Ge0L7YSlNgH_SnrXWKp"
+            },
+            {
+              "name": "પ્રકરણ 10 - ડાંગવનો અને...",
+              "pdf": "https://drive.google.com/uc?export=view&id=1LKRC43Xrve1dQfnBDtIuBTn8Cj0ihFlA"
+            },
+            {
+              "name": "પ્રકરણ 11 - શિકારીને",
+              "pdf": "https://drive.google.com/uc?export=view&id=1GlKxoKC4lk8zRB8rpasZyDL02j_wpiOr"
+            },
+            {
+              "name": "પ્રકરણ 12 - ચોપડાની ઇન્દ્રજાળ",
+              "pdf": "https://drive.google.com/uc?export=view&id=1jskUskq90TYe7GRXDmwVpvoQJGnEqSgx"
+            },
+            {
+              "name": "વ્યાકરણ : એકમ - 3 વાકયપ્રકાર: કર્તરિ, કર્મણિ, ભાવે અને પ્રેરક; વાકયરૂપાંતર",
+              "pdf": "https://drive.google.com/uc?export=view&id=1CbR9OHbFWQrlPGP6NVJDpR3qVi8KIEG1"
+            },
+            {
+              "name": "પ્રકરણ 13 - વતનથી વિદાય થતાં",
+              "pdf": "https://drive.google.com/uc?export=view&id=13ZGtCDUslKe80YimZLlPd8IWh1uYvBcK"
+            },
+            {
+              "name": "પ્રકરણ 14 - જન્મોત્સવ",
+              "pdf": "https://drive.google.com/uc?export=view&id=1CbR9OHbFWQrlPGP6NVJDpR3qVi8KIEG1"
+            },
+            {
+              "name": "પ્રકરણ 15 - બોલીએ ના કાંઈ",
+              "pdf": "https://drive.google.com/uc?export=view&id=1CbR9OHbFWQrlPGP6NVJDpR3qVi8KIEG1"
+            },
+            {
+              "name": "પ્રકરણ 16 - ગતિભંગ",
+              "pdf": "https://drive.google.com/uc?export=view&id=1CbR9OHbFWQrlPGP6NVJDpR3qVi8KIEG1"
+            },
+            {
+              "name": "વ્યાકરણ : એકમ - 4 અલંકાર",
+              "pdf": "https://drive.google.com/uc?export=view&id=1CbR9OHbFWQrlPGP6NVJDpR3qVi8KIEG1"
+            },
+            {
+              "name": "પ્રકરણ 17 - દિવસો જુદાઈના જાય છે",
+              "pdf": "https://drive.google.com/uc?export=view&id=1CbR9OHbFWQrlPGP6NVJDpR3qVi8KIEG1"
+            },
+            {
+              "name": "પ્રકરણ 18 - ભૂખથીય ભૂંડી ભીખ",
+              "pdf": "https://drive.google.com/uc?export=view&id=1CbR9OHbFWQrlPGP6NVJDpR3qVi8KIEG1"
+            },
+            {
+              "name": "પ્રકરણ 19 - એક બપોરે",
+              "pdf": "https://drive.google.com/uc?export=view&id=1CbR9OHbFWQrlPGP6NVJDpR3qVi8KIEG1"
+            },
+            {
+              "name": "પ્રકરણ 20 - વિરલ વિભૂતિ",
+              "pdf": "https://drive.google.com/uc?export=view&id=1CbR9OHbFWQrlPGP6NVJDpR3qVi8KIEG1"
+            },
+            {
+              "name": "વ્યાકરણ : એકમ - 5 છંદ",
+              "pdf": "https://drive.google.com/uc?export=view&id=1CbR9OHbFWQrlPGP6NVJDpR3qVi8KIEG1"
+            },
+            {
+              "name": "પ્રકરણ 21 - ચાંદલિયો",
+              "pdf": "https://drive.google.com/uc?export=view&id=1CbR9OHbFWQrlPGP6NVJDpR3qVi8KIEG1"
+            },
+            {
+              "name": "પ્રકરણ 22 - હિમાલયમાં એક સાહસ",
+              "pdf": "https://drive.google.com/uc?export=view&id=1CbR9OHbFWQrlPGP6NVJDpR3qVi8KIEG1"
+            },
+            {
+              "name": "પ્રકરણ 23 - લઘુકાવ્યો",
+              "pdf": "https://drive.google.com/uc?export=view&id=1CbR9OHbFWQrlPGP6NVJDpR3qVi8KIEG1"
+            },
+            {
+              "name": "પ્રકરણ 24 - ઘોડીની સ્વામીભક્તિ",
+              "pdf": "https://drive.google.com/uc?export=view&id=1CbR9OHbFWQrlPGP6NVJDpR3qVi8KIEG1"
+            },
+            {
+              "name": "વ્યાકરણ : એકમ - 6 લેખનકૌશલ: અર્થવિસ્તાર, અહેવાલલેખન, સંક્ષેપીકરણ, નિબંધ",
+              "pdf": "https://drive.google.com/uc?export=view&id=1CbR9OHbFWQrlPGP6NVJDpR3qVi8KIEG1"
+            },
+            {
+              "name": "પૂરક વાચન 1 - બહાદુર બાળકો",
+              "pdf": "https://drive.google.com/uc?export=view&id=1CbR9OHbFWQrlPGP6NVJDpR3qVi8KIEG1"
+            },
+            {
+              "name": "પૂરક વાચન 2 - નદીવિયોગ",
+              "pdf": "https://drive.google.com/uc?export=view&id=1CbR9OHbFWQrlPGP6NVJDpR3qVi8KIEG1"
+            },
+            {
+              "name": "પૂરક વાચન 3 - તારે પગલે",
+              "pdf": "https://drive.google.com/uc?export=view&id=1CbR9OHbFWQrlPGP6NVJDpR3qVi8KIEG1"
+            },
+            {
+              "name": "પૂરક વાચન 4 - મારી બા",
+              "pdf": "https://drive.google.com/uc?export=view&id=1CbR9OHbFWQrlPGP6NVJDpR3qVi8KIEG1"
+            },
+            {
+              "name": "પૂરક વાચન 5 - વીરભૂમિ",
+              "pdf": "https://drive.google.com/uc?export=view&id=1CbR9OHbFWQrlPGP6NVJDpR3qVi8KIEG1"
             }
           ]
         }
