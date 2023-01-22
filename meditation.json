@@ -3,12 +3,12 @@
   "basics": {
     "id": "0",
     "musicUrl": "https://drive.google.com/file/d/1daBXoVPBVe3FoDu6GQODMLMFSem5c0wO/view?usp=sharing",
-    "musicLength": "15"
+    "musicLength": ""
   },
   "relaxation": {
     "id": "0",
     "musicUrl": "https://drive.google.com/file/d/1tTu0lhWh1GvAOg-Jl5DPYsLhHYhdtDMb/view?usp=share_link",
-    "musicLength": "20"
+    "musicLength": ""
   },
   "recommended": [
     {
@@ -18,6 +18,10 @@
       "musicUrl": [
         "",
         ""
+      ],
+      "musicName" : [
+        "",
+        ""
       ]
     },
     {
@@ -25,6 +29,10 @@
       "title": "",
       "image": "",
       "musicUrl": [
+        "",
+        ""
+      ],
+      "musicName" : [
         "",
         ""
       ]
