@@ -26,6 +26,32 @@
     },
     {
       "id": "1",
+      "title": "Meditation Music 2022",
+      "image": "https://img.freepik.com/premium-photo/happy-new-year-numbers-2022-silhouette-buddha-statue-early-morning-sunrise-horizon-background-happy-new-year-concept_29332-3708.jpg",
+      "musicUrl": [
+        "https://drive.google.com/file/d/1CNSigB0CW2MRKIqHRkH087ZUqMzgdxhT/view?usp=share_link",
+        "https://drive.google.com/file/d/10jSJqOd5ojEe6dkku42RTGG7mjXZxI2Q/view?usp=share_link"
+      ],
+      "musicName" : [
+        "Night Sky",
+        "Nocturno"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "",
+      "image": "",
+      "musicUrl": [
+        "",
+        ""
+      ],
+      "musicName" : [
+        "",
+        ""
+      ]
+    },
+    {
+      "id": "3",
       "title": "",
       "image": "",
       "musicUrl": [
