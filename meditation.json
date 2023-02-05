@@ -231,6 +231,43 @@
           "musicName": "Tum_Prem_Ho_Kanha_By_Suprabha_KV"
         }
       ]
+    },
+    {
+      "id": "3",
+      "title": "Flute Meditation",
+      "image": "https://www.soundsofnidra.com/assets/images/albums/5ed6e015b0c75.jpeg",
+      "musicData": [
+        {
+          "id": "0",
+          "musicUrl": "https://drive.google.com/file/d/1XszuIrqpKmawPZJ8eIA9bUiXweiRwgVi/view?usp=share_link",
+          "musicName": "Aashchary"
+        },
+        {
+          "id": "1",
+          "musicUrl": "https://drive.google.com/file/d/19qhibGWm7re42NbVsO9tzV6_HY98MOv4/view?usp=share_link",
+          "musicName": "Acceptance"
+        },
+        {
+          "id": "2",
+          "musicUrl": "https://drive.google.com/file/d/1XtsHhJem3acS4sWrDGTisXxIiWrHZWIK/view?usp=share_link",
+          "musicName": "Adobe_Walls"
+        },
+        {
+          "id": "3",
+          "musicUrl": "https://drive.google.com/file/d/1UwDCWuQGiBMjIoXylwdYgAMpt8VgZxh4/view?usp=share_link",
+          "musicName": "Appalachian_Trail"
+        },
+        {
+          "id": "4",
+          "musicUrl": "https://drive.google.com/file/d/1n35QEhARRXKV2agSy539P526gLc9sJka/view?usp=share_link",
+          "musicName": "Arctic_Breeze"
+        },
+        {
+          "id": "5",
+          "musicUrl": "https://drive.google.com/file/d/115LAVkCYgNzFYW99-SxK7IHUw5IdB7vm/view?usp=share_link",
+          "musicName": "Astral_Myst"
+        }
+      ]
     }
   ]
 }
