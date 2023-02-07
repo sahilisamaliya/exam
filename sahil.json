@@ -1,1945 +1,1945 @@
-{
-  "status": "success",
-  "data": [
-    {
-      "id": "1",
-      "backImage": "https://i.pinimg.com/736x/5d/db/cd/5ddbcd34bd7a0dfbfac8f7f8208d6a1d.jpg",
-      "name": "10 Class",
-      "image": "https://cdn3d.iconscout.com/3d/premium/thumb/copywriting-4872198-4054604.png",
-      "sub": [
-        {
-          "id": "1",
-          "eName": "Maths",
-          "gName": "ગણિત",
-          "image": "https://t3.ftcdn.net/jpg/03/23/85/24/360_F_323852446_IJaIt5k1EiiYmfwKc5puBlxn8GVMrF2z.jpg",
-          "paper": [
-            {
-              "id": "1",
-              "name": "July-2018 Set-1",
-              "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(July-2018)-12Maths(%2010th%20Guj%20MED).pdf"
-            },
-            {
-              "id": "2",
-              "name": "MAR-2017 Set-2",
-              "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(MAR-2017)-12Maths(10th%20Guj%20Med).pdf"
-            },
-            {
-              "id": "3",
-              "name": "MAR-2018 Set-3",
-              "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(MAR-2018)-12Maths(%2010th%20GUJ%20MED).pdf"
-            },
-            {
-              "id": "4",
-              "name": "Maths Sample Paper 1",
-              "pdf": "https://drive.google.com/uc?export=view&id=1KT74MVj1_RM8ZXtpehvWdhUVBkGjhVr0"
-            },
-            {
-              "id": "5",
-              "name": "Maths Sample Paper 2",
-              "pdf": "https://drive.google.com/uc?export=view&id=0B7WTkS2Aqpw9UzNYak5TZWxNd28"
-            },
-            {
-              "id": "6",
-              "name": "Maths Sample Paper 3",
-              "pdf": "https://drive.google.com/uc?export=view&id=0B7WTkS2Aqpw9ZWdHaEgwaUJ0OGM"
-            },
-            {
-              "id": "7",
-              "name": "Maths Sample Paper 4",
-              "pdf": "https://drive.google.com/uc?export=view&id=0B7WTkS2Aqpw9RmdyNGRvWk1Sb0E"
-            },
-            {
-              "id": "8",
-              "name": "Maths Sample Paper 5",
-              "pdf": "https://drive.google.com/uc?export=view&id=0B7WTkS2Aqpw9MVFTS2hNX3RPbEU"
-            }
-          ],
-          "books": [
-            {
-              "name": "પ્રકરણ 1. વાસ્તવિક સંખ્યાઓ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1KT74MVj1_RM8ZXtpehvWdhUVBkGjhVr0"
-            },
-            {
-              "name": "પ્રકરણ 2. બહુપદીઓ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1OeydpZBMPNozEvfZI5HL4puAQCNiKMn6"
-            },
-            {
-              "name": "પ્રકરણ ૩. દ્વિચલ સુરેખ સમીકરણયુગ્મ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1_Y5gqanMwYkAojj3D6r4YZtDan5gM0g5"
-            },
-            {
-              "name": "પ્રકરણ 4. દ્વિઘાત સમીકરણ",
-              "pdf": "https://drive.google.com/uc?export=view&id=13vz5jle2FWagbD_EA1k-NGN_6tX4MLeJ"
-            },
-            {
-              "name": "પ્રકરણ 5. સમાંતર શ્રેણી",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Q7dHNLktrCp1Mm4pE-2WoBc6K-0g9rnm"
-            },
-            {
-              "name": "પ્રકરણ 6. ત્રિકોણ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1ZykPgHONxcjYrOxNbh6P_wwVsnAQS8kI"
-            },
-            {
-              "name": "પપ્રકરણ 7. યામ ભૂમિતિ",
-              "pdf": "https://drive.google.com/uc?export=view&id=19xH8maR9ssqLAghykYIbxqA2Ci5R7-E0"
-            },
-            {
-              "name": "પપ્રકરણ 8. ત્રિકોણમિતિનો પરિચય",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Gb9j7UQqJvYJoDBDyq472ew3YCd6LZJf"
-            },
-            {
-              "name": "પ્રકરણ 9. ત્રિકોણમિતિનો ઉપયોગ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1iIyOZl4zWHkZqDzNFTb4W074TbRXKEyZ"
-            },
-            {
-              "name": "પ્રકરણ 10. વર્તુળ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1_I5TK3EtbEFTpj73wTiXZBiWaHwkNmGH"
-            },
-            {
-              "name": "પ્રકરણ 11. રચના",
-              "pdf": "https://drive.google.com/uc?export=view&id=1VkqkHgI9beytezTS7HFpP9kJZ-VZzuB_"
-            },
-            {
-              "name": "પ્રકરણ 12. વર્તુળ સંબંધિત ક્ષેત્રફળ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1_GyvM5r9lWkEhM3Vj5GlcraTrII82D4o"
-            },
-            {
-              "name": "પ્રકરણ 13. પૃષ્ઠફળ અને ઘનફળ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1b3xuwZ-fj8TCHOHsY7SWrz5ik5u3WHzR"
-            },
-            {
-              "name": "પ્રકરણ 14. આંકડાશાસ્ત્ર",
-              "pdf": "https://drive.google.com/uc?export=view&id=11tCzqCe00ojp_FtYZWEzQ5GG7AMS5XLr"
-            },
-            {
-              "name": "પ્રકરણ 15. સંભાવના",
-              "pdf": "https://drive.google.com/uc?export=view&id=1hSRlwc6FPHk4pQY-K9OUdUKRfXa0ix87"
-            }
-          ]
-        },
-        {
-          "id": "2",
-          "eName": "Science",
-          "gName": "વિજ્ઞાન",
-          "image": "https://media.istockphoto.com/illustrations/dark-technology-wallpaper-art-abstract-blue-background-illustration-id1307733990?k=20&m=1307733990&s=612x612&w=0&h=xZXebk6U1ZDX1NEk1TRNN8-ZZf2E57K0gP2q6n0hjOk=",
-          "paper": [
-            {
-              "id": "1",
-              "name": "MAR-2017 Set-1",
-              "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(MAR-2017)-11Sc.%20&%20Tech.(10th%20Guj%20Med).pdf"
-            },
-            {
-              "id": "2",
-              "name": "MAR-2013 New Course Set-2",
-              "pdf": "https://drive.google.com/uc?export=view&id=1mvzCiQjts4BLm8262IxEiA6-HOC7uJ7V"
-            },
-            {
-              "id": "3",
-              "name": "MAR-2013 Set-3",
-              "pdf": "https://drive.google.com/uc?export=view&id=1FWhd5NAqe4PXmuAUdZf0atjaun1eLpTy"
-            },
-            {
-              "id": "4",
-              "name": "July-2018 Set-4",
-              "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(July-2018)-11Sc%20&%20Tech.%20(%2010th%20Guj%20MED%20).pdf"
-            },
-            {
-              "id": "5",
-              "name": "Science Sample Paper 1",
-              "pdf": "https://drive.google.com/uc?export=view&id=0B7WTkS2Aqpw9RDZnZGZXdk5BSG8"
-            }
-          ],
-          "books": [
-            {
-              "name": "પ્રકરણ 1. રાસાયણિક પ્રકિયાઓ અને સમીકરણો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1WtOLupeOVGYgiD4eKG8xSlA3JF9a6Mqp"
-            },
-            {
-              "name": "પ્રકરણ 2. એસીડ બેઇઝ અને ક્ષાર",
-              "pdf": "https://drive.google.com/uc?export=view&id=1LL4NF9BqMu0ftVhtFrOjPALlIchZRTPT"
-            },
-            {
-              "name": "પ્રકરણ ૩. ધાતુઓ અને અધાતુઓ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1ScBel8xGg9CNIG0OuzVUZXuZvmvjz0Tp"
-            },
-            {
-              "name": "પ્રકરણ 4. કાર્બન અને તેનાં સંયોજનો",
-              "pdf": "https://drive.google.com/uc?export=view&id=17PZ9um64WxwfRnqVAl4P5DbIOEwzeCpW"
-            },
-            {
-              "name": "પ્રકરણ 5. તત્વોનું આવર્તી વર્ગીકરણ",
-              "pdf": "https://drive.google.com/uc?export=view&id=14vQzcGC8sUotX3GWzd9uq4UBS8ZutcAV"
-            },
-            {
-              "name": "પ્રકરણ 6. જૈવિક ક્રિયાઓ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1poPHyx1FxdXeY1exDwB041nZOYe7pyVb"
-            },
-            {
-              "name": "પ્રકરણ 7. નિયંત્રણ અને સંકલન",
-              "pdf": "https://drive.google.com/uc?export=view&id=1VYdI13_LasasV5PVVVz1-NuCwmYt9O6-"
-            },
-            {
-              "name": "પ્રકરણ 8. સજીવો કેવી રીતે પ્રજનન કરે છે.",
-              "pdf": "https://drive.google.com/uc?export=view&id=11mejmhWOfxFDWXbkAjknzabGW6zu7Yfk"
-            },
-            {
-              "name": "પ્રકરણ 9. આનુવંશિકતા અને ઉદવિકાસ",
-              "pdf": "https://drive.google.com/uc?export=view&id=10K91LYtc4loGb7Zy56JyoW4Tk3iLxlXK"
-            },
-            {
-              "name": "પ્રકરણ 10. પ્રકાશ પરાવર્તન અને વક્રીભવન",
-              "pdf": "https://drive.google.com/uc?export=view&id=1lbzj7GdqA8ejZsB2UxSaYr6G4EVUfRB_"
-            },
-            {
-              "name": "પ્રકરણ 11. માનવ આંખ અને રંગબેરંગી દુનિયા",
-              "pdf": "https://drive.google.com/uc?export=view&id=1bSLWRBp-oJLzVE2taX7eDbvNrJvSD8YL"
-            },
-            {
-              "name": "પ્રકરણ 12. વિદ્યુત",
-              "pdf": "https://drive.google.com/uc?export=view&id=13Eu6dbMY509tfon6iU1YSp_HbyWC_kk2"
-            },
-            {
-              "name": "પ્રકરણ 13. વિદ્યુતપ્રવાહની ચુંબકીય અસરો",
-              "pdf": "https://drive.google.com/uc?export=view&id=169_gWHGMk9i72WsilOoH35pHv9g4QYCe"
-            },
-            {
-              "name": "પ્રકરણ 14. ઊર્જાના સ્ત્રોતો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1bJX-XIIc8A4tD1bkUmKBm6o2wA_x34xU"
-            },
-            {
-              "name": "પ્રકરણ 15. આપણું પર્યાવરણ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1pqfdTHZ7NYP0b1c322RGx7QPmM7qT1w6"
-            },
-            {
-              "name": "પ્રકરણ 16. નૈસર્ગિક સ્ત્રોતોનું ટકાઉ પ્રબંધન(વ્યવસ્થાપન)",
-              "pdf": "https://drive.google.com/uc?export=view&id=1LFU-MaSsQihNp-Yld3vAo_OHW-rx__rq"
-            }
-          ]
-        },
-        {
-          "id": "3",
-          "eName": "Social Science",
-          "gName": "સામાજિક વિજ્ઞાન",
-          "image": "https://www.pngmagic.com/product_images/yellow-orange-gradient-vector-background.jpg",
-          "paper": [
-            {
-              "id": "1",
-              "name": "July-2018 Set-1",
-              "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(July-2018)-10Social%20Science(%2010th%20Guj%20MED).pdf"
-            },
-            {
-              "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            }
-          ],
-          "books": [
-            {
-              "name": "પ્રકરણ 1 - ભારતનો વારસો",
-              "pdf": "https://drive.google.com/uc?export=view&id=11NXkDij4xaupVtschJ7_tFFN5n19-Nes"
-            },
-            {
-              "name": "પ્રકરણ 2 - ભારતનો સાંસ્કૃતિક વારસો : પરંપરાઓ : હસ્ત અને લલિતકલા",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Y5uEJpfgiIAgfeJ_Aas-Q-wQPNPhvPUX"
-            },
-            {
-              "name": "પ્રકરણ 3 - ભારતનો સાંસ્કૃતિક વારસો : શિલ્પ અને સ્થાપત્ય",
-              "pdf": "https://drive.google.com/uc?export=view&id=1ER66898JdzecGAy9hvSqbNZc7MfBEzU4"
-            },
-            {
-              "name": "પ્રકરણ 4 - ભારતનો સાહિત્યિક વારસો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Jw3l_J-U510DNXQuf8qolGJ0yvQgjb_O"
-            },
-            {
-              "name": "પ્રકરણ 5 - ભારતનો વિજ્ઞાન અને ટેક્નોલોજીનો વારસો",
-              "pdf": "https://drive.google.com/uc?export=view&id=164tdjAtBdCMd5fAMu9SeRXkptacM1mUM"
-            },
-            {
-              "name": "પ્રકરણ 6 - ભારતના સાંસ્કૃતિક વરસના સ્થળો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1oaEifhP61TtzoA8flGSiWy6x_YbOhU5e"
-            },
-            {
-              "name": "પ્રકરણ 7 - આપણા વારસાનું જતન",
-              "pdf": "https://drive.google.com/uc?export=view&id=1N73QZqp6n1fOqQJgPjlbMmx16aEPzvZJ"
-            },
-            {
-              "name": "પ્રકરણ 8 - કુદરતી સંસાધનો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1XXuSD11c5nIGtnpGnQB-DWCF76A8diG1"
-            },
-            {
-              "name": "પ્રકરણ 9 - વન અને વન્યજીવ સંસાધન",
-              "pdf": "https://drive.google.com/uc?export=view&id=1o0677XAs4S2iQeDFLNa5CjRPvOlzMs8F"
-            },
-            {
-              "name": "પ્રકરણ 10 - ભારત : કૃષિ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1lLwnP9qaPXsGYGgYPAd75ZgYL7mciUej"
-            },
-            {
-              "name": "પ્રકરણ 11 - ભારત : જળ સંસાધન",
-              "pdf": "https://drive.google.com/uc?export=view&id=1CImqERtEXvuP8Pi6fctCRTPrJEwJi0L-"
-            },
-            {
-              "name": "પ્રકરણ 12 - ભારત : ખનિજ અને શક્તિના સંસાધનો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1QaM4SvIiUckDberJSIPxNboXVEHEcE1u"
-            },
-            {
-              "name": "પ્રકરણ 13 - ઉત્પાદન ઉદ્યોગો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1gEJ0hmxUyTMHEqt7bATvA0zyeihTDEWg"
-            },
-            {
-              "name": "પ્રકરણ 14 - પરિવહન, સંદેશાવ્યવહાર અને વ્યાપાર",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Y30pmYri6GtkKi9CEF26ff9x58LnMbC5"
-            },
-            {
-              "name": "પ્રકરણ 15 - આર્થિક વિકાસ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1rzpTXXSwIutcT7k4sBLXN5fbthiV56Yb"
-            },
-            {
-              "name": "પ્રકરણ 16 - આર્થિક ઉદારીકરણ અને વૈશ્વિકીકરણ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1DVsHV05vE2K_Ei9i6yacgstM7pmBKnw8"
-            },
-            {
-              "name": "પ્રકરણ 17 - આર્થિક સમસ્યાઓ અને પડકારો : ગરીબી અને બેરોજગારી",
-              "pdf": "https://drive.google.com/uc?export=view&id=1-okTOweyDaa7MRK1Fzek-eWNmGdGif5h"
-            },
-            {
-              "name": "પ્રકરણ 18 - ભાવવધારો અને ગ્રાહક જાગૃતિ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1R7XKruRkFp_3PJ63t7aes78XxMcj5uUr"
-            },
-            {
-              "name": "પ્રકરણ 19 - માનવ વિકાસ",
-              "pdf": "https://drive.google.com/uc?export=view&id=12ScXyg9otdxelhQJ06Cue-oFR26lK9Zg"
-            },
-            {
-              "name": "પ્રકરણ 20 - ભારતની સામાજિક સમસ્યાઓ અને પડકારો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1mi91e7Bfwrk92NafbV3qGZiWWbXugtIW"
-            },
-            {
-              "name": "પ્રકરણ 21 - સામાજિક પરિવર્તન",
-              "pdf": "https://drive.google.com/uc?export=view&id=1UD374BhmI4HrrImR84yKjVfxH7lFoHys"
-            }
-          ]
-        },
-        {
-          "id": "4",
-          "eName": "Hindi",
-          "gName": "હિન્દી",
-          "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg",
-          "paper": [
-            {
-              "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            }
-          ],
-          "books": [
-            {
-              "name": "પ્રકરણ 1 - प्रभुजी तुम चंदन हम पानी",
-              "pdf": "https://drive.google.com/uc?export=view&id=1v16kZs2r2f7mWN8RTYgjl40-WkXRWsF5"
-            },
-            {
-              "name": "પ્રકરણ 2 - बूढ़ी काकी",
-              "pdf": "https://drive.google.com/uc?export=view&id=16Am0vsQFZUh90cs8gJrPtjjN9Vj_P-BV"
-            },
-            {
-              "name": "પ્રકરણ 3 - सवैये",
-              "pdf": "https://drive.google.com/uc?export=view&id=1iz1OjZooeW42LLtrvLFLJvgMz7n3dv8u"
-            },
-            {
-              "name": "પ્રકરણ 4 - एक प्रश्न : चार उत्तर",
-              "pdf": "https://drive.google.com/uc?export=view&id=1leukTiyopiuyyFZGKkiqbzvPrJPiaK9J"
-            },
-            {
-              "name": "પ્રકરણ 5 - मीरा के पद",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Kd_8wu8llxcikHJyBhN6jic1qx0snywB"
-            },
-            {
-              "name": "પ્રકરણ 6 - कालिदास का प्राणीप्रेम",
-              "pdf": "https://drive.google.com/uc?export=view&id=1XAcvQ63DxYtaw3uQ7fZ6xNRhcyrPj0G7"
-            },
-            {
-              "name": "પ્રકરણ 7 - जन्मभूमि",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Myrw4skf-YRK6o4PwtSyb5Z-HZxTzdV2"
-            },
-            {
-              "name": "પ્રકરણ 8 - सुधामूर्ति",
-              "pdf": "https://drive.google.com/uc?export=view&id=1ECpaRwXYSAgkeK11mf-kUSF5laRQXCy8"
-            },
-            {
-              "name": "પ્રકરણ 9 - कुत्ते की सीख",
-              "pdf": "https://drive.google.com/uc?export=view&id=1JTXlb1KaH_6taJuIZg58WN2zH3dqYOs2"
-            },
-            {
-              "name": "પ્રકરણ 10 - जीने की कला",
-              "pdf": "https://drive.google.com/uc?export=view&id=1zSRDJ1NIsbye46FPPYSX_CecY7qK6ewv"
-            },
-            {
-              "name": "પ્રકરણ 11 - भारतवर्ष हमारा है",
-              "pdf": "https://drive.google.com/uc?export=view&id=1_BTtGqo9Ew8oHmmQyPa0vvq_6mO08pMF"
-            },
-            {
-              "name": "પ્રકરણ 12 - एक नई शुरुआत",
-              "pdf": "https://drive.google.com/uc?export=view&id=1NhZKu-IdE5yBmRt5BiWUgBLQV57Udmhn"
-            },
-            {
-              "name": "પ્રકરણ 13 - साधूपदेश",
-              "pdf": "https://drive.google.com/uc?export=view&id=18nEqLTez6WtiqSWye1TDA8WBJW_wF62N"
-            },
-            {
-              "name": "પ્રકરણ 14 - मेरी माँ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1h1ylUhV28SBzFTrnyIpLOYbwvt--iGBh"
-            },
-            {
-              "name": "પ્રકરણ 15 - हे जनशक्ति महान !",
-              "pdf": "https://drive.google.com/uc?export=view&id=13SRQvzeyPENFmBKPsFxr9mFFMy-gdMy4"
-            },
-            {
-              "name": "પ્રકરણ 16 - चोरी",
-              "pdf": "https://drive.google.com/uc?export=view&id=1QgVWx_mFHQfSFDp2L8EGcHvdUcJ2rf3q"
-            },
-            {
-              "name": "પ્રકરણ 17 - कश्मीर",
-              "pdf": "https://drive.google.com/uc?export=view&id=1CIjFvSDJTh2f61-ZaGeDwWjqZP3tFHWl"
-            },
-            {
-              "name": "પ્રકરણ 18 - रचना",
-              "pdf": "https://drive.google.com/uc?export=view&id=1YYjJYn8vRtLwLmCxPJRJW8RIDcfzj_3w"
-            },
-            {
-              "name": "પ્રકરણ 19 - तोता और इन्द्र",
-              "pdf": "https://drive.google.com/uc?export=view&id=1OyRRIqcAywHZJPUf9MDC7JVSACTSTTn6"
-            },
-            {
-              "name": "પ્રકરણ 20 - अलबम",
-              "pdf": "https://drive.google.com/uc?export=view&id=1G-zor0yfPADRUnhTkiKbFFXKWzmMV_h2"
-            },
-            {
-              "name": "પ્રકરણ 21 - पहेलियाँ-मुकरियाँ",
-              "pdf": "https://drive.google.com/uc?export=view&id=144n359LOa6tkEBwp3Q58fUDq2ZTC0yYN"
-            },
-            {
-              "name": "પ્રકરણ 22 - भीतरी समृद्धि",
-              "pdf": "https://drive.google.com/uc?export=view&id=1O8DNnH2YM00i5b24I7dNU_Wz60dNMZsc"
-            },
-            {
-              "name": "પ્રકરણ 23 - भूख",
-              "pdf": "https://drive.google.com/uc?export=view&id=10syTpuhG1wpTYpa744nsy4fj-l0QMMC1"
-            }
-          ]
-        },
-        {
-          "id": "5",
-          "eName": "English",
-          "gName": "અંગ્રેજી",
-          "image": "https://i.stack.imgur.com/0ASXA.jpg",
-          "paper": [
-            {
-              "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            }
-          ],
-          "books": [
-            {
-              "name": "Chapter 1 - Against the Odds",
-              "pdf": "https://drive.google.com/uc?export=view&id=1pYZJZRT4hOXwlGnzEH7GVkrw8sn6idD5"
-            },
-            {
-              "name": "Chapter 2 - The Human Robot",
-              "pdf": "https://drive.google.com/uc?export=view&id=1qlDXwg6FzJ_dABgTm8tyHFokVMhRXCfK"
-            },
-            {
-              "name": "Chapter 3 - An Interview with Arun Krishnamurthy",
-              "pdf": "https://drive.google.com/uc?export=view&id=1MswDlr33a9KC66azCbTxFrNNyqB9KHKH"
-            },
-            {
-              "name": "Chapter 4 - A Wonderful Creation",
-              "pdf": "https://drive.google.com/uc?export=view&id=1GrGw4NTAlDEuLcEludJ0IlR0UL3bGdiB"
-            },
-            {
-              "name": "Chapter 5 - Playing with Fire",
-              "pdf": "https://drive.google.com/uc?export=view&id=1MwOcU62rN8F_rYplJTSTHv6UtNkEr83Q"
-            },
-            {
-              "name": "Chapter 6 - I Love You, Teacher",
-              "pdf": "https://drive.google.com/uc?export=view&id=1nM4Bt1dh7sskwMShPUvbwwtsc_6mDgY9"
-            },
-            {
-              "name": "Chapter 7 - Kach & Devayani",
-              "pdf": "https://drive.google.com/uc?export=view&id=1AHLu5VpYCLA2ccU4zqMOuYUqOPN2dOfX"
-            },
-            {
-              "name": "Chapter 8 - Our Feathered Friends",
-              "pdf": "https://drive.google.com/uc?export=view&id=1QYXvmPpviip6wnKcYAeGui60suWZgpaa"
-            },
-            {
-              "name": "Chapter 9 - Tune up O Teens",
-              "pdf": "https://drive.google.com/uc?export=view&id=1nzL7rqJFFu9o2Ge0L7YSlNgH_SnrXWKp"
-            },
-            {
-              "name": "Chapter 10 - A Test of True Love",
-              "pdf": "https://drive.google.com/uc?export=view&id=1LKRC43Xrve1dQfnBDtIuBTn8Cj0ihFlA"
-            },
-            {
-              "name": "Poem 1 - My Song",
-              "pdf": "https://drive.google.com/uc?export=view&id=1GlKxoKC4lk8zRB8rpasZyDL02j_wpiOr"
-            },
-            {
-              "name": "Poem 2 - Pencil",
-              "pdf": "https://drive.google.com/uc?export=view&id=1jskUskq90TYe7GRXDmwVpvoQJGnEqSgx"
-            },
-            {
-              "name": "Poem 3 - Growing",
-              "pdf": "https://drive.google.com/uc?export=view&id=13ZGtCDUslKe80YimZLlPd8IWh1uYvBcK"
-            },
-            {
-              "name": "Poem 4 - Vanila Twilight",
-              "pdf": "https://drive.google.com/uc?export=view&id=1CbR9OHbFWQrlPGP6NVJDpR3qVi8KIEG1"
-            }
-          ]
-        },
-        {
-          "id": "6",
-          "eName": "Gujarati",
-          "gName": "ગુજરાતી",
-          "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/04/Gradient-Featured-Image-03.jpg?w=960&h=600&crop=1",
-          "paper": [
-            {
-              "id": "1",
-              "name": "F.L Gujarati",
-              "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(July-2018)-01(Guj%20F.L)Gujarati(%2010th%20Guj%20MED).pdf"
-            },
-            {
-              "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            }
-          ],
-          "books": [
-            {
-              "name": "પ્રકરણ 1 - વૈષ્ણવજન",
-              "pdf": "https://drive.google.com/uc?export=view&id=1pMc_RoiA7hNrWWjFc1HuKM8VXLGzoAtt"
-            },
-            {
-              "name": "પ્રકરણ 2 - રેસનો ઘોડો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1l3EFLYIERzW3Vq9uEEAmdDWSlRQTpYnz"
-            },
-            {
-              "name": "પ્રકરણ 3 - શીલવંત સાધુને",
-              "pdf": "https://drive.google.com/uc?export=view&id=148LYrOBWydutafy5tvDOYRPcCPe-gzQF"
-            },
-            {
-              "name": "પ્રકરણ 4 - ભૂલી ગયા પછી",
-              "pdf": "https://drive.google.com/uc?export=view&id=1FbRBHV3uz-1XmXTcn8e2dJiBFKf1Clf7"
-            },
-            {
-              "name": "વ્યાકરણ : એકમ - 1 ધ્વનિશ્રેણી, જોડણી, સંધિ, સમાસ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1iUvTLmwuar87AsvRp8bXDXhDV6fe17MD"
-            },
-            {
-              "name": "પ્રકરણ 5 - દીકરી",
-              "pdf": "https://drive.google.com/uc?export=view&id=1-WTS6j_vgb8hg0vCwuDa8xGymjcQeGRw"
-            },
-            {
-              "name": "પ્રકરણ 6 - વાઇરલ ઈન્ફેક્શન",
-              "pdf": "https://drive.google.com/uc?export=view&id=18_fyln2SusQq0yCCH6F0mYtF3a8xY92G"
-            },
-            {
-              "name": "પ્રકરણ 7 - હું એવો ગુજરાતી",
-              "pdf": "https://drive.google.com/uc?export=view&id=1X-KwIJrjKJmOk00d6MR8D3fC6NaWDuQT"
-            },
-            {
-              "name": "પ્રકરણ 8 - છત્રી",
-              "pdf": "https://drive.google.com/uc?export=view&id=1mfM4IjdZi7f284sis5OTRb4l8Datfqpq"
-            },
-            {
-              "name": "વ્યાકરણ : એકમ - 2 સંજ્ઞા, વિશેષણ, ક્રિયાવિશેષણ અને તેના પ્રકારો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1SDZNnG20NXEEnqR701CuSsKHTZGfn3Jn"
-            },
-            {
-              "name": "પ્રકરણ 9 - માધવને દીઠો છે ક્યાંય?",
-              "pdf": "https://drive.google.com/uc?export=view&id=1694bJB__B5hTznlEBxg2SLs3ARbPweX7"
-            },
-            {
-              "name": "પ્રકરણ 10 - ડાંગવનો અને...",
-              "pdf": "https://drive.google.com/uc?export=view&id=19fhm9Kq6pfzPeNVJG11XU7H2HIzp9kcI"
-            },
-            {
-              "name": "પ્રકરણ 11 - શિકારીને",
-              "pdf": "https://drive.google.com/uc?export=view&id=1TG8gL7qLLlhk28hQ7N2wSMg2aiCXZXFe"
-            },
-            {
-              "name": "પ્રકરણ 12 - ચોપડાની ઇન્દ્રજાળ",
-              "pdf": "https://drive.google.com/uc?export=view&id=13qTOrZPowuT_w19E5esNtJUjT9VFsw8v"
-            },
-            {
-              "name": "વ્યાકરણ : એકમ - 3 વાકયપ્રકાર: કર્તરિ, કર્મણિ, ભાવે અને પ્રેરક; વાકયરૂપાંતર",
-              "pdf": "https://drive.google.com/uc?export=view&id=11iZZ11WFH3Xl60tcaQxD7pf2MuHU7NtT"
-            },
-            {
-              "name": "પ્રકરણ 13 - વતનથી વિદાય થતાં",
-              "pdf": "https://drive.google.com/uc?export=view&id=11nSdHG69_Wd1HI3YX0EuvFoCjrDUifAI"
-            },
-            {
-              "name": "પ્રકરણ 14 - જન્મોત્સવ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1rdoXyuouZ9vvQMH24RMOLjP2mqDwLnpK"
-            },
-            {
-              "name": "પ્રકરણ 15 - બોલીએ ના કાંઈ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1lhuXNQkZw8dHbGj4RChIANdHibAgiS4A"
-            },
-            {
-              "name": "પ્રકરણ 16 - ગતિભંગ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1iWJTZHBJH9LlyYZE1_K0wu9GgbG2nOim"
-            },
-            {
-              "name": "વ્યાકરણ : એકમ - 4 અલંકાર",
-              "pdf": "https://drive.google.com/uc?export=view&id=12X4Qfayi4i-wKXUrbSqFk1I478iaMbl7"
-            },
-            {
-              "name": "પ્રકરણ 17 - દિવસો જુદાઈના જાય છે",
-              "pdf": "https://drive.google.com/uc?export=view&id=16UheLDBEsnauwP8vX5Q002YPBRYDx0p7"
-            },
-            {
-              "name": "પ્રકરણ 18 - ભૂખથીય ભૂંડી ભીખ",
-              "pdf": "https://drive.google.com/uc?export=view&id=16AqJz7nZGch04g_zXk9bWiXk5khH95Wy"
-            },
-            {
-              "name": "પ્રકરણ 19 - એક બપોરે",
-              "pdf": "https://drive.google.com/uc?export=view&id=1HgFqA1GSFeVN5ggVq-8KsMcrjL7tmxiE"
-            },
-            {
-              "name": "પ્રકરણ 20 - વિરલ વિભૂતિ",
-              "pdf": "https://drive.google.com/uc?export=view&id=17o6h_jK3tj9TQCZQx3bL6AhIxhMwIqRh"
-            },
-            {
-              "name": "વ્યાકરણ : એકમ - 5 છંદ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1zHPFtfVQn_AzQ2StZqEnad4zWO5K-dkx"
-            },
-            {
-              "name": "પ્રકરણ 21 - ચાંદલિયો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1uMmoGZ8aLXcTbDdEPj_or5ul4r_B0AZc"
-            },
-            {
-              "name": "પ્રકરણ 22 - હિમાલયમાં એક સાહસ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Ij2gFb7FODxrj8Je3QIGLbQw05hIi79k"
-            },
-            {
-              "name": "પ્રકરણ 23 - લઘુકાવ્યો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1iShF90wMrNQ6zFV-pHc0-Wz7sy1wfsFH"
-            },
-            {
-              "name": "પ્રકરણ 24 - ઘોડીની સ્વામીભક્તિ",
-              "pdf": "https://drive.google.com/uc?export=view&id=14gHFrYH48KpfjfyucHMtJ_gC9ng7HnC9"
-            },
-            {
-              "name": "વ્યાકરણ : એકમ - 6 લેખનકૌશલ: અર્થવિસ્તાર, અહેવાલલેખન, સંક્ષેપીકરણ, નિબંધ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1kg4ZEtRggqVX-2IZVjpcHQQPf43ZFh87"
-            },
-            {
-              "name": "પૂરક વાચન 1 - બહાદુર બાળકો",
-              "pdf": "https://drive.google.com/uc?export=view&id=179z_CZAaveGj_0ei954vhEm9tKgNv9dT"
-            },
-            {
-              "name": "પૂરક વાચન 2 - નદીવિયોગ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1nQ71vHKeWmRhkzHy22PkvuZLRXEZ3NY5"
-            },
-            {
-              "name": "પૂરક વાચન 3 - તારે પગલે",
-              "pdf": "https://drive.google.com/uc?export=view&id=1E6s2VJmxOaM8ut0M08cTIf1JX7a_lQ6g"
-            },
-            {
-              "name": "પૂરક વાચન 4 - મારી બા",
-              "pdf": "https://drive.google.com/uc?export=view&id=1fvbynDgzUZkptiFg88nR-GvuAtl8wH3O"
-            },
-            {
-              "name": "પૂરક વાચન 5 - વીરભૂમિ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1l2bRBRKZjx5gf1UD6Kml2L0LwE7hzIzZ"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2",
-      "backImage": "https://img.freepik.com/free-vector/abstract-classic-blue-background-design_23-2148437740.jpg",
-      "name": "11 Class Commerce",
-      "image": "https://cdn3d.iconscout.com/3d/premium/thumb/copywriting-4621022-3839981.png",
-      "sub": [
-        {
-          "id": "1",
-          "eName": "Economics",
-          "gName": "અર્થશાસ્ત્ર",
-          "image": "https://t3.ftcdn.net/jpg/03/23/85/24/360_F_323852446_IJaIt5k1EiiYmfwKc5puBlxn8GVMrF2z.jpg",
-          "paper": [
-            {
-              "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            }
-          ],
-          "books": [
-            {
-              "name": "પ્રકરણ 1 અર્થશાસ્ત્ર : વિષય પ્રવેશ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1D3kYvwKmMVA2mwkyfb6VhgfOOWmdeEq3"
-            },
-            {
-              "name": "પ્રકરણ 2. મૂળભૂત ખ્યાલો અને સંકલ્પનાઓ",
-              "pdf": "https://drive.google.com/uc?export=view&id=15lSbJHf9_heHfrdLm8IU7Rp2KKQJM_Za"
-            },
-            {
-              "name": "પ્રકરણ ૩. માંગ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1VhmTQ7XZASz0mO9VhnMq3EpZjNxa4OeD"
-            },
-            {
-              "name": "પ્રકરણ 4. પુરવઠો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1LQCg2nkSdvu0XSdaU-3JDxVZqQmkTWWg"
-            },
-            {
-              "name": "પ્રકરણ 5. આવક અને ખર્ચના ખ્યાલો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Vjwp1ZAwCLUlZdnL0aZcuPuGg0eqY8Ec"
-            },
-            {
-              "name": "પ્રકરણ 6. બજાર",
-              "pdf": "https://drive.google.com/uc?export=view&id=1hvY94-tDgVhRVKDTaGVrUkBqCwa0BuI6"
-            },
-            {
-              "name": "પપ્રકરણ 7. ભારતીય અર્થતંત્ર",
-              "pdf": "https://drive.google.com/uc?export=view&id=1f84xbZrO2tHn_5xRN33TzJ-wpYXVvaGi"
-            },
-            {
-              "name": "પપ્રકરણ 8. આર્થિક સુધારાઓ",
-              "pdf": "https://drive.google.com/uc?export=view&id=16Zd5XqsGySdxw-GSK9G8Ftm9IW5Kwte7"
-            },
-            {
-              "name": "પ્રકરણ 9. રાષ્ટ્રીય આવક",
-              "pdf": "https://drive.google.com/uc?export=view&id=1V2DaoiqLolQz-SQFnBjWn_FXglgCwHdU"
-            },
-            {
-              "name": "પ્રકરણ 10. અંદાજપત્ર",
-              "pdf": "https://drive.google.com/uc?export=view&id=1rYGDwaPBRVdu4tGrot9CdSTz4S5bQQEy"
-            },
-            {
-              "name": "પ્રકરણ 11. આર્થિક વિચારો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1a047zT1v8AgoKZhFE1OsCIBZMRu4i13s"
-            }
-          ]
-        },
-        {
-          "id": "2",
-          "eName": "Business Studies",
-          "gName": "ધંધાકીય ભણતર",
-          "image": "https://www.emeraldgrouppublishing.com/sites/default/files/image/MicrosoftTeams-image%20%2821%29_0.png.jpg",
-          "paper": [
-            {
-              "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            }
-          ],
-          "books": [
-            {
-              "name": "પ્રકરણ 1 ધંધાનું સ્વરૂપ, હેતુ અને કાર્યક્ષેત્ર",
-              "pdf": "https://drive.google.com/uc?export=view&id=1QaNm2p0G4Q-Fq8hXuzEvOqC8V5xxArWd"
-            },
-            {
-              "name": "પ્રકરણ 2. ધંધાકીય સેવાઓ-1",
-              "pdf": "https://drive.google.com/uc?export=view&id=1jtdUCeSoqzbDA3-Zt9_ZZU3u0FWwmbW2"
-            },
-            {
-              "name": "પ્રકરણ ૩. ધંધાકીય સેવાઓ-2",
-              "pdf": "https://drive.google.com/uc?export=view&id=1kjPTJ98gvl4uiUtMQSdEsGB-bkX4YIYT"
-            },
-            {
-              "name": "પ્રકરણ 4. માહિતીસંચાર, ઈ-કૉમર્સ અને આઉટસોર્સિંગ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1LA0Kb2Fcc7b3zxOC_fOxgv9K4pu9J8MZ"
-            },
-            {
-              "name": "પ્રકરણ 5. ધંધાકીય વ્યવસ્થાનાં સ્વરૂપો-1",
-              "pdf": "https://drive.google.com/uc?export=view&id=1sQke38XwwrD76WOjrXdNN7wQakKbcFLm"
-            },
-            {
-              "name": "પ્રકરણ 6. ધંધાકીય વ્યવસ્થાનાં સ્વરૂપો-2",
-              "pdf": "https://drive.google.com/uc?export=view&id=1-SEj06UZ6eOjqZkuwyeQ4y8-p8KecGi3"
-            },
-            {
-              "name": "પપ્રકરણ 7. જાહેરક્ષેત્ર, ખાનગીક્ષેત્ર અને વૈશ્વિક સાહસો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1SLI2od_rZwDnRsCzpohPFJl17F9-vx_D"
-            },
-            {
-              "name": "પપ્રકરણ 8. તધંધાકીય મૂડીનાં પ્રાપ્તિસ્થાનો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1TWXq-hMtMtQQAT1b_XaTaFsRygfb01RB"
-            },
-            {
-              "name": "પ્રકરણ 9. આંતરિક વેપાર",
-              "pdf": "https://drive.google.com/uc?export=view&id=1mh-qTTr2e8WQpA9fL5AwySAuLFV3oJmc"
-            },
-            {
-              "name": "પ્રકરણ 10. આંતરરાષ્ટ્રીય વેપાર",
-              "pdf": "https://drive.google.com/uc?export=view&id=1DW9MOkAm5VWhXAtef7j2fPT4rBAcaXWV"
-            },
-            {
-              "name": "પ્રકરણ 11. ધંધાની સામાજિક જવાબદારી",
-              "pdf": "https://drive.google.com/uc?export=view&id=1G9rq2y_CVdJmgFef3FgmoogrkVyBS92q"
-            }
-          ]
-        },
-        {
-          "id": "3",
-          "eName": "Accountancy Part",
-          "gName": "એકાઉન્ટન્સી",
-          "image": "https://www.pngmagic.com/product_images/yellow-orange-gradient-vector-background.jpg",
-          "paper": [
-            {
-              "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            }
-          ],
-          "books": [
-            {
-              "name": "પ્રકરણ 1 - હિસાબીપદ્ધતિ અને તેના પારિભાષિક શબ્દો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1_XBS5UGBflLhB-NtCeNDL-xV1TwH0lJK"
-            },
-            {
-              "name": "પ્રકરણ 2 - વ્યવહારોની દ્વિ-અસર અને ખાતાનાં પ્રકાર",
-              "pdf": "https://drive.google.com/uc?export=view&id=1188-M0_pKUEsXgC0kj719XW8AX6zYzDc"
-            },
-            {
-              "name": "પપ્રકરણ 3 - વસ્તુઓ અને સેવાઓ કર : પરિચય",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Uj1TJJ4AP5Inxydi10T7cdVcFp-gH5BO"
-            },
-            {
-              "name": "પ્રકરણ 4 - આમનોંધ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1_RxoMTEVbSlEgMYGxLkxQF4JbigIxRoD"
-            },
-            {
-              "name": "પ્રકરણ 5 - હિસાબી સમીકરણ અને ધંધાના વ્યવહારો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1njdYIWP2AIJJFjWgMzxPieXF5YVRrTsr"
-            },
-            {
-              "name": "પ્રકરણ 6 - પેટાનોંધો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1CbeyHUWnmtH-hW5UkDU5OagVCtlCFV0_"
-            },
-            {
-              "name": "પ્રકરણ 7 - રોકડમેળ અને તેના પ્રકારો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1h4xazLUAoHG2aUJafi_aDGtvY3tLw6xi"
-            },
-            {
-              "name": "પ્રકરણ 8 - ખાસ આમનોંધ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1LiiPbe7EiRB-9FuWKpj97sfpHd_iwXOB"
-            },
-            {
-              "name": "પ્રકરણ 9 - ખાતાવહી-ખતવણી",
-              "pdf": "https://drive.google.com/uc?export=view&id=1aTqP5_fmgEfOEG7CnYK1b95lm_voV4mD"
-            },
-            {
-              "name": "પ્રકરણ 10 - કાચું સરવૈયું",
-              "pdf": "https://drive.google.com/uc?export=view&id=1fqAjs4MvqLCpFhNYumoWHm-qPz8T4g5v"
-            },
-            {
-              "name": "પ્રકરણ 11 - બૅન્ક સિલકમેળ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Q-ety-e9vA-In0jEGJh8XvcCADn8QRtw"
-            },
-            {
-              "name": "પ્રકરણ 1 - ભૂલ-સુધારણા",
-              "pdf": "https://drive.google.com/uc?export=view&id=1OPFETXy49dxNjK228zO9Glr-5LsGu4ZL"
-            },
-            {
-              "name": "પ્રકરણ 2 - ઘસારાના હિસાબો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1a5uwPhMn4JAsfVLFyHMprBm46zXRii4v"
-            },
-            {
-              "name": "પ્રકરણ 3 - જોગવાઇઓ અને અનામતો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1oaQOBU8GcBhA4PZtXSoqewoGR-nqzH8t"
-            },
-            {
-              "name": "પ્રકરણ 4 - હૂંડીઓ",
-              "pdf": "https://drive.google.com/uc?export=view&id=11636b8R19rwKeQXV5t7DuSxYn0n1Y6HE"
-            },
-            {
-              "name": "પ્રકરણ 5 - ધંધાકીય એકમોના નાણાકીય (હિસાબી) પત્રકો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1X3AVGkKrXQ4ICfB8rr_vmwMtJ4a2dZhR"
-            },
-            {
-              "name": "પ્રકરણ 6 - હિસાબીપદ્ધતિની પ્રણાલિકાઓ-ધારણાઓ, ખ્યાલો અને સિદ્ધાંતો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1mqU58RPz1tljMlAZRMNHcCIq5C7zKko3"
-            },
-            {
-              "name": "પ્રકરણ 7 - હિસાબી ધોરણો : ખ્યાલ અને ઉદ્દેશો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1DLk74wPswrdwtz9TT_AtwLVR7-lyyDNM"
-            },
-            {
-              "name": "પ્રકરણ 8 - દેશી નામાપદ્ધતિ : પરિચય",
-              "pdf": "https://drive.google.com/uc?export=view&id=1NJUkJIh3FnHSiftlNsXXAEDbO307uShw"
-            },
-            {
-              "name": "પ્રકરણ 9 - બિનવેપારી સંસ્થાના હિસાબો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Kl6rXRtNv5vF3UzHn17rPKRCS8XqdtM7"
-            },
-            {
-              "name": "પ્રકરણ 10 - અપૂર્ણ (અધૂરી) માહિતી પરથી હિસાબો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1QApH3VrWjmmdWYaIL9_q8zblzJUN1IBI"
-            },
-            {
-              "name": "પ્રકરણ 11 - હિસાબીપદ્ધતિ અને કમ્પ્યૂટર",
-              "pdf": "https://drive.google.com/uc?export=view&id=1DxGUBBO7_xf2nYRO7S454yRmwLBkaD7D"
-            }
-          ]
-        },
-        {
-          "id": "4",
-          "eName": "English",
-          "gName": "અંગ્રેજી",
-          "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg",
-          "paper": [
-            {
-              "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            }
-          ],
-          "books": [
-            {
-              "name": "UNIT 1",
-              "pdf": "https://drive.google.com/uc?export=view&id=1gq7vbwD2RflXkLHBbg63hThEkB9MJtGe"
-            },
-            {
-              "name": "UNIT 2",
-              "pdf": "https://drive.google.com/uc?export=view&id=1vp5Syku-vJDkGohsZuYi8GID2t7IxJ5J"
-            },
-            {
-              "name": "UNIT 3",
-              "pdf": "https://drive.google.com/uc?export=view&id=1St2TxNuH0CgvOV7SuL9BULO0oc3UvKB6"
-            },
-            {
-              "name": "UNIT 4",
-              "pdf": "https://drive.google.com/uc?export=view&id=19E2EyBa9SoTro5nq_SetyyRGNbippA1Q"
-            },
-            {
-              "name": "UNIT 5",
-              "pdf": "https://drive.google.com/uc?export=view&id=1hRBhJdRNFxqGleui0lKfd7ZTyigoNR36"
-            },
-            {
-              "name": "UNIT 6",
-              "pdf": "https://drive.google.com/uc?export=view&id=1pvYNTiGC5EnEY9cifVdbCLKRpupvSjoE"
-            },
-            {
-              "name": "UNIT 7",
-              "pdf": "https://drive.google.com/uc?export=view&id=1ZVG4e6hnAW_MjTGKcJbc0NFDGtz5IT71"
-            },
-            {
-              "name": "UNIT 8",
-              "pdf": "https://drive.google.com/uc?export=view&id=1275PitYYc9eyKx5dIpqT42QiR8TI80gL"
-            },
-            {
-              "name": "UNIT 9",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Wk4WS5iqXUg36yuTkW9nnfuhQ3Xgca_L"
-            },
-            {
-              "name": "UNIT 10",
-              "pdf": "https://drive.google.com/uc?export=view&id=13daqQ_1GelXqWJzMKH38poJuzaYAqg64"
-            }
-          ]
-        },
-        {
-          "id": "5",
-          "eName": "Statistics",
-          "gName": "આંકડા શાસ્ત્ર",
-          "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/04/Gradient-Featured-Image-03.jpg?w=960&h=600&crop=1",
-          "paper": [
-            {
-              "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            }
-          ],
-          "books": [
-            {
-              "name": "પ્રકરણ 1 - માહિતીનું એકત્રિકીકરણ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1KT74MVj1_RM8ZXtpehvWdhUVBkGjhVr0"
-            },
-            {
-              "name": "પ્રકરણ 2 - માહિતીનું નિરૂપણ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1OeydpZBMPNozEvfZI5HL4puAQCNiKMn6"
-            },
-            {
-              "name": "પ્રકરણ 3 - મધ્યવર્તી સ્થિતિનાં માપ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1_Y5gqanMwYkAojj3D6r4YZtDan5gM0g5"
-            },
-            {
-              "name": "પ્રકરણ 4 - પ્રસારમાન",
-              "pdf": "https://drive.google.com/uc?export=view&id=13vz5jle2FWagbD_EA1k-NGN_6tX4MLeJ"
-            },
-            {
-              "name": "પ્રકરણ 5 - આવૃત્તિ-વિતરણની વિષમતા",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Q7dHNLktrCp1Mm4pE-2WoBc6K-0g9rnm"
-            },
-            {
-              "name": "પ્રકરણ 6 - ક્રમચય, સંચય અને દ્વિપદી વિસ્તરણ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1ZykPgHONxcjYrOxNbh6P_wwVsnAQS8kI"
-            },
-            {
-              "name": "પ્રકરણ 7 - નિદર્શન પદ્ધતિઓ",
-              "pdf": "https://drive.google.com/uc?export=view&id=19xH8maR9ssqLAghykYIbxqA2Ci5R7-E0"
-            },
-            {
-              "name": "પ્રકરણ 8 - વિધેય",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Gb9j7UQqJvYJoDBDyq472ew3YCd6LZJf"
-            },
-            {
-              "name": "પ્રકરણ 9 - ગુણોત્તર-શ્રેણી",
-              "pdf": "https://drive.google.com/uc?export=view&id=1iIyOZl4zWHkZqDzNFTb4W074TbRXKEyZ"
-            }
-          ]
-        },
-        {
-          "id": "6",
-          "eName": "Gujarati",
-          "gName": "ગુજરાતી",
-          "image": "https://media.istockphoto.com/illustrations/dark-technology-wallpaper-art-abstract-blue-background-illustration-id1307733990?k=20&m=1307733990&s=612x612&w=0&h=xZXebk6U1ZDX1NEk1TRNN8-ZZf2E57K0gP2q6n0hjOk=",
-          "paper": [
-            {
-              "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            }
-          ],
-          "books": [
-            {
-              "name": "પ્રકરણ 1 નાવિક વળતો બોલિયો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1as6ZYwPIGmnUY3nqNH4YOxQRaSdgX10Y"
-            },
-            {
-              "name": "પ્રકરણ 2. પોસ્ટઑફિસ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Nm3sPBc5KvDuxlX1Ceh7rr95zfMj15Ys"
-            },
-            {
-              "name": "પ્રકરણ ૩. એમ ઉગાર્યો ચંદ્રહાસ",
-              "pdf": "https://drive.google.com/uc?export=view&id=13PszPrShqZLNdljofh-To5wOru4smq0k"
-            },
-            {
-              "name": "પ્રકરણ 4. અમૃતા",
-              "pdf": "https://drive.google.com/uc?export=view&id=14p7Rb1IWAmTLi7blEa3a54_d9NGt6A1C"
-            },
-            {
-              "name": "પ્રકરણ 5. છપ્પા/ઉખાણાં",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Na4SMD0hNQJuXG3CLIb049TQqt1MgSW9"
-            },
-            {
-              "name": "પ્રકરણ 6. સુંદરીની શોધ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1KZksKtQQjVc1wg-Ae-VCvzp5On0O-h6z"
-            },
-            {
-              "name": "પપ્રકરણ 7. વનમાં ચાંદલિયો ઊગ્યો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1WJH2otLXt58iGkME2LGuhINBfKl4sG_C"
-            },
-            {
-              "name": "પપ્રકરણ 8. બૂરાઈના દ્વાર પરથી",
-              "pdf": "https://drive.google.com/uc?export=view&id=1sFodaVk4QFD75M0Xr2ISqdrWA7jN2QKQ"
-            },
-            {
-              "name": "પ્રકરણ 9. ચક્રવામિથુન",
-              "pdf": "https://drive.google.com/uc?export=view&id=1lF6MQv3k7w7KIDwZCZZ5vvqdMS5UIjPl"
-            },
-            {
-              "name": "પ્રકરણ 10. જીભ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1hZawrEE9-x1vlwuLvGAbyvVr0gK5vmVz"
-            },
-            {
-              "name": "પ્રકરણ 11. સીમ અને ઘર",
-              "pdf": "https://drive.google.com/uc?export=view&id=1KuoOFc1FMyJG2l5ywNTZlUR1_lKzPw87"
-            },
-            {
-              "name": "પ્રકરણ 12. પ્રસંગદીપ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1jqA3iiaFgozhHgR0_z-IvdH10uZ1Kd2J"
-            },
-            {
-              "name": "પ્રકરણ 13. પરાજયની જીત",
-              "pdf": "https://drive.google.com/uc?export=view&id=1u0eHIYy_Jtcu0fcFZ49Oo0WqyEDTpFTh"
-            },
-            {
-              "name": "પ્રકરણ 14. વાત એક શાપની",
-              "pdf": "https://drive.google.com/uc?export=view&id=1_wTtu93o1UoHWVDI_KaFun2ecXH2bBUg"
-            },
-            {
-              "name": "પ્રકરણ 15. મારા ફળીનાં ઝાડવાં બે...",
-              "pdf": "https://drive.google.com/uc?export=view&id=1lqIDPM8YYe2bkAkONsCqyicCJBn0mpYL"
-            },
-            {
-              "name": "પ્રકરણ 16. તપસ્વી સારસ્વત",
-              "pdf": "https://drive.google.com/uc?export=view&id=1PQnJTDJx0l8Ts8SCPXgkcnk1XXXREIdN"
-            },
-            {
-              "name": "પ્રકરણ 17. ભજન કરે તે જીતે",
-              "pdf": "https://drive.google.com/uc?export=view&id=18x2YQnzmFzhBq5CrrMBrgtQSb9Mr662f"
-            },
-            {
-              "name": "પ્રકરણ 18. ભજન કરે તે જીતે",
-              "pdf": "https://drive.google.com/uc?export=view&id=1FHt3o9ysN9hm_TyLUdQg3QEpXGmmMjFe"
-            },
-            {
-              "name": "પ્રકરણ 19. કાવ્યદ્રયી",
-              "pdf": "https://drive.google.com/uc?export=view&id=11WTJuH_ieB9kY3tZ5rBz6axKJkk1aDDD"
-            },
-            {
-              "name": "પ્રકરણ 20. સ્ટેચ્યૂ રમવાની મઝા",
-              "pdf": "https://drive.google.com/uc?export=view&id=1wKpnl9v3U2Uz6zRN-aPCLDtF0cEtptLd"
-            },
-            {
-              "name": "પ્રકરણ 21. સ્ટેચ્યૂ રમવાની મઝા",
-              "pdf": "https://drive.google.com/uc?export=view&id=13ItVF1TSFqlaYrLLBWZ34R0Md-RV7f7s"
-            },
-            {
-              "name": "પ્રકરણ 22. જમાના પ્રમાણે",
-              "pdf": "https://drive.google.com/uc?export=view&id=17AtC8vN5dbSS9t5d6WsvX1IeHKnGsSwo"
-            },
-            {
-              "name": "પ્રકરણ 23. સહી નથી",
-              "pdf": "https://drive.google.com/uc?export=view&id=1dF3lMMBL7L6Ql9LZ7Ee8hAVWVm8Okeii"
-            },
-            {
-              "name": "પ્રકરણ 24. રેફરન્સ બુક",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Fk6boYwz7yHv_Tw2vM6qrbE7QIyJclBQ"
-            },
-            {
-              "name": "પ્રકરણ 25. દુહા, મુક્તક, હાઇકુ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1pbEZPo0a1Sr5LAbpwuTLvt567tKsUKZd"
-            },
-            {
-              "name": "પ્રકરણ 26. બે દૃષ્ટાંત કથાઓ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1TUdG7KA0hR6ZdZxZ4m9RCM03BCkwWj5z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "backImage": "https://c4.wallpaperflare.com/wallpaper/707/220/899/gradient-blue-pink-abstract-art-wallpaper-preview.jpg",
-      "name": "12 Class Commerce",
-      "image": "https://cdn3d.iconscout.com/3d/premium/thumb/hand-hold-marker-4363695-3640372.png",
-      "sub": [
-        {
-          "id": "1",
-          "eName": "Economics",
-          "gName": "અર્થશાસ્ત્ર",
-          "image": "https://t3.ftcdn.net/jpg/03/23/85/24/360_F_323852446_IJaIt5k1EiiYmfwKc5puBlxn8GVMrF2z.jpg",
-          "paper": [
-            {
-              "id": "1",
-              "name": "Eco - 2022 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1-B56xzCOtVcct_p4g1d4UTTu9VN3R1J1"
-            },
-            {
-              "id": "2",
-              "name": "Economics - 2022 July",
-              "pdf": "https://drive.google.com/uc?export=view&id=1ksprZ6MDPJ44Q7T7RK4OkxcpcM0ARDhm"
-            },
-            {
-              "id": "3",
-              "name": "Economics - 2020 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1c_H6wZnVHNJ-G7wyMcAEmQySFS0XxXlp"
-            },
-            {
-              "id": "4",
-              "name": "Economics - 2019 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1nkIT2EW1K1mSpd91j1kqBt6mkzO8LOmj"
-            },
-            {
-              "id": "5",
-              "name": "Economics - 2018 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1HI6Qf9_Qgp-lEpiJqcOFiU7JioHi4nA9"
-            },
-            {
-              "id": "6",
-              "name": "Economics - 2018 July",
-              "pdf": "https://drive.google.com/uc?export=view&id=1q3EpglZ5tl2vJ5ZKTwGlG55EA6NXL2ys"
-            }
-          ],
-          "books": [
-            {
-              "name": "પ્રકરણ 1 અર્થશાસ્ત્ર : વિષય પ્રવેશ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1D3kYvwKmMVA2mwkyfb6VhgfOOWmdeEq3"
-            },
-            {
-              "name": "પ્રકરણ 2. મૂળભૂત ખ્યાલો અને સંકલ્પનાઓ",
-              "pdf": "https://drive.google.com/uc?export=view&id=15lSbJHf9_heHfrdLm8IU7Rp2KKQJM_Za"
-            },
-            {
-              "name": "પ્રકરણ ૩. માંગ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1VhmTQ7XZASz0mO9VhnMq3EpZjNxa4OeD"
-            },
-            {
-              "name": "પ્રકરણ 4. પુરવઠો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1LQCg2nkSdvu0XSdaU-3JDxVZqQmkTWWg"
-            },
-            {
-              "name": "પ્રકરણ 5. આવક અને ખર્ચના ખ્યાલો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Vjwp1ZAwCLUlZdnL0aZcuPuGg0eqY8Ec"
-            },
-            {
-              "name": "પ્રકરણ 6. બજાર",
-              "pdf": "https://drive.google.com/uc?export=view&id=1hvY94-tDgVhRVKDTaGVrUkBqCwa0BuI6"
-            },
-            {
-              "name": "પપ્રકરણ 7. ભારતીય અર્થતંત્ર",
-              "pdf": "https://drive.google.com/uc?export=view&id=1f84xbZrO2tHn_5xRN33TzJ-wpYXVvaGi"
-            },
-            {
-              "name": "પપ્રકરણ 8. આર્થિક સુધારાઓ",
-              "pdf": "https://drive.google.com/uc?export=view&id=16Zd5XqsGySdxw-GSK9G8Ftm9IW5Kwte7"
-            },
-            {
-              "name": "પ્રકરણ 9. રાષ્ટ્રીય આવક",
-              "pdf": "https://drive.google.com/uc?export=view&id=1V2DaoiqLolQz-SQFnBjWn_FXglgCwHdU"
-            },
-            {
-              "name": "પ્રકરણ 10. અંદાજપત્ર",
-              "pdf": "https://drive.google.com/uc?export=view&id=1rYGDwaPBRVdu4tGrot9CdSTz4S5bQQEy"
-            },
-            {
-              "name": "પ્રકરણ 11. આર્થિક વિચારો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1a047zT1v8AgoKZhFE1OsCIBZMRu4i13s"
-            }
-          ]
-        },
-        {
-          "id": "2",
-          "eName": "Business Studies",
-          "gName": "ધંધાકીય ભણતર",
-          "image": "https://www.emeraldgrouppublishing.com/sites/default/files/image/MicrosoftTeams-image%20%2821%29_0.png.jpg",
-          "paper": [
-            {
-              "id": "1",
-              "name": "BA - 2018 July",
-              "pdf": "https://drive.google.com/uc?export=view&id=18DlVVEbuiye0EDsyh6S7rSt2iUf-1wmi"
-            },
-            {
-              "id": "2",
-              "name": "BA - 2018 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1INM_7kOZnSCejpnj5s47AfGMbyH1Gwnj"
-            },
-            {
-              "id": "3",
-              "name": "BA - 2019 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=10OubKAqYuK42f7oMvzAcmO80O_J__m8x"
-            },
-            {
-              "id": "4",
-              "name": "BA - 2020 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1bw9ibDZDqN6d_iQ1VKHrHNSv8acOb5QK"
-            },
-            {
-              "id": "5",
-              "name": "BA - 2022 July",
-              "pdf": "https://drive.google.com/uc?export=view&id=1-mw_r90y5ZS-_n-LLdJJP-fqKQItjqGd"
-            },
-            {
-              "id": "6",
-              "name": "BA - 2022 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1LQnbdumG7VyQDzy_W_RNAm8Cn3R0CBvE"
-            }
-          ],
-          "books": [
-            {
-              "name": "પ્રકરણ 1 ધંધાનું સ્વરૂપ, હેતુ અને કાર્યક્ષેત્ર",
-              "pdf": "https://drive.google.com/uc?export=view&id=1QaNm2p0G4Q-Fq8hXuzEvOqC8V5xxArWd"
-            },
-            {
-              "name": "પ્રકરણ 2. ધંધાકીય સેવાઓ-1",
-              "pdf": "https://drive.google.com/uc?export=view&id=1jtdUCeSoqzbDA3-Zt9_ZZU3u0FWwmbW2"
-            },
-            {
-              "name": "પ્રકરણ ૩. ધંધાકીય સેવાઓ-2",
-              "pdf": "https://drive.google.com/uc?export=view&id=1kjPTJ98gvl4uiUtMQSdEsGB-bkX4YIYT"
-            },
-            {
-              "name": "પ્રકરણ 4. માહિતીસંચાર, ઈ-કૉમર્સ અને આઉટસોર્સિંગ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1LA0Kb2Fcc7b3zxOC_fOxgv9K4pu9J8MZ"
-            },
-            {
-              "name": "પ્રકરણ 5. ધંધાકીય વ્યવસ્થાનાં સ્વરૂપો-1",
-              "pdf": "https://drive.google.com/uc?export=view&id=1sQke38XwwrD76WOjrXdNN7wQakKbcFLm"
-            },
-            {
-              "name": "પ્રકરણ 6. ધંધાકીય વ્યવસ્થાનાં સ્વરૂપો-2",
-              "pdf": "https://drive.google.com/uc?export=view&id=1-SEj06UZ6eOjqZkuwyeQ4y8-p8KecGi3"
-            },
-            {
-              "name": "પપ્રકરણ 7. જાહેરક્ષેત્ર, ખાનગીક્ષેત્ર અને વૈશ્વિક સાહસો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1SLI2od_rZwDnRsCzpohPFJl17F9-vx_D"
-            },
-            {
-              "name": "પપ્રકરણ 8. તધંધાકીય મૂડીનાં પ્રાપ્તિસ્થાનો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1TWXq-hMtMtQQAT1b_XaTaFsRygfb01RB"
-            },
-            {
-              "name": "પ્રકરણ 9. આંતરિક વેપાર",
-              "pdf": "https://drive.google.com/uc?export=view&id=1mh-qTTr2e8WQpA9fL5AwySAuLFV3oJmc"
-            },
-            {
-              "name": "પ્રકરણ 10. આંતરરાષ્ટ્રીય વેપાર",
-              "pdf": "https://drive.google.com/uc?export=view&id=1DW9MOkAm5VWhXAtef7j2fPT4rBAcaXWV"
-            },
-            {
-              "name": "પ્રકરણ 11. ધંધાની સામાજિક જવાબદારી",
-              "pdf": "https://drive.google.com/uc?export=view&id=1G9rq2y_CVdJmgFef3FgmoogrkVyBS92q"
-            }
-          ]
-        },
-        {
-          "id": "3",
-          "eName": "Accountancy Part",
-          "gName": "એકાઉન્ટન્સી",
-          "image": "https://www.pngmagic.com/product_images/yellow-orange-gradient-vector-background.jpg",
-          "paper": [
-            {
-              "id": "1",
-              "name": "Account - 2022 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1PfSg8xME4RlIIM6f8ijaYruCfNiUtYNs"
-            },
-            {
-              "id": "2",
-              "name": "Account - 2021 July",
-              "pdf": "https://drive.google.com/uc?export=view&id=1uN34jjgDgQBB37Af4FL5navcFc_O6as9"
-            },
-            {
-              "id": "3",
-              "name": "Account - 2020 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=14F3Be7jL-bUmRBKdHJ8Si0Z5EDDV0qxS"
-            },
-            {
-              "id": "4",
-              "name": "Account - 2019 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1IhzCLeR5CnCOMXOP6WTvlf6VGnJlsFQg"
-            },
-            {
-              "id": "5",
-              "name": "Account - 2018 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=10SGaTW4Hl9-AzYXjIcM9BXcSZHoqx33W"
-            },
-            {
-              "id": "6",
-              "name": "Account - 2018 July",
-              "pdf": "https://drive.google.com/uc?export=view&id=1_k_Iz8gas6tF-1mHDxBg45CNz3pvXBPY"
-            }
-          ],
-          "books": [
-            {
-              "name": "પ્રકરણ 1 - હિસાબીપદ્ધતિ અને તેના પારિભાષિક શબ્દો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1_XBS5UGBflLhB-NtCeNDL-xV1TwH0lJK"
-            },
-            {
-              "name": "પ્રકરણ 2 - વ્યવહારોની દ્વિ-અસર અને ખાતાનાં પ્રકાર",
-              "pdf": "https://drive.google.com/uc?export=view&id=1188-M0_pKUEsXgC0kj719XW8AX6zYzDc"
-            },
-            {
-              "name": "પપ્રકરણ 3 - વસ્તુઓ અને સેવાઓ કર : પરિચય",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Uj1TJJ4AP5Inxydi10T7cdVcFp-gH5BO"
-            },
-            {
-              "name": "પ્રકરણ 4 - આમનોંધ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1_RxoMTEVbSlEgMYGxLkxQF4JbigIxRoD"
-            },
-            {
-              "name": "પ્રકરણ 5 - હિસાબી સમીકરણ અને ધંધાના વ્યવહારો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1njdYIWP2AIJJFjWgMzxPieXF5YVRrTsr"
-            },
-            {
-              "name": "પ્રકરણ 6 - પેટાનોંધો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1CbeyHUWnmtH-hW5UkDU5OagVCtlCFV0_"
-            },
-            {
-              "name": "પ્રકરણ 7 - રોકડમેળ અને તેના પ્રકારો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1h4xazLUAoHG2aUJafi_aDGtvY3tLw6xi"
-            },
-            {
-              "name": "પ્રકરણ 8 - ખાસ આમનોંધ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1LiiPbe7EiRB-9FuWKpj97sfpHd_iwXOB"
-            },
-            {
-              "name": "પ્રકરણ 9 - ખાતાવહી-ખતવણી",
-              "pdf": "https://drive.google.com/uc?export=view&id=1aTqP5_fmgEfOEG7CnYK1b95lm_voV4mD"
-            },
-            {
-              "name": "પ્રકરણ 10 - કાચું સરવૈયું",
-              "pdf": "https://drive.google.com/uc?export=view&id=1fqAjs4MvqLCpFhNYumoWHm-qPz8T4g5v"
-            },
-            {
-              "name": "પ્રકરણ 11 - બૅન્ક સિલકમેળ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Q-ety-e9vA-In0jEGJh8XvcCADn8QRtw"
-            },
-            {
-              "name": "પ્રકરણ 1 - ભૂલ-સુધારણા",
-              "pdf": "https://drive.google.com/uc?export=view&id=1OPFETXy49dxNjK228zO9Glr-5LsGu4ZL"
-            },
-            {
-              "name": "પ્રકરણ 2 - ઘસારાના હિસાબો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1a5uwPhMn4JAsfVLFyHMprBm46zXRii4v"
-            },
-            {
-              "name": "પ્રકરણ 3 - જોગવાઇઓ અને અનામતો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1oaQOBU8GcBhA4PZtXSoqewoGR-nqzH8t"
-            },
-            {
-              "name": "પ્રકરણ 4 - હૂંડીઓ",
-              "pdf": "https://drive.google.com/uc?export=view&id=11636b8R19rwKeQXV5t7DuSxYn0n1Y6HE"
-            },
-            {
-              "name": "પ્રકરણ 5 - ધંધાકીય એકમોના નાણાકીય (હિસાબી) પત્રકો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1X3AVGkKrXQ4ICfB8rr_vmwMtJ4a2dZhR"
-            },
-            {
-              "name": "પ્રકરણ 6 - હિસાબીપદ્ધતિની પ્રણાલિકાઓ-ધારણાઓ, ખ્યાલો અને સિદ્ધાંતો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1mqU58RPz1tljMlAZRMNHcCIq5C7zKko3"
-            },
-            {
-              "name": "પ્રકરણ 7 - હિસાબી ધોરણો : ખ્યાલ અને ઉદ્દેશો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1DLk74wPswrdwtz9TT_AtwLVR7-lyyDNM"
-            },
-            {
-              "name": "પ્રકરણ 8 - દેશી નામાપદ્ધતિ : પરિચય",
-              "pdf": "https://drive.google.com/uc?export=view&id=1NJUkJIh3FnHSiftlNsXXAEDbO307uShw"
-            },
-            {
-              "name": "પ્રકરણ 9 - બિનવેપારી સંસ્થાના હિસાબો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Kl6rXRtNv5vF3UzHn17rPKRCS8XqdtM7"
-            },
-            {
-              "name": "પ્રકરણ 10 - અપૂર્ણ (અધૂરી) માહિતી પરથી હિસાબો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1QApH3VrWjmmdWYaIL9_q8zblzJUN1IBI"
-            },
-            {
-              "name": "પ્રકરણ 11 - હિસાબીપદ્ધતિ અને કમ્પ્યૂટર",
-              "pdf": "https://drive.google.com/uc?export=view&id=1DxGUBBO7_xf2nYRO7S454yRmwLBkaD7D"
-            }
-          ]
-        },
-        {
-          "id": "4",
-          "eName": "English",
-          "gName": "અંગ્રેજી",
-          "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg",
-          "paper": [
-            {
-              "id": "1",
-              "name": "English (SL) - 2022 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1-_hKKPcSf39y_D5CPl0cYvqaj5VL0F53"
-            },
-            {
-              "id": "2",
-              "name": "English (SL) - 2022 July",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Hl46GwYj5dXut1MU3MQLvAQz0rDXtcUx"
-            },
-            {
-              "id": "3",
-              "name": "English - 2020 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1ju_2_L7mVTXEOUjdYwtIHFsaWvtJse7g"
-            },
-            {
-              "id": "4",
-              "name": "English - 2019 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1keNVB6HH8W22PrFemnDe6cxrmco7W4NK"
-            },
-            {
-              "id": "5",
-              "name": "English - 2018 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1x0JlXfBOdWkQismoCGsFjaWm9CNIgUWx"
-            },
-            {
-              "id": "6",
-              "name": "English - 2018 July",
-              "pdf": "https://drive.google.com/uc?export=view&id=1eAdIkcuKt-shVXwRP6X6grf44b1oM2Do"
-            }
-          ],
-          "books": [
-            {
-              "name": "UNIT 1",
-              "pdf": "https://drive.google.com/uc?export=view&id=1gq7vbwD2RflXkLHBbg63hThEkB9MJtGe"
-            },
-            {
-              "name": "UNIT 2",
-              "pdf": "https://drive.google.com/uc?export=view&id=1vp5Syku-vJDkGohsZuYi8GID2t7IxJ5J"
-            },
-            {
-              "name": "UNIT 3",
-              "pdf": "https://drive.google.com/uc?export=view&id=1St2TxNuH0CgvOV7SuL9BULO0oc3UvKB6"
-            },
-            {
-              "name": "UNIT 4",
-              "pdf": "https://drive.google.com/uc?export=view&id=19E2EyBa9SoTro5nq_SetyyRGNbippA1Q"
-            },
-            {
-              "name": "UNIT 5",
-              "pdf": "https://drive.google.com/uc?export=view&id=1hRBhJdRNFxqGleui0lKfd7ZTyigoNR36"
-            },
-            {
-              "name": "UNIT 6",
-              "pdf": "https://drive.google.com/uc?export=view&id=1pvYNTiGC5EnEY9cifVdbCLKRpupvSjoE"
-            },
-            {
-              "name": "UNIT 7",
-              "pdf": "https://drive.google.com/uc?export=view&id=1ZVG4e6hnAW_MjTGKcJbc0NFDGtz5IT71"
-            },
-            {
-              "name": "UNIT 8",
-              "pdf": "https://drive.google.com/uc?export=view&id=1275PitYYc9eyKx5dIpqT42QiR8TI80gL"
-            },
-            {
-              "name": "UNIT 9",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Wk4WS5iqXUg36yuTkW9nnfuhQ3Xgca_L"
-            },
-            {
-              "name": "UNIT 10",
-              "pdf": "https://drive.google.com/uc?export=view&id=13daqQ_1GelXqWJzMKH38poJuzaYAqg64"
-            }
-          ]
-        },
-        {
-          "id": "5",
-          "eName": "Statistics",
-          "gName": "આંકડા શાસ્ત્ર",
-          "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/04/Gradient-Featured-Image-03.jpg?w=960&h=600&crop=1",
-          "paper": [
-            {
-              "id": "1",
-              "name": "Statistics - 2022 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1CA5KJF_tdkRq7ZNH_mvQxbqf8PXfY2Eh"
-            },
-            {
-              "id": "2",
-              "name": "Statistics - 2022 July",
-              "pdf": "https://drive.google.com/uc?export=view&id=1xEeckhL3ANd6KEpSw3zWisXpWx4AcUX1"
-            },
-            {
-              "id": "3",
-              "name": "Statistics - 2020 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Exs8Ugru9eeVW0gP5HtZx3dg3lbTinN0"
-            },
-            {
-              "id": "4",
-              "name": "Statistics - 2019 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1o34G7vKU7kDjxX6ZR3_6Rd6Ar1yaqtk9"
-            },
-            {
-              "id": "5",
-              "name": "Statistics - 2018 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1rwgwxSd24-gUZCEM7-uCZelMGdHNt5Qp"
-            },
-            {
-              "id": "6",
-              "name": "Statistics - 2018 July",
-              "pdf": "https://drive.google.com/uc?export=view&id=1HJUeMMWjuUBUOVytgVc8wnw03SoGGk-s"
-            }
-          ],
-          "books": [
-            {
-              "name": "પ્રકરણ 1 - માહિતીનું એકત્રિકીકરણ0",
-              "pdf": "https://drive.google.com/uc?export=view&id=1KT74MVj1_RM8ZXtpehvWdhUVBkGjhVr0"
-            },
-            {
-              "name": "પ્રકરણ 2 - માહિતીનું નિરૂપણ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1OeydpZBMPNozEvfZI5HL4puAQCNiKMn6"
-            },
-            {
-              "name": "પ્રકરણ 3 - મધ્યવર્તી સ્થિતિનાં માપ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1_Y5gqanMwYkAojj3D6r4YZtDan5gM0g5"
-            },
-            {
-              "name": "પ્રકરણ 4 - પ્રસારમાન",
-              "pdf": "https://drive.google.com/uc?export=view&id=13vz5jle2FWagbD_EA1k-NGN_6tX4MLeJ"
-            },
-            {
-              "name": "પ્રકરણ 5 - આવૃત્તિ-વિતરણની વિષમતા",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Q7dHNLktrCp1Mm4pE-2WoBc6K-0g9rnm"
-            },
-            {
-              "name": "પ્રકરણ 6 - ક્રમચય, સંચય અને દ્વિપદી વિસ્તરણ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1ZykPgHONxcjYrOxNbh6P_wwVsnAQS8kI"
-            },
-            {
-              "name": "પ્રકરણ 7 - નિદર્શન પદ્ધતિઓ",
-              "pdf": "https://drive.google.com/uc?export=view&id=19xH8maR9ssqLAghykYIbxqA2Ci5R7-E0"
-            },
-            {
-              "name": "પ્રકરણ 8 - વિધેય",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Gb9j7UQqJvYJoDBDyq472ew3YCd6LZJf"
-            },
-            {
-              "name": "પ્રકરણ 9 - ગુણોત્તર-શ્રેણી",
-              "pdf": "https://drive.google.com/uc?export=view&id=1iIyOZl4zWHkZqDzNFTb4W074TbRXKEyZ"
-            }
-          ]
-        },
-        {
-          "id": "6",
-          "eName": "Gujarati",
-          "gName": "ગુજરાતી",
-          "image": "https://media.istockphoto.com/illustrations/dark-technology-wallpaper-art-abstract-blue-background-illustration-id1307733990?k=20&m=1307733990&s=612x612&w=0&h=xZXebk6U1ZDX1NEk1TRNN8-ZZf2E57K0gP2q6n0hjOk=",
-          "paper": [
-            {
-              "id": "1",
-              "name": "Gujarati - 2022 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1zZOC4jkRZ9OOTEH-Xo2S1dv98AjeTwJJ"
-            },
-            {
-              "id": "2",
-              "name": "Gujarati - 2020 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1qaHY9JpS1eu-erRaIe5F2rv-ofpJLN8l"
-            },
-            {
-              "id": "3",
-              "name": "Gujarati - 2019 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1l5aQx7qQimOuRQSG9j5ZJYpv6gRFbr6i"
-            },
-            {
-              "id": "4",
-              "name": "Gujarati - 2018 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1odmU320jpQeIVVJHz4w_7mCC5mfZZBCW"
-            },
-            {
-              "id": "5",
-              "name": "Gujarati - 2018 July",
-              "pdf": "https://drive.google.com/uc?export=view&id=11KEz9OIlCHg8UWcJNfHr7dB4laSIYK38"
-            }
-          ],
-          "books": [
-            {
-              "name": "પ્રકરણ 1 નાવિક વળતો બોલિયો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1as6ZYwPIGmnUY3nqNH4YOxQRaSdgX10Y"
-            },
-            {
-              "name": "પ્રકરણ 2. પોસ્ટઑફિસ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Nm3sPBc5KvDuxlX1Ceh7rr95zfMj15Ys"
-            },
-            {
-              "name": "પ્રકરણ ૩. એમ ઉગાર્યો ચંદ્રહાસ",
-              "pdf": "https://drive.google.com/uc?export=view&id=13PszPrShqZLNdljofh-To5wOru4smq0k"
-            },
-            {
-              "name": "પ્રકરણ 4. અમૃતા",
-              "pdf": "https://drive.google.com/uc?export=view&id=14p7Rb1IWAmTLi7blEa3a54_d9NGt6A1C"
-            },
-            {
-              "name": "પ્રકરણ 5. છપ્પા/ઉખાણાં",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Na4SMD0hNQJuXG3CLIb049TQqt1MgSW9"
-            },
-            {
-              "name": "પ્રકરણ 6. સુંદરીની શોધ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1KZksKtQQjVc1wg-Ae-VCvzp5On0O-h6z"
-            },
-            {
-              "name": "પપ્રકરણ 7. વનમાં ચાંદલિયો ઊગ્યો",
-              "pdf": "https://drive.google.com/uc?export=view&id=1WJH2otLXt58iGkME2LGuhINBfKl4sG_C"
-            },
-            {
-              "name": "પપ્રકરણ 8. બૂરાઈના દ્વાર પરથી",
-              "pdf": "https://drive.google.com/uc?export=view&id=1sFodaVk4QFD75M0Xr2ISqdrWA7jN2QKQ"
-            },
-            {
-              "name": "પ્રકરણ 9. ચક્રવામિથુન",
-              "pdf": "https://drive.google.com/uc?export=view&id=1lF6MQv3k7w7KIDwZCZZ5vvqdMS5UIjPl"
-            },
-            {
-              "name": "પ્રકરણ 10. જીભ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1hZawrEE9-x1vlwuLvGAbyvVr0gK5vmVz"
-            },
-            {
-              "name": "પ્રકરણ 11. સીમ અને ઘર",
-              "pdf": "https://drive.google.com/uc?export=view&id=1KuoOFc1FMyJG2l5ywNTZlUR1_lKzPw87"
-            },
-            {
-              "name": "પ્રકરણ 12. પ્રસંગદીપ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1jqA3iiaFgozhHgR0_z-IvdH10uZ1Kd2J"
-            },
-            {
-              "name": "પ્રકરણ 13. પરાજયની જીત",
-              "pdf": "https://drive.google.com/uc?export=view&id=1u0eHIYy_Jtcu0fcFZ49Oo0WqyEDTpFTh"
-            },
-            {
-              "name": "પ્રકરણ 14. વાત એક શાપની",
-              "pdf": "https://drive.google.com/uc?export=view&id=1_wTtu93o1UoHWVDI_KaFun2ecXH2bBUg"
-            },
-            {
-              "name": "પ્રકરણ 15. મારા ફળીનાં ઝાડવાં બે...",
-              "pdf": "https://drive.google.com/uc?export=view&id=1lqIDPM8YYe2bkAkONsCqyicCJBn0mpYL"
-            },
-            {
-              "name": "પ્રકરણ 16. તપસ્વી સારસ્વત",
-              "pdf": "https://drive.google.com/uc?export=view&id=1PQnJTDJx0l8Ts8SCPXgkcnk1XXXREIdN"
-            },
-            {
-              "name": "પ્રકરણ 17. ભજન કરે તે જીતે",
-              "pdf": "https://drive.google.com/uc?export=view&id=18x2YQnzmFzhBq5CrrMBrgtQSb9Mr662f"
-            },
-            {
-              "name": "પ્રકરણ 18. ભજન કરે તે જીતે",
-              "pdf": "https://drive.google.com/uc?export=view&id=1FHt3o9ysN9hm_TyLUdQg3QEpXGmmMjFe"
-            },
-            {
-              "name": "પ્રકરણ 19. કાવ્યદ્રયી",
-              "pdf": "https://drive.google.com/uc?export=view&id=11WTJuH_ieB9kY3tZ5rBz6axKJkk1aDDD"
-            },
-            {
-              "name": "પ્રકરણ 20. સ્ટેચ્યૂ રમવાની મઝા",
-              "pdf": "https://drive.google.com/uc?export=view&id=1wKpnl9v3U2Uz6zRN-aPCLDtF0cEtptLd"
-            },
-            {
-              "name": "પ્રકરણ 21. સ્ટેચ્યૂ રમવાની મઝા",
-              "pdf": "https://drive.google.com/uc?export=view&id=13ItVF1TSFqlaYrLLBWZ34R0Md-RV7f7s"
-            },
-            {
-              "name": "પ્રકરણ 22. જમાના પ્રમાણે",
-              "pdf": "https://drive.google.com/uc?export=view&id=17AtC8vN5dbSS9t5d6WsvX1IeHKnGsSwo"
-            },
-            {
-              "name": "પ્રકરણ 23. સહી નથી",
-              "pdf": "https://drive.google.com/uc?export=view&id=1dF3lMMBL7L6Ql9LZ7Ee8hAVWVm8Okeii"
-            },
-            {
-              "name": "પ્રકરણ 24. રેફરન્સ બુક",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Fk6boYwz7yHv_Tw2vM6qrbE7QIyJclBQ"
-            },
-            {
-              "name": "પ્રકરણ 25. દુહા, મુક્તક, હાઇકુ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1pbEZPo0a1Sr5LAbpwuTLvt567tKsUKZd"
-            },
-            {
-              "name": "પ્રકરણ 26. બે દૃષ્ટાંત કથાઓ",
-              "pdf": "https://drive.google.com/uc?export=view&id=1TUdG7KA0hR6ZdZxZ4m9RCM03BCkwWj5z"
-            }
-          ]
-        },
-        {
-          "id": "7",
-          "eName": "SPCC",
-          "gName": "વાણિજ્યિક પત્રવ્યવહાર અને સચિવાલય પ્રેક્ટિસ",
-          "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg",
-          "paper": [
-            {
-              "id": "1",
-              "name": "SPCC - 2022 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=11FBYgbiXwRT5swemRAKhI949Kb-TvHQp"
-            },
-            {
-              "id": "2",
-              "name": "SPCC - 2020 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1vGIApuq7EQFFqxkg-3ZQcDg-uBf1HULA"
-            },
-            {
-              "id": "3",
-              "name": "SPCC - 2019 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1dihrcJLFONzwppfpTIbHbREX1pAWs_kf"
-            },
-            {
-              "id": "4",
-              "name": "SPCC - 2018 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=17SCFgUGhJJOthZUyKbIy7yU8sGjHieqn"
-            },
-            {
-              "id": "5",
-              "name": "SPCC - 2018 July",
-              "pdf": "https://drive.google.com/uc?export=view&id=1UJsgaxMC1p-xzlpW8TmjNiCh4y_tOA7H"
-            }
-          ],
-          "books": []
-        },
-        {
-          "id": "8",
-          "eName": "Computer",
-          "gName": "કોમ્પ્યુટર",
-          "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg",
-          "paper": [
-            {
-              "id": "1",
-              "name": "Computer - 2022 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=11p7haip9GJ_Eb_-fCckT8HxpU-8q2trf"
-            },
-            {
-              "id": "2",
-              "name": "Computer - 2021 July",
-              "pdf": "https://drive.google.com/uc?export=view&id=1psjI0j80sIc5OpTEa08kkjqRK-LtXtnr"
-            },
-            {
-              "id": "3",
-              "name": "Computer - 2020 October",
-              "pdf": "https://drive.google.com/uc?export=view&id=1ttVMyITYVYFqufqc-1YUnRCRXeo31pnL"
-            },
-            {
-              "id": "4",
-              "name": "Computer - 2020 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Bu3uMXnGq8SCySRGSJADF8oFa8qy9qps"
-            },
-            {
-              "id": "5",
-              "name": "Computer - 2019 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1TfV1Va_gJFzv2D2bJ1x_5d7tPz9BQcep"
-            },
-            {
-              "id": "6",
-              "name": "Computer - 2018 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1ZHFaT2Do1zQzsaMwzX12j5ai16EKo868"
-            },
-            {
-              "id": "7",
-              "name": "Computer - 2017 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1Fs6KIzwNkFWvhxp6QrZpF7O0dBfFEsBC"
-            },
-            {
-              "id": "8",
-              "name": "Computer - 2016 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1uyOEMzMD_YpKtBKgDfbw8BRYW9Q7Ekem"
-            },
-            {
-              "id": "9",
-              "name": "Computer - 2015 March",
-              "pdf": "https://drive.google.com/uc?export=view&id=1IbyWONooj2S7fjDqvzW1Xqf5dFnpGHLa"
-            }
-          ],
-          "books": []
-        }
-      ]
-    }
-  ]
-}
+  {
+    "status": "success",
+    "data": [
+      {
+        "id": "1",
+        "backImage": "https://i.pinimg.com/736x/5d/db/cd/5ddbcd34bd7a0dfbfac8f7f8208d6a1d.jpg",
+        "name": "10 Class",
+        "image": "https://cdn3d.iconscout.com/3d/premium/thumb/copywriting-4872198-4054604.png",
+        "sub": [
+          {
+            "id": "1",
+            "eName": "Maths",
+            "gName": "ગણિત",
+            "image": "https://t3.ftcdn.net/jpg/03/23/85/24/360_F_323852446_IJaIt5k1EiiYmfwKc5puBlxn8GVMrF2z.jpg",
+            "paper": [
+              {
+                "id": "1",
+                "name": "July-2018 Set-1",
+                "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(July-2018)-12Maths(%2010th%20Guj%20MED).pdf"
+              },
+              {
+                "id": "2",
+                "name": "MAR-2017 Set-2",
+                "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(MAR-2017)-12Maths(10th%20Guj%20Med).pdf"
+              },
+              {
+                "id": "3",
+                "name": "MAR-2018 Set-3",
+                "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(MAR-2018)-12Maths(%2010th%20GUJ%20MED).pdf"
+              },
+              {
+                "id": "4",
+                "name": "Maths Sample Paper 1",
+                "pdf": "https://drive.google.com/uc?export=view&id=1KT74MVj1_RM8ZXtpehvWdhUVBkGjhVr0"
+              },
+              {
+                "id": "5",
+                "name": "Maths Sample Paper 2",
+                "pdf": "https://drive.google.com/uc?export=view&id=0B7WTkS2Aqpw9UzNYak5TZWxNd28"
+              },
+              {
+                "id": "6",
+                "name": "Maths Sample Paper 3",
+                "pdf": "https://drive.google.com/uc?export=view&id=0B7WTkS2Aqpw9ZWdHaEgwaUJ0OGM"
+              },
+              {
+                "id": "7",
+                "name": "Maths Sample Paper 4",
+                "pdf": "https://drive.google.com/uc?export=view&id=0B7WTkS2Aqpw9RmdyNGRvWk1Sb0E"
+              },
+              {
+                "id": "8",
+                "name": "Maths Sample Paper 5",
+                "pdf": "https://drive.google.com/uc?export=view&id=0B7WTkS2Aqpw9MVFTS2hNX3RPbEU"
+              }
+            ],
+            "books": [
+              {
+                "name": "પ્રકરણ 1. વાસ્તવિક સંખ્યાઓ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1KT74MVj1_RM8ZXtpehvWdhUVBkGjhVr0"
+              },
+              {
+                "name": "પ્રકરણ 2. બહુપદીઓ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1OeydpZBMPNozEvfZI5HL4puAQCNiKMn6"
+              },
+              {
+                "name": "પ્રકરણ ૩. દ્વિચલ સુરેખ સમીકરણયુગ્મ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1_Y5gqanMwYkAojj3D6r4YZtDan5gM0g5"
+              },
+              {
+                "name": "પ્રકરણ 4. દ્વિઘાત સમીકરણ",
+                "pdf": "https://drive.google.com/uc?export=view&id=13vz5jle2FWagbD_EA1k-NGN_6tX4MLeJ"
+              },
+              {
+                "name": "પ્રકરણ 5. સમાંતર શ્રેણી",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Q7dHNLktrCp1Mm4pE-2WoBc6K-0g9rnm"
+              },
+              {
+                "name": "પ્રકરણ 6. ત્રિકોણ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1ZykPgHONxcjYrOxNbh6P_wwVsnAQS8kI"
+              },
+              {
+                "name": "પપ્રકરણ 7. યામ ભૂમિતિ",
+                "pdf": "https://drive.google.com/uc?export=view&id=19xH8maR9ssqLAghykYIbxqA2Ci5R7-E0"
+              },
+              {
+                "name": "પપ્રકરણ 8. ત્રિકોણમિતિનો પરિચય",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Gb9j7UQqJvYJoDBDyq472ew3YCd6LZJf"
+              },
+              {
+                "name": "પ્રકરણ 9. ત્રિકોણમિતિનો ઉપયોગ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1iIyOZl4zWHkZqDzNFTb4W074TbRXKEyZ"
+              },
+              {
+                "name": "પ્રકરણ 10. વર્તુળ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1_I5TK3EtbEFTpj73wTiXZBiWaHwkNmGH"
+              },
+              {
+                "name": "પ્રકરણ 11. રચના",
+                "pdf": "https://drive.google.com/uc?export=view&id=1VkqkHgI9beytezTS7HFpP9kJZ-VZzuB_"
+              },
+              {
+                "name": "પ્રકરણ 12. વર્તુળ સંબંધિત ક્ષેત્રફળ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1_GyvM5r9lWkEhM3Vj5GlcraTrII82D4o"
+              },
+              {
+                "name": "પ્રકરણ 13. પૃષ્ઠફળ અને ઘનફળ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1b3xuwZ-fj8TCHOHsY7SWrz5ik5u3WHzR"
+              },
+              {
+                "name": "પ્રકરણ 14. આંકડાશાસ્ત્ર",
+                "pdf": "https://drive.google.com/uc?export=view&id=11tCzqCe00ojp_FtYZWEzQ5GG7AMS5XLr"
+              },
+              {
+                "name": "પ્રકરણ 15. સંભાવના",
+                "pdf": "https://drive.google.com/uc?export=view&id=1hSRlwc6FPHk4pQY-K9OUdUKRfXa0ix87"
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "eName": "Science",
+            "gName": "વિજ્ઞાન",
+            "image": "https://media.istockphoto.com/illustrations/dark-technology-wallpaper-art-abstract-blue-background-illustration-id1307733990?k=20&m=1307733990&s=612x612&w=0&h=xZXebk6U1ZDX1NEk1TRNN8-ZZf2E57K0gP2q6n0hjOk=",
+            "paper": [
+              {
+                "id": "1",
+                "name": "MAR-2017 Set-1",
+                "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(MAR-2017)-11Sc.%20&%20Tech.(10th%20Guj%20Med).pdf"
+              },
+              {
+                "id": "2",
+                "name": "MAR-2013 New Course Set-2",
+                "pdf": "https://drive.google.com/uc?export=view&id=1mvzCiQjts4BLm8262IxEiA6-HOC7uJ7V"
+              },
+              {
+                "id": "3",
+                "name": "MAR-2013 Set-3",
+                "pdf": "https://drive.google.com/uc?export=view&id=1FWhd5NAqe4PXmuAUdZf0atjaun1eLpTy"
+              },
+              {
+                "id": "4",
+                "name": "July-2018 Set-4",
+                "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(July-2018)-11Sc%20&%20Tech.%20(%2010th%20Guj%20MED%20).pdf"
+              },
+              {
+                "id": "5",
+                "name": "Science Sample Paper 1",
+                "pdf": "https://drive.google.com/uc?export=view&id=0B7WTkS2Aqpw9RDZnZGZXdk5BSG8"
+              }
+            ],
+            "books": [
+              {
+                "name": "પ્રકરણ 1. રાસાયણિક પ્રકિયાઓ અને સમીકરણો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1WtOLupeOVGYgiD4eKG8xSlA3JF9a6Mqp"
+              },
+              {
+                "name": "પ્રકરણ 2. એસીડ બેઇઝ અને ક્ષાર",
+                "pdf": "https://drive.google.com/uc?export=view&id=1LL4NF9BqMu0ftVhtFrOjPALlIchZRTPT"
+              },
+              {
+                "name": "પ્રકરણ ૩. ધાતુઓ અને અધાતુઓ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1ScBel8xGg9CNIG0OuzVUZXuZvmvjz0Tp"
+              },
+              {
+                "name": "પ્રકરણ 4. કાર્બન અને તેનાં સંયોજનો",
+                "pdf": "https://drive.google.com/uc?export=view&id=17PZ9um64WxwfRnqVAl4P5DbIOEwzeCpW"
+              },
+              {
+                "name": "પ્રકરણ 5. તત્વોનું આવર્તી વર્ગીકરણ",
+                "pdf": "https://drive.google.com/uc?export=view&id=14vQzcGC8sUotX3GWzd9uq4UBS8ZutcAV"
+              },
+              {
+                "name": "પ્રકરણ 6. જૈવિક ક્રિયાઓ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1poPHyx1FxdXeY1exDwB041nZOYe7pyVb"
+              },
+              {
+                "name": "પ્રકરણ 7. નિયંત્રણ અને સંકલન",
+                "pdf": "https://drive.google.com/uc?export=view&id=1VYdI13_LasasV5PVVVz1-NuCwmYt9O6-"
+              },
+              {
+                "name": "પ્રકરણ 8. સજીવો કેવી રીતે પ્રજનન કરે છે.",
+                "pdf": "https://drive.google.com/uc?export=view&id=11mejmhWOfxFDWXbkAjknzabGW6zu7Yfk"
+              },
+              {
+                "name": "પ્રકરણ 9. આનુવંશિકતા અને ઉદવિકાસ",
+                "pdf": "https://drive.google.com/uc?export=view&id=10K91LYtc4loGb7Zy56JyoW4Tk3iLxlXK"
+              },
+              {
+                "name": "પ્રકરણ 10. પ્રકાશ પરાવર્તન અને વક્રીભવન",
+                "pdf": "https://drive.google.com/uc?export=view&id=1lbzj7GdqA8ejZsB2UxSaYr6G4EVUfRB_"
+              },
+              {
+                "name": "પ્રકરણ 11. માનવ આંખ અને રંગબેરંગી દુનિયા",
+                "pdf": "https://drive.google.com/uc?export=view&id=1bSLWRBp-oJLzVE2taX7eDbvNrJvSD8YL"
+              },
+              {
+                "name": "પ્રકરણ 12. વિદ્યુત",
+                "pdf": "https://drive.google.com/uc?export=view&id=13Eu6dbMY509tfon6iU1YSp_HbyWC_kk2"
+              },
+              {
+                "name": "પ્રકરણ 13. વિદ્યુતપ્રવાહની ચુંબકીય અસરો",
+                "pdf": "https://drive.google.com/uc?export=view&id=169_gWHGMk9i72WsilOoH35pHv9g4QYCe"
+              },
+              {
+                "name": "પ્રકરણ 14. ઊર્જાના સ્ત્રોતો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1bJX-XIIc8A4tD1bkUmKBm6o2wA_x34xU"
+              },
+              {
+                "name": "પ્રકરણ 15. આપણું પર્યાવરણ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1pqfdTHZ7NYP0b1c322RGx7QPmM7qT1w6"
+              },
+              {
+                "name": "પ્રકરણ 16. નૈસર્ગિક સ્ત્રોતોનું ટકાઉ પ્રબંધન(વ્યવસ્થાપન)",
+                "pdf": "https://drive.google.com/uc?export=view&id=1LFU-MaSsQihNp-Yld3vAo_OHW-rx__rq"
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "eName": "Social Science",
+            "gName": "સામાજિક વિજ્ઞાન",
+            "image": "https://www.pngmagic.com/product_images/yellow-orange-gradient-vector-background.jpg",
+            "paper": [
+              {
+                "id": "1",
+                "name": "July-2018 Set-1",
+                "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(July-2018)-10Social%20Science(%2010th%20Guj%20MED).pdf"
+              },
+              {
+                "id": "2",
+                "name": "Mathematics Standard 2020 Main Exam Set-2",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "3",
+                "name": "Mathematics Standard 2020 Main Exam Set-3",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "4",
+                "name": "Mathematics Standard 2020 Main Exam Set-4",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              }
+            ],
+            "books": [
+              {
+                "name": "પ્રકરણ 1 - ભારતનો વારસો",
+                "pdf": "https://drive.google.com/uc?export=view&id=11NXkDij4xaupVtschJ7_tFFN5n19-Nes"
+              },
+              {
+                "name": "પ્રકરણ 2 - ભારતનો સાંસ્કૃતિક વારસો : પરંપરાઓ : હસ્ત અને લલિતકલા",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Y5uEJpfgiIAgfeJ_Aas-Q-wQPNPhvPUX"
+              },
+              {
+                "name": "પ્રકરણ 3 - ભારતનો સાંસ્કૃતિક વારસો : શિલ્પ અને સ્થાપત્ય",
+                "pdf": "https://drive.google.com/uc?export=view&id=1ER66898JdzecGAy9hvSqbNZc7MfBEzU4"
+              },
+              {
+                "name": "પ્રકરણ 4 - ભારતનો સાહિત્યિક વારસો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Jw3l_J-U510DNXQuf8qolGJ0yvQgjb_O"
+              },
+              {
+                "name": "પ્રકરણ 5 - ભારતનો વિજ્ઞાન અને ટેક્નોલોજીનો વારસો",
+                "pdf": "https://drive.google.com/uc?export=view&id=164tdjAtBdCMd5fAMu9SeRXkptacM1mUM"
+              },
+              {
+                "name": "પ્રકરણ 6 - ભારતના સાંસ્કૃતિક વરસના સ્થળો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1oaEifhP61TtzoA8flGSiWy6x_YbOhU5e"
+              },
+              {
+                "name": "પ્રકરણ 7 - આપણા વારસાનું જતન",
+                "pdf": "https://drive.google.com/uc?export=view&id=1N73QZqp6n1fOqQJgPjlbMmx16aEPzvZJ"
+              },
+              {
+                "name": "પ્રકરણ 8 - કુદરતી સંસાધનો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1XXuSD11c5nIGtnpGnQB-DWCF76A8diG1"
+              },
+              {
+                "name": "પ્રકરણ 9 - વન અને વન્યજીવ સંસાધન",
+                "pdf": "https://drive.google.com/uc?export=view&id=1o0677XAs4S2iQeDFLNa5CjRPvOlzMs8F"
+              },
+              {
+                "name": "પ્રકરણ 10 - ભારત : કૃષિ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1lLwnP9qaPXsGYGgYPAd75ZgYL7mciUej"
+              },
+              {
+                "name": "પ્રકરણ 11 - ભારત : જળ સંસાધન",
+                "pdf": "https://drive.google.com/uc?export=view&id=1CImqERtEXvuP8Pi6fctCRTPrJEwJi0L-"
+              },
+              {
+                "name": "પ્રકરણ 12 - ભારત : ખનિજ અને શક્તિના સંસાધનો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1QaM4SvIiUckDberJSIPxNboXVEHEcE1u"
+              },
+              {
+                "name": "પ્રકરણ 13 - ઉત્પાદન ઉદ્યોગો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1gEJ0hmxUyTMHEqt7bATvA0zyeihTDEWg"
+              },
+              {
+                "name": "પ્રકરણ 14 - પરિવહન, સંદેશાવ્યવહાર અને વ્યાપાર",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Y30pmYri6GtkKi9CEF26ff9x58LnMbC5"
+              },
+              {
+                "name": "પ્રકરણ 15 - આર્થિક વિકાસ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1rzpTXXSwIutcT7k4sBLXN5fbthiV56Yb"
+              },
+              {
+                "name": "પ્રકરણ 16 - આર્થિક ઉદારીકરણ અને વૈશ્વિકીકરણ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1DVsHV05vE2K_Ei9i6yacgstM7pmBKnw8"
+              },
+              {
+                "name": "પ્રકરણ 17 - આર્થિક સમસ્યાઓ અને પડકારો : ગરીબી અને બેરોજગારી",
+                "pdf": "https://drive.google.com/uc?export=view&id=1-okTOweyDaa7MRK1Fzek-eWNmGdGif5h"
+              },
+              {
+                "name": "પ્રકરણ 18 - ભાવવધારો અને ગ્રાહક જાગૃતિ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1R7XKruRkFp_3PJ63t7aes78XxMcj5uUr"
+              },
+              {
+                "name": "પ્રકરણ 19 - માનવ વિકાસ",
+                "pdf": "https://drive.google.com/uc?export=view&id=12ScXyg9otdxelhQJ06Cue-oFR26lK9Zg"
+              },
+              {
+                "name": "પ્રકરણ 20 - ભારતની સામાજિક સમસ્યાઓ અને પડકારો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1mi91e7Bfwrk92NafbV3qGZiWWbXugtIW"
+              },
+              {
+                "name": "પ્રકરણ 21 - સામાજિક પરિવર્તન",
+                "pdf": "https://drive.google.com/uc?export=view&id=1UD374BhmI4HrrImR84yKjVfxH7lFoHys"
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "eName": "Hindi",
+            "gName": "હિન્દી",
+            "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg",
+            "paper": [
+              {
+                "id": "1",
+                "name": "Mathematics Standard 2020 Main Exam Set-1",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "2",
+                "name": "Mathematics Standard 2020 Main Exam Set-2",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "3",
+                "name": "Mathematics Standard 2020 Main Exam Set-3",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "4",
+                "name": "Mathematics Standard 2020 Main Exam Set-4",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              }
+            ],
+            "books": [
+              {
+                "name": "પ્રકરણ 1 - प्रभुजी तुम चंदन हम पानी",
+                "pdf": "https://drive.google.com/uc?export=view&id=1v16kZs2r2f7mWN8RTYgjl40-WkXRWsF5"
+              },
+              {
+                "name": "પ્રકરણ 2 - बूढ़ी काकी",
+                "pdf": "https://drive.google.com/uc?export=view&id=16Am0vsQFZUh90cs8gJrPtjjN9Vj_P-BV"
+              },
+              {
+                "name": "પ્રકરણ 3 - सवैये",
+                "pdf": "https://drive.google.com/uc?export=view&id=1iz1OjZooeW42LLtrvLFLJvgMz7n3dv8u"
+              },
+              {
+                "name": "પ્રકરણ 4 - एक प्रश्न : चार उत्तर",
+                "pdf": "https://drive.google.com/uc?export=view&id=1leukTiyopiuyyFZGKkiqbzvPrJPiaK9J"
+              },
+              {
+                "name": "પ્રકરણ 5 - मीरा के पद",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Kd_8wu8llxcikHJyBhN6jic1qx0snywB"
+              },
+              {
+                "name": "પ્રકરણ 6 - कालिदास का प्राणीप्रेम",
+                "pdf": "https://drive.google.com/uc?export=view&id=1XAcvQ63DxYtaw3uQ7fZ6xNRhcyrPj0G7"
+              },
+              {
+                "name": "પ્રકરણ 7 - जन्मभूमि",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Myrw4skf-YRK6o4PwtSyb5Z-HZxTzdV2"
+              },
+              {
+                "name": "પ્રકરણ 8 - सुधामूर्ति",
+                "pdf": "https://drive.google.com/uc?export=view&id=1ECpaRwXYSAgkeK11mf-kUSF5laRQXCy8"
+              },
+              {
+                "name": "પ્રકરણ 9 - कुत्ते की सीख",
+                "pdf": "https://drive.google.com/uc?export=view&id=1JTXlb1KaH_6taJuIZg58WN2zH3dqYOs2"
+              },
+              {
+                "name": "પ્રકરણ 10 - जीने की कला",
+                "pdf": "https://drive.google.com/uc?export=view&id=1zSRDJ1NIsbye46FPPYSX_CecY7qK6ewv"
+              },
+              {
+                "name": "પ્રકરણ 11 - भारतवर्ष हमारा है",
+                "pdf": "https://drive.google.com/uc?export=view&id=1_BTtGqo9Ew8oHmmQyPa0vvq_6mO08pMF"
+              },
+              {
+                "name": "પ્રકરણ 12 - एक नई शुरुआत",
+                "pdf": "https://drive.google.com/uc?export=view&id=1NhZKu-IdE5yBmRt5BiWUgBLQV57Udmhn"
+              },
+              {
+                "name": "પ્રકરણ 13 - साधूपदेश",
+                "pdf": "https://drive.google.com/uc?export=view&id=18nEqLTez6WtiqSWye1TDA8WBJW_wF62N"
+              },
+              {
+                "name": "પ્રકરણ 14 - मेरी माँ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1h1ylUhV28SBzFTrnyIpLOYbwvt--iGBh"
+              },
+              {
+                "name": "પ્રકરણ 15 - हे जनशक्ति महान !",
+                "pdf": "https://drive.google.com/uc?export=view&id=13SRQvzeyPENFmBKPsFxr9mFFMy-gdMy4"
+              },
+              {
+                "name": "પ્રકરણ 16 - चोरी",
+                "pdf": "https://drive.google.com/uc?export=view&id=1QgVWx_mFHQfSFDp2L8EGcHvdUcJ2rf3q"
+              },
+              {
+                "name": "પ્રકરણ 17 - कश्मीर",
+                "pdf": "https://drive.google.com/uc?export=view&id=1CIjFvSDJTh2f61-ZaGeDwWjqZP3tFHWl"
+              },
+              {
+                "name": "પ્રકરણ 18 - रचना",
+                "pdf": "https://drive.google.com/uc?export=view&id=1YYjJYn8vRtLwLmCxPJRJW8RIDcfzj_3w"
+              },
+              {
+                "name": "પ્રકરણ 19 - तोता और इन्द्र",
+                "pdf": "https://drive.google.com/uc?export=view&id=1OyRRIqcAywHZJPUf9MDC7JVSACTSTTn6"
+              },
+              {
+                "name": "પ્રકરણ 20 - अलबम",
+                "pdf": "https://drive.google.com/uc?export=view&id=1G-zor0yfPADRUnhTkiKbFFXKWzmMV_h2"
+              },
+              {
+                "name": "પ્રકરણ 21 - पहेलियाँ-मुकरियाँ",
+                "pdf": "https://drive.google.com/uc?export=view&id=144n359LOa6tkEBwp3Q58fUDq2ZTC0yYN"
+              },
+              {
+                "name": "પ્રકરણ 22 - भीतरी समृद्धि",
+                "pdf": "https://drive.google.com/uc?export=view&id=1O8DNnH2YM00i5b24I7dNU_Wz60dNMZsc"
+              },
+              {
+                "name": "પ્રકરણ 23 - भूख",
+                "pdf": "https://drive.google.com/uc?export=view&id=10syTpuhG1wpTYpa744nsy4fj-l0QMMC1"
+              }
+            ]
+          },
+          {
+            "id": "5",
+            "eName": "English",
+            "gName": "અંગ્રેજી",
+            "image": "https://i.stack.imgur.com/0ASXA.jpg",
+            "paper": [
+              {
+                "id": "1",
+                "name": "Mathematics Standard 2020 Main Exam Set-1",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "2",
+                "name": "Mathematics Standard 2020 Main Exam Set-2",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "3",
+                "name": "Mathematics Standard 2020 Main Exam Set-3",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "4",
+                "name": "Mathematics Standard 2020 Main Exam Set-4",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              }
+            ],
+            "books": [
+              {
+                "name": "Chapter 1 - Against the Odds",
+                "pdf": "https://drive.google.com/uc?export=view&id=1pYZJZRT4hOXwlGnzEH7GVkrw8sn6idD5"
+              },
+              {
+                "name": "Chapter 2 - The Human Robot",
+                "pdf": "https://drive.google.com/uc?export=view&id=1qlDXwg6FzJ_dABgTm8tyHFokVMhRXCfK"
+              },
+              {
+                "name": "Chapter 3 - An Interview with Arun Krishnamurthy",
+                "pdf": "https://drive.google.com/uc?export=view&id=1MswDlr33a9KC66azCbTxFrNNyqB9KHKH"
+              },
+              {
+                "name": "Chapter 4 - A Wonderful Creation",
+                "pdf": "https://drive.google.com/uc?export=view&id=1GrGw4NTAlDEuLcEludJ0IlR0UL3bGdiB"
+              },
+              {
+                "name": "Chapter 5 - Playing with Fire",
+                "pdf": "https://drive.google.com/uc?export=view&id=1MwOcU62rN8F_rYplJTSTHv6UtNkEr83Q"
+              },
+              {
+                "name": "Chapter 6 - I Love You, Teacher",
+                "pdf": "https://drive.google.com/uc?export=view&id=1nM4Bt1dh7sskwMShPUvbwwtsc_6mDgY9"
+              },
+              {
+                "name": "Chapter 7 - Kach & Devayani",
+                "pdf": "https://drive.google.com/uc?export=view&id=1AHLu5VpYCLA2ccU4zqMOuYUqOPN2dOfX"
+              },
+              {
+                "name": "Chapter 8 - Our Feathered Friends",
+                "pdf": "https://drive.google.com/uc?export=view&id=1QYXvmPpviip6wnKcYAeGui60suWZgpaa"
+              },
+              {
+                "name": "Chapter 9 - Tune up O Teens",
+                "pdf": "https://drive.google.com/uc?export=view&id=1nzL7rqJFFu9o2Ge0L7YSlNgH_SnrXWKp"
+              },
+              {
+                "name": "Chapter 10 - A Test of True Love",
+                "pdf": "https://drive.google.com/uc?export=view&id=1LKRC43Xrve1dQfnBDtIuBTn8Cj0ihFlA"
+              },
+              {
+                "name": "Poem 1 - My Song",
+                "pdf": "https://drive.google.com/uc?export=view&id=1GlKxoKC4lk8zRB8rpasZyDL02j_wpiOr"
+              },
+              {
+                "name": "Poem 2 - Pencil",
+                "pdf": "https://drive.google.com/uc?export=view&id=1jskUskq90TYe7GRXDmwVpvoQJGnEqSgx"
+              },
+              {
+                "name": "Poem 3 - Growing",
+                "pdf": "https://drive.google.com/uc?export=view&id=13ZGtCDUslKe80YimZLlPd8IWh1uYvBcK"
+              },
+              {
+                "name": "Poem 4 - Vanila Twilight",
+                "pdf": "https://drive.google.com/uc?export=view&id=1CbR9OHbFWQrlPGP6NVJDpR3qVi8KIEG1"
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "eName": "Gujarati",
+            "gName": "ગુજરાતી",
+            "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/04/Gradient-Featured-Image-03.jpg?w=960&h=600&crop=1",
+            "paper": [
+              {
+                "id": "1",
+                "name": "F.L Gujarati",
+                "pdf": "https://www.gsebeservice.com/assets/pdf/quepaper/10/(July-2018)-01(Guj%20F.L)Gujarati(%2010th%20Guj%20MED).pdf"
+              },
+              {
+                "id": "2",
+                "name": "Mathematics Standard 2020 Main Exam Set-2",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "3",
+                "name": "Mathematics Standard 2020 Main Exam Set-3",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "4",
+                "name": "Mathematics Standard 2020 Main Exam Set-4",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              }
+            ],
+            "books": [
+              {
+                "name": "પ્રકરણ 1 - વૈષ્ણવજન",
+                "pdf": "https://drive.google.com/uc?export=view&id=1pMc_RoiA7hNrWWjFc1HuKM8VXLGzoAtt"
+              },
+              {
+                "name": "પ્રકરણ 2 - રેસનો ઘોડો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1l3EFLYIERzW3Vq9uEEAmdDWSlRQTpYnz"
+              },
+              {
+                "name": "પ્રકરણ 3 - શીલવંત સાધુને",
+                "pdf": "https://drive.google.com/uc?export=view&id=148LYrOBWydutafy5tvDOYRPcCPe-gzQF"
+              },
+              {
+                "name": "પ્રકરણ 4 - ભૂલી ગયા પછી",
+                "pdf": "https://drive.google.com/uc?export=view&id=1FbRBHV3uz-1XmXTcn8e2dJiBFKf1Clf7"
+              },
+              {
+                "name": "વ્યાકરણ : એકમ - 1 ધ્વનિશ્રેણી, જોડણી, સંધિ, સમાસ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1iUvTLmwuar87AsvRp8bXDXhDV6fe17MD"
+              },
+              {
+                "name": "પ્રકરણ 5 - દીકરી",
+                "pdf": "https://drive.google.com/uc?export=view&id=1-WTS6j_vgb8hg0vCwuDa8xGymjcQeGRw"
+              },
+              {
+                "name": "પ્રકરણ 6 - વાઇરલ ઈન્ફેક્શન",
+                "pdf": "https://drive.google.com/uc?export=view&id=18_fyln2SusQq0yCCH6F0mYtF3a8xY92G"
+              },
+              {
+                "name": "પ્રકરણ 7 - હું એવો ગુજરાતી",
+                "pdf": "https://drive.google.com/uc?export=view&id=1X-KwIJrjKJmOk00d6MR8D3fC6NaWDuQT"
+              },
+              {
+                "name": "પ્રકરણ 8 - છત્રી",
+                "pdf": "https://drive.google.com/uc?export=view&id=1mfM4IjdZi7f284sis5OTRb4l8Datfqpq"
+              },
+              {
+                "name": "વ્યાકરણ : એકમ - 2 સંજ્ઞા, વિશેષણ, ક્રિયાવિશેષણ અને તેના પ્રકારો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1SDZNnG20NXEEnqR701CuSsKHTZGfn3Jn"
+              },
+              {
+                "name": "પ્રકરણ 9 - માધવને દીઠો છે ક્યાંય?",
+                "pdf": "https://drive.google.com/uc?export=view&id=1694bJB__B5hTznlEBxg2SLs3ARbPweX7"
+              },
+              {
+                "name": "પ્રકરણ 10 - ડાંગવનો અને...",
+                "pdf": "https://drive.google.com/uc?export=view&id=19fhm9Kq6pfzPeNVJG11XU7H2HIzp9kcI"
+              },
+              {
+                "name": "પ્રકરણ 11 - શિકારીને",
+                "pdf": "https://drive.google.com/uc?export=view&id=1TG8gL7qLLlhk28hQ7N2wSMg2aiCXZXFe"
+              },
+              {
+                "name": "પ્રકરણ 12 - ચોપડાની ઇન્દ્રજાળ",
+                "pdf": "https://drive.google.com/uc?export=view&id=13qTOrZPowuT_w19E5esNtJUjT9VFsw8v"
+              },
+              {
+                "name": "વ્યાકરણ : એકમ - 3 વાકયપ્રકાર: કર્તરિ, કર્મણિ, ભાવે અને પ્રેરક; વાકયરૂપાંતર",
+                "pdf": "https://drive.google.com/uc?export=view&id=11iZZ11WFH3Xl60tcaQxD7pf2MuHU7NtT"
+              },
+              {
+                "name": "પ્રકરણ 13 - વતનથી વિદાય થતાં",
+                "pdf": "https://drive.google.com/uc?export=view&id=11nSdHG69_Wd1HI3YX0EuvFoCjrDUifAI"
+              },
+              {
+                "name": "પ્રકરણ 14 - જન્મોત્સવ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1rdoXyuouZ9vvQMH24RMOLjP2mqDwLnpK"
+              },
+              {
+                "name": "પ્રકરણ 15 - બોલીએ ના કાંઈ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1lhuXNQkZw8dHbGj4RChIANdHibAgiS4A"
+              },
+              {
+                "name": "પ્રકરણ 16 - ગતિભંગ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1iWJTZHBJH9LlyYZE1_K0wu9GgbG2nOim"
+              },
+              {
+                "name": "વ્યાકરણ : એકમ - 4 અલંકાર",
+                "pdf": "https://drive.google.com/uc?export=view&id=12X4Qfayi4i-wKXUrbSqFk1I478iaMbl7"
+              },
+              {
+                "name": "પ્રકરણ 17 - દિવસો જુદાઈના જાય છે",
+                "pdf": "https://drive.google.com/uc?export=view&id=16UheLDBEsnauwP8vX5Q002YPBRYDx0p7"
+              },
+              {
+                "name": "પ્રકરણ 18 - ભૂખથીય ભૂંડી ભીખ",
+                "pdf": "https://drive.google.com/uc?export=view&id=16AqJz7nZGch04g_zXk9bWiXk5khH95Wy"
+              },
+              {
+                "name": "પ્રકરણ 19 - એક બપોરે",
+                "pdf": "https://drive.google.com/uc?export=view&id=1HgFqA1GSFeVN5ggVq-8KsMcrjL7tmxiE"
+              },
+              {
+                "name": "પ્રકરણ 20 - વિરલ વિભૂતિ",
+                "pdf": "https://drive.google.com/uc?export=view&id=17o6h_jK3tj9TQCZQx3bL6AhIxhMwIqRh"
+              },
+              {
+                "name": "વ્યાકરણ : એકમ - 5 છંદ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1zHPFtfVQn_AzQ2StZqEnad4zWO5K-dkx"
+              },
+              {
+                "name": "પ્રકરણ 21 - ચાંદલિયો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1uMmoGZ8aLXcTbDdEPj_or5ul4r_B0AZc"
+              },
+              {
+                "name": "પ્રકરણ 22 - હિમાલયમાં એક સાહસ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Ij2gFb7FODxrj8Je3QIGLbQw05hIi79k"
+              },
+              {
+                "name": "પ્રકરણ 23 - લઘુકાવ્યો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1iShF90wMrNQ6zFV-pHc0-Wz7sy1wfsFH"
+              },
+              {
+                "name": "પ્રકરણ 24 - ઘોડીની સ્વામીભક્તિ",
+                "pdf": "https://drive.google.com/uc?export=view&id=14gHFrYH48KpfjfyucHMtJ_gC9ng7HnC9"
+              },
+              {
+                "name": "વ્યાકરણ : એકમ - 6 લેખનકૌશલ: અર્થવિસ્તાર, અહેવાલલેખન, સંક્ષેપીકરણ, નિબંધ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1kg4ZEtRggqVX-2IZVjpcHQQPf43ZFh87"
+              },
+              {
+                "name": "પૂરક વાચન 1 - બહાદુર બાળકો",
+                "pdf": "https://drive.google.com/uc?export=view&id=179z_CZAaveGj_0ei954vhEm9tKgNv9dT"
+              },
+              {
+                "name": "પૂરક વાચન 2 - નદીવિયોગ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1nQ71vHKeWmRhkzHy22PkvuZLRXEZ3NY5"
+              },
+              {
+                "name": "પૂરક વાચન 3 - તારે પગલે",
+                "pdf": "https://drive.google.com/uc?export=view&id=1E6s2VJmxOaM8ut0M08cTIf1JX7a_lQ6g"
+              },
+              {
+                "name": "પૂરક વાચન 4 - મારી બા",
+                "pdf": "https://drive.google.com/uc?export=view&id=1fvbynDgzUZkptiFg88nR-GvuAtl8wH3O"
+              },
+              {
+                "name": "પૂરક વાચન 5 - વીરભૂમિ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1l2bRBRKZjx5gf1UD6Kml2L0LwE7hzIzZ"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "backImage": "https://img.freepik.com/free-vector/abstract-classic-blue-background-design_23-2148437740.jpg",
+        "name": "11 Class Commerce",
+        "image": "https://cdn3d.iconscout.com/3d/premium/thumb/copywriting-4621022-3839981.png",
+        "sub": [
+          {
+            "id": "1",
+            "eName": "Economics",
+            "gName": "અર્થશાસ્ત્ર",
+            "image": "https://t3.ftcdn.net/jpg/03/23/85/24/360_F_323852446_IJaIt5k1EiiYmfwKc5puBlxn8GVMrF2z.jpg",
+            "paper": [
+              {
+                "id": "1",
+                "name": "Mathematics Standard 2020 Main Exam Set-1",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "2",
+                "name": "Mathematics Standard 2020 Main Exam Set-2",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "3",
+                "name": "Mathematics Standard 2020 Main Exam Set-3",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "4",
+                "name": "Mathematics Standard 2020 Main Exam Set-4",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              }
+            ],
+            "books": [
+              {
+                "name": "પ્રકરણ 1 અર્થશાસ્ત્ર : વિષય પ્રવેશ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1D3kYvwKmMVA2mwkyfb6VhgfOOWmdeEq3"
+              },
+              {
+                "name": "પ્રકરણ 2. મૂળભૂત ખ્યાલો અને સંકલ્પનાઓ",
+                "pdf": "https://drive.google.com/uc?export=view&id=15lSbJHf9_heHfrdLm8IU7Rp2KKQJM_Za"
+              },
+              {
+                "name": "પ્રકરણ ૩. માંગ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1VhmTQ7XZASz0mO9VhnMq3EpZjNxa4OeD"
+              },
+              {
+                "name": "પ્રકરણ 4. પુરવઠો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1LQCg2nkSdvu0XSdaU-3JDxVZqQmkTWWg"
+              },
+              {
+                "name": "પ્રકરણ 5. આવક અને ખર્ચના ખ્યાલો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Vjwp1ZAwCLUlZdnL0aZcuPuGg0eqY8Ec"
+              },
+              {
+                "name": "પ્રકરણ 6. બજાર",
+                "pdf": "https://drive.google.com/uc?export=view&id=1hvY94-tDgVhRVKDTaGVrUkBqCwa0BuI6"
+              },
+              {
+                "name": "પપ્રકરણ 7. ભારતીય અર્થતંત્ર",
+                "pdf": "https://drive.google.com/uc?export=view&id=1f84xbZrO2tHn_5xRN33TzJ-wpYXVvaGi"
+              },
+              {
+                "name": "પપ્રકરણ 8. આર્થિક સુધારાઓ",
+                "pdf": "https://drive.google.com/uc?export=view&id=16Zd5XqsGySdxw-GSK9G8Ftm9IW5Kwte7"
+              },
+              {
+                "name": "પ્રકરણ 9. રાષ્ટ્રીય આવક",
+                "pdf": "https://drive.google.com/uc?export=view&id=1V2DaoiqLolQz-SQFnBjWn_FXglgCwHdU"
+              },
+              {
+                "name": "પ્રકરણ 10. અંદાજપત્ર",
+                "pdf": "https://drive.google.com/uc?export=view&id=1rYGDwaPBRVdu4tGrot9CdSTz4S5bQQEy"
+              },
+              {
+                "name": "પ્રકરણ 11. આર્થિક વિચારો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1a047zT1v8AgoKZhFE1OsCIBZMRu4i13s"
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "eName": "Business Studies",
+            "gName": "ધંધાકીય ભણતર",
+            "image": "https://www.emeraldgrouppublishing.com/sites/default/files/image/MicrosoftTeams-image%20%2821%29_0.png.jpg",
+            "paper": [
+              {
+                "id": "1",
+                "name": "Mathematics Standard 2020 Main Exam Set-1",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "2",
+                "name": "Mathematics Standard 2020 Main Exam Set-2",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "3",
+                "name": "Mathematics Standard 2020 Main Exam Set-3",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "4",
+                "name": "Mathematics Standard 2020 Main Exam Set-4",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              }
+            ],
+            "books": [
+              {
+                "name": "પ્રકરણ 1 ધંધાનું સ્વરૂપ, હેતુ અને કાર્યક્ષેત્ર",
+                "pdf": "https://drive.google.com/uc?export=view&id=1QaNm2p0G4Q-Fq8hXuzEvOqC8V5xxArWd"
+              },
+              {
+                "name": "પ્રકરણ 2. ધંધાકીય સેવાઓ-1",
+                "pdf": "https://drive.google.com/uc?export=view&id=1jtdUCeSoqzbDA3-Zt9_ZZU3u0FWwmbW2"
+              },
+              {
+                "name": "પ્રકરણ ૩. ધંધાકીય સેવાઓ-2",
+                "pdf": "https://drive.google.com/uc?export=view&id=1kjPTJ98gvl4uiUtMQSdEsGB-bkX4YIYT"
+              },
+              {
+                "name": "પ્રકરણ 4. માહિતીસંચાર, ઈ-કૉમર્સ અને આઉટસોર્સિંગ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1LA0Kb2Fcc7b3zxOC_fOxgv9K4pu9J8MZ"
+              },
+              {
+                "name": "પ્રકરણ 5. ધંધાકીય વ્યવસ્થાનાં સ્વરૂપો-1",
+                "pdf": "https://drive.google.com/uc?export=view&id=1sQke38XwwrD76WOjrXdNN7wQakKbcFLm"
+              },
+              {
+                "name": "પ્રકરણ 6. ધંધાકીય વ્યવસ્થાનાં સ્વરૂપો-2",
+                "pdf": "https://drive.google.com/uc?export=view&id=1-SEj06UZ6eOjqZkuwyeQ4y8-p8KecGi3"
+              },
+              {
+                "name": "પપ્રકરણ 7. જાહેરક્ષેત્ર, ખાનગીક્ષેત્ર અને વૈશ્વિક સાહસો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1SLI2od_rZwDnRsCzpohPFJl17F9-vx_D"
+              },
+              {
+                "name": "પપ્રકરણ 8. તધંધાકીય મૂડીનાં પ્રાપ્તિસ્થાનો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1TWXq-hMtMtQQAT1b_XaTaFsRygfb01RB"
+              },
+              {
+                "name": "પ્રકરણ 9. આંતરિક વેપાર",
+                "pdf": "https://drive.google.com/uc?export=view&id=1mh-qTTr2e8WQpA9fL5AwySAuLFV3oJmc"
+              },
+              {
+                "name": "પ્રકરણ 10. આંતરરાષ્ટ્રીય વેપાર",
+                "pdf": "https://drive.google.com/uc?export=view&id=1DW9MOkAm5VWhXAtef7j2fPT4rBAcaXWV"
+              },
+              {
+                "name": "પ્રકરણ 11. ધંધાની સામાજિક જવાબદારી",
+                "pdf": "https://drive.google.com/uc?export=view&id=1G9rq2y_CVdJmgFef3FgmoogrkVyBS92q"
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "eName": "Accountancy Part",
+            "gName": "એકાઉન્ટન્સી",
+            "image": "https://www.pngmagic.com/product_images/yellow-orange-gradient-vector-background.jpg",
+            "paper": [
+              {
+                "id": "1",
+                "name": "Mathematics Standard 2020 Main Exam Set-1",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "2",
+                "name": "Mathematics Standard 2020 Main Exam Set-2",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "3",
+                "name": "Mathematics Standard 2020 Main Exam Set-3",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "4",
+                "name": "Mathematics Standard 2020 Main Exam Set-4",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              }
+            ],
+            "books": [
+              {
+                "name": "પ્રકરણ 1 - હિસાબીપદ્ધતિ અને તેના પારિભાષિક શબ્દો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1_XBS5UGBflLhB-NtCeNDL-xV1TwH0lJK"
+              },
+              {
+                "name": "પ્રકરણ 2 - વ્યવહારોની દ્વિ-અસર અને ખાતાનાં પ્રકાર",
+                "pdf": "https://drive.google.com/uc?export=view&id=1188-M0_pKUEsXgC0kj719XW8AX6zYzDc"
+              },
+              {
+                "name": "પપ્રકરણ 3 - વસ્તુઓ અને સેવાઓ કર : પરિચય",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Uj1TJJ4AP5Inxydi10T7cdVcFp-gH5BO"
+              },
+              {
+                "name": "પ્રકરણ 4 - આમનોંધ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1_RxoMTEVbSlEgMYGxLkxQF4JbigIxRoD"
+              },
+              {
+                "name": "પ્રકરણ 5 - હિસાબી સમીકરણ અને ધંધાના વ્યવહારો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1njdYIWP2AIJJFjWgMzxPieXF5YVRrTsr"
+              },
+              {
+                "name": "પ્રકરણ 6 - પેટાનોંધો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1CbeyHUWnmtH-hW5UkDU5OagVCtlCFV0_"
+              },
+              {
+                "name": "પ્રકરણ 7 - રોકડમેળ અને તેના પ્રકારો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1h4xazLUAoHG2aUJafi_aDGtvY3tLw6xi"
+              },
+              {
+                "name": "પ્રકરણ 8 - ખાસ આમનોંધ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1LiiPbe7EiRB-9FuWKpj97sfpHd_iwXOB"
+              },
+              {
+                "name": "પ્રકરણ 9 - ખાતાવહી-ખતવણી",
+                "pdf": "https://drive.google.com/uc?export=view&id=1aTqP5_fmgEfOEG7CnYK1b95lm_voV4mD"
+              },
+              {
+                "name": "પ્રકરણ 10 - કાચું સરવૈયું",
+                "pdf": "https://drive.google.com/uc?export=view&id=1fqAjs4MvqLCpFhNYumoWHm-qPz8T4g5v"
+              },
+              {
+                "name": "પ્રકરણ 11 - બૅન્ક સિલકમેળ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Q-ety-e9vA-In0jEGJh8XvcCADn8QRtw"
+              },
+              {
+                "name": "પ્રકરણ 1 - ભૂલ-સુધારણા",
+                "pdf": "https://drive.google.com/uc?export=view&id=1OPFETXy49dxNjK228zO9Glr-5LsGu4ZL"
+              },
+              {
+                "name": "પ્રકરણ 2 - ઘસારાના હિસાબો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1a5uwPhMn4JAsfVLFyHMprBm46zXRii4v"
+              },
+              {
+                "name": "પ્રકરણ 3 - જોગવાઇઓ અને અનામતો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1oaQOBU8GcBhA4PZtXSoqewoGR-nqzH8t"
+              },
+              {
+                "name": "પ્રકરણ 4 - હૂંડીઓ",
+                "pdf": "https://drive.google.com/uc?export=view&id=11636b8R19rwKeQXV5t7DuSxYn0n1Y6HE"
+              },
+              {
+                "name": "પ્રકરણ 5 - ધંધાકીય એકમોના નાણાકીય (હિસાબી) પત્રકો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1X3AVGkKrXQ4ICfB8rr_vmwMtJ4a2dZhR"
+              },
+              {
+                "name": "પ્રકરણ 6 - હિસાબીપદ્ધતિની પ્રણાલિકાઓ-ધારણાઓ, ખ્યાલો અને સિદ્ધાંતો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1mqU58RPz1tljMlAZRMNHcCIq5C7zKko3"
+              },
+              {
+                "name": "પ્રકરણ 7 - હિસાબી ધોરણો : ખ્યાલ અને ઉદ્દેશો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1DLk74wPswrdwtz9TT_AtwLVR7-lyyDNM"
+              },
+              {
+                "name": "પ્રકરણ 8 - દેશી નામાપદ્ધતિ : પરિચય",
+                "pdf": "https://drive.google.com/uc?export=view&id=1NJUkJIh3FnHSiftlNsXXAEDbO307uShw"
+              },
+              {
+                "name": "પ્રકરણ 9 - બિનવેપારી સંસ્થાના હિસાબો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Kl6rXRtNv5vF3UzHn17rPKRCS8XqdtM7"
+              },
+              {
+                "name": "પ્રકરણ 10 - અપૂર્ણ (અધૂરી) માહિતી પરથી હિસાબો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1QApH3VrWjmmdWYaIL9_q8zblzJUN1IBI"
+              },
+              {
+                "name": "પ્રકરણ 11 - હિસાબીપદ્ધતિ અને કમ્પ્યૂટર",
+                "pdf": "https://drive.google.com/uc?export=view&id=1DxGUBBO7_xf2nYRO7S454yRmwLBkaD7D"
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "eName": "English",
+            "gName": "અંગ્રેજી",
+            "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg",
+            "paper": [
+              {
+                "id": "1",
+                "name": "Mathematics Standard 2020 Main Exam Set-1",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "2",
+                "name": "Mathematics Standard 2020 Main Exam Set-2",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "3",
+                "name": "Mathematics Standard 2020 Main Exam Set-3",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "4",
+                "name": "Mathematics Standard 2020 Main Exam Set-4",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              }
+            ],
+            "books": [
+              {
+                "name": "UNIT 1",
+                "pdf": "https://drive.google.com/uc?export=view&id=1gq7vbwD2RflXkLHBbg63hThEkB9MJtGe"
+              },
+              {
+                "name": "UNIT 2",
+                "pdf": "https://drive.google.com/uc?export=view&id=1vp5Syku-vJDkGohsZuYi8GID2t7IxJ5J"
+              },
+              {
+                "name": "UNIT 3",
+                "pdf": "https://drive.google.com/uc?export=view&id=1St2TxNuH0CgvOV7SuL9BULO0oc3UvKB6"
+              },
+              {
+                "name": "UNIT 4",
+                "pdf": "https://drive.google.com/uc?export=view&id=19E2EyBa9SoTro5nq_SetyyRGNbippA1Q"
+              },
+              {
+                "name": "UNIT 5",
+                "pdf": "https://drive.google.com/uc?export=view&id=1hRBhJdRNFxqGleui0lKfd7ZTyigoNR36"
+              },
+              {
+                "name": "UNIT 6",
+                "pdf": "https://drive.google.com/uc?export=view&id=1pvYNTiGC5EnEY9cifVdbCLKRpupvSjoE"
+              },
+              {
+                "name": "UNIT 7",
+                "pdf": "https://drive.google.com/uc?export=view&id=1ZVG4e6hnAW_MjTGKcJbc0NFDGtz5IT71"
+              },
+              {
+                "name": "UNIT 8",
+                "pdf": "https://drive.google.com/uc?export=view&id=1275PitYYc9eyKx5dIpqT42QiR8TI80gL"
+              },
+              {
+                "name": "UNIT 9",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Wk4WS5iqXUg36yuTkW9nnfuhQ3Xgca_L"
+              },
+              {
+                "name": "UNIT 10",
+                "pdf": "https://drive.google.com/uc?export=view&id=13daqQ_1GelXqWJzMKH38poJuzaYAqg64"
+              }
+            ]
+          },
+          {
+            "id": "5",
+            "eName": "Statistics",
+            "gName": "આંકડા શાસ્ત્ર",
+            "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/04/Gradient-Featured-Image-03.jpg?w=960&h=600&crop=1",
+            "paper": [
+              {
+                "id": "1",
+                "name": "Mathematics Standard 2020 Main Exam Set-1",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "2",
+                "name": "Mathematics Standard 2020 Main Exam Set-2",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "3",
+                "name": "Mathematics Standard 2020 Main Exam Set-3",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "4",
+                "name": "Mathematics Standard 2020 Main Exam Set-4",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              }
+            ],
+            "books": [
+              {
+                "name": "પ્રકરણ 1 - માહિતીનું એકત્રિકીકરણ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1KT74MVj1_RM8ZXtpehvWdhUVBkGjhVr0"
+              },
+              {
+                "name": "પ્રકરણ 2 - માહિતીનું નિરૂપણ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1OeydpZBMPNozEvfZI5HL4puAQCNiKMn6"
+              },
+              {
+                "name": "પ્રકરણ 3 - મધ્યવર્તી સ્થિતિનાં માપ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1_Y5gqanMwYkAojj3D6r4YZtDan5gM0g5"
+              },
+              {
+                "name": "પ્રકરણ 4 - પ્રસારમાન",
+                "pdf": "https://drive.google.com/uc?export=view&id=13vz5jle2FWagbD_EA1k-NGN_6tX4MLeJ"
+              },
+              {
+                "name": "પ્રકરણ 5 - આવૃત્તિ-વિતરણની વિષમતા",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Q7dHNLktrCp1Mm4pE-2WoBc6K-0g9rnm"
+              },
+              {
+                "name": "પ્રકરણ 6 - ક્રમચય, સંચય અને દ્વિપદી વિસ્તરણ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1ZykPgHONxcjYrOxNbh6P_wwVsnAQS8kI"
+              },
+              {
+                "name": "પ્રકરણ 7 - નિદર્શન પદ્ધતિઓ",
+                "pdf": "https://drive.google.com/uc?export=view&id=19xH8maR9ssqLAghykYIbxqA2Ci5R7-E0"
+              },
+              {
+                "name": "પ્રકરણ 8 - વિધેય",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Gb9j7UQqJvYJoDBDyq472ew3YCd6LZJf"
+              },
+              {
+                "name": "પ્રકરણ 9 - ગુણોત્તર-શ્રેણી",
+                "pdf": "https://drive.google.com/uc?export=view&id=1iIyOZl4zWHkZqDzNFTb4W074TbRXKEyZ"
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "eName": "Gujarati",
+            "gName": "ગુજરાતી",
+            "image": "https://media.istockphoto.com/illustrations/dark-technology-wallpaper-art-abstract-blue-background-illustration-id1307733990?k=20&m=1307733990&s=612x612&w=0&h=xZXebk6U1ZDX1NEk1TRNN8-ZZf2E57K0gP2q6n0hjOk=",
+            "paper": [
+              {
+                "id": "1",
+                "name": "Mathematics Standard 2020 Main Exam Set-1",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "2",
+                "name": "Mathematics Standard 2020 Main Exam Set-2",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "3",
+                "name": "Mathematics Standard 2020 Main Exam Set-3",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              },
+              {
+                "id": "4",
+                "name": "Mathematics Standard 2020 Main Exam Set-4",
+                "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              }
+            ],
+            "books": [
+              {
+                "name": "પ્રકરણ 1 નાવિક વળતો બોલિયો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1as6ZYwPIGmnUY3nqNH4YOxQRaSdgX10Y"
+              },
+              {
+                "name": "પ્રકરણ 2. પોસ્ટઑફિસ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Nm3sPBc5KvDuxlX1Ceh7rr95zfMj15Ys"
+              },
+              {
+                "name": "પ્રકરણ ૩. એમ ઉગાર્યો ચંદ્રહાસ",
+                "pdf": "https://drive.google.com/uc?export=view&id=13PszPrShqZLNdljofh-To5wOru4smq0k"
+              },
+              {
+                "name": "પ્રકરણ 4. અમૃતા",
+                "pdf": "https://drive.google.com/uc?export=view&id=14p7Rb1IWAmTLi7blEa3a54_d9NGt6A1C"
+              },
+              {
+                "name": "પ્રકરણ 5. છપ્પા/ઉખાણાં",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Na4SMD0hNQJuXG3CLIb049TQqt1MgSW9"
+              },
+              {
+                "name": "પ્રકરણ 6. સુંદરીની શોધ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1KZksKtQQjVc1wg-Ae-VCvzp5On0O-h6z"
+              },
+              {
+                "name": "પપ્રકરણ 7. વનમાં ચાંદલિયો ઊગ્યો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1WJH2otLXt58iGkME2LGuhINBfKl4sG_C"
+              },
+              {
+                "name": "પપ્રકરણ 8. બૂરાઈના દ્વાર પરથી",
+                "pdf": "https://drive.google.com/uc?export=view&id=1sFodaVk4QFD75M0Xr2ISqdrWA7jN2QKQ"
+              },
+              {
+                "name": "પ્રકરણ 9. ચક્રવામિથુન",
+                "pdf": "https://drive.google.com/uc?export=view&id=1lF6MQv3k7w7KIDwZCZZ5vvqdMS5UIjPl"
+              },
+              {
+                "name": "પ્રકરણ 10. જીભ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1hZawrEE9-x1vlwuLvGAbyvVr0gK5vmVz"
+              },
+              {
+                "name": "પ્રકરણ 11. સીમ અને ઘર",
+                "pdf": "https://drive.google.com/uc?export=view&id=1KuoOFc1FMyJG2l5ywNTZlUR1_lKzPw87"
+              },
+              {
+                "name": "પ્રકરણ 12. પ્રસંગદીપ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1jqA3iiaFgozhHgR0_z-IvdH10uZ1Kd2J"
+              },
+              {
+                "name": "પ્રકરણ 13. પરાજયની જીત",
+                "pdf": "https://drive.google.com/uc?export=view&id=1u0eHIYy_Jtcu0fcFZ49Oo0WqyEDTpFTh"
+              },
+              {
+                "name": "પ્રકરણ 14. વાત એક શાપની",
+                "pdf": "https://drive.google.com/uc?export=view&id=1_wTtu93o1UoHWVDI_KaFun2ecXH2bBUg"
+              },
+              {
+                "name": "પ્રકરણ 15. મારા ફળીનાં ઝાડવાં બે...",
+                "pdf": "https://drive.google.com/uc?export=view&id=1lqIDPM8YYe2bkAkONsCqyicCJBn0mpYL"
+              },
+              {
+                "name": "પ્રકરણ 16. તપસ્વી સારસ્વત",
+                "pdf": "https://drive.google.com/uc?export=view&id=1PQnJTDJx0l8Ts8SCPXgkcnk1XXXREIdN"
+              },
+              {
+                "name": "પ્રકરણ 17. ભજન કરે તે જીતે",
+                "pdf": "https://drive.google.com/uc?export=view&id=18x2YQnzmFzhBq5CrrMBrgtQSb9Mr662f"
+              },
+              {
+                "name": "પ્રકરણ 18. ભજન કરે તે જીતે",
+                "pdf": "https://drive.google.com/uc?export=view&id=1FHt3o9ysN9hm_TyLUdQg3QEpXGmmMjFe"
+              },
+              {
+                "name": "પ્રકરણ 19. કાવ્યદ્રયી",
+                "pdf": "https://drive.google.com/uc?export=view&id=11WTJuH_ieB9kY3tZ5rBz6axKJkk1aDDD"
+              },
+              {
+                "name": "પ્રકરણ 20. સ્ટેચ્યૂ રમવાની મઝા",
+                "pdf": "https://drive.google.com/uc?export=view&id=1wKpnl9v3U2Uz6zRN-aPCLDtF0cEtptLd"
+              },
+              {
+                "name": "પ્રકરણ 21. સ્ટેચ્યૂ રમવાની મઝા",
+                "pdf": "https://drive.google.com/uc?export=view&id=13ItVF1TSFqlaYrLLBWZ34R0Md-RV7f7s"
+              },
+              {
+                "name": "પ્રકરણ 22. જમાના પ્રમાણે",
+                "pdf": "https://drive.google.com/uc?export=view&id=17AtC8vN5dbSS9t5d6WsvX1IeHKnGsSwo"
+              },
+              {
+                "name": "પ્રકરણ 23. સહી નથી",
+                "pdf": "https://drive.google.com/uc?export=view&id=1dF3lMMBL7L6Ql9LZ7Ee8hAVWVm8Okeii"
+              },
+              {
+                "name": "પ્રકરણ 24. રેફરન્સ બુક",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Fk6boYwz7yHv_Tw2vM6qrbE7QIyJclBQ"
+              },
+              {
+                "name": "પ્રકરણ 25. દુહા, મુક્તક, હાઇકુ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1pbEZPo0a1Sr5LAbpwuTLvt567tKsUKZd"
+              },
+              {
+                "name": "પ્રકરણ 26. બે દૃષ્ટાંત કથાઓ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1TUdG7KA0hR6ZdZxZ4m9RCM03BCkwWj5z"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "backImage": "https://c4.wallpaperflare.com/wallpaper/707/220/899/gradient-blue-pink-abstract-art-wallpaper-preview.jpg",
+        "name": "12 Class Commerce",
+        "image": "https://cdn3d.iconscout.com/3d/premium/thumb/hand-hold-marker-4363695-3640372.png",
+        "sub": [
+          {
+            "id": "1",
+            "eName": "Economics",
+            "gName": "અર્થશાસ્ત્ર",
+            "image": "https://t3.ftcdn.net/jpg/03/23/85/24/360_F_323852446_IJaIt5k1EiiYmfwKc5puBlxn8GVMrF2z.jpg",
+            "paper": [
+              {
+                "id": "1",
+                "name": "Eco - 2022 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1-B56xzCOtVcct_p4g1d4UTTu9VN3R1J1"
+              },
+              {
+                "id": "2",
+                "name": "Economics - 2022 July",
+                "pdf": "https://drive.google.com/uc?export=view&id=1ksprZ6MDPJ44Q7T7RK4OkxcpcM0ARDhm"
+              },
+              {
+                "id": "3",
+                "name": "Economics - 2020 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1c_H6wZnVHNJ-G7wyMcAEmQySFS0XxXlp"
+              },
+              {
+                "id": "4",
+                "name": "Economics - 2019 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1nkIT2EW1K1mSpd91j1kqBt6mkzO8LOmj"
+              },
+              {
+                "id": "5",
+                "name": "Economics - 2018 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1HI6Qf9_Qgp-lEpiJqcOFiU7JioHi4nA9"
+              },
+              {
+                "id": "6",
+                "name": "Economics - 2018 July",
+                "pdf": "https://drive.google.com/uc?export=view&id=1q3EpglZ5tl2vJ5ZKTwGlG55EA6NXL2ys"
+              }
+            ],
+            "books": [
+              {
+                "name": "પ્રકરણ 1 અર્થશાસ્ત્ર : વિષય પ્રવેશ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1D3kYvwKmMVA2mwkyfb6VhgfOOWmdeEq3"
+              },
+              {
+                "name": "પ્રકરણ 2. મૂળભૂત ખ્યાલો અને સંકલ્પનાઓ",
+                "pdf": "https://drive.google.com/uc?export=view&id=15lSbJHf9_heHfrdLm8IU7Rp2KKQJM_Za"
+              },
+              {
+                "name": "પ્રકરણ ૩. માંગ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1VhmTQ7XZASz0mO9VhnMq3EpZjNxa4OeD"
+              },
+              {
+                "name": "પ્રકરણ 4. પુરવઠો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1LQCg2nkSdvu0XSdaU-3JDxVZqQmkTWWg"
+              },
+              {
+                "name": "પ્રકરણ 5. આવક અને ખર્ચના ખ્યાલો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Vjwp1ZAwCLUlZdnL0aZcuPuGg0eqY8Ec"
+              },
+              {
+                "name": "પ્રકરણ 6. બજાર",
+                "pdf": "https://drive.google.com/uc?export=view&id=1hvY94-tDgVhRVKDTaGVrUkBqCwa0BuI6"
+              },
+              {
+                "name": "પપ્રકરણ 7. ભારતીય અર્થતંત્ર",
+                "pdf": "https://drive.google.com/uc?export=view&id=1f84xbZrO2tHn_5xRN33TzJ-wpYXVvaGi"
+              },
+              {
+                "name": "પપ્રકરણ 8. આર્થિક સુધારાઓ",
+                "pdf": "https://drive.google.com/uc?export=view&id=16Zd5XqsGySdxw-GSK9G8Ftm9IW5Kwte7"
+              },
+              {
+                "name": "પ્રકરણ 9. રાષ્ટ્રીય આવક",
+                "pdf": "https://drive.google.com/uc?export=view&id=1V2DaoiqLolQz-SQFnBjWn_FXglgCwHdU"
+              },
+              {
+                "name": "પ્રકરણ 10. અંદાજપત્ર",
+                "pdf": "https://drive.google.com/uc?export=view&id=1rYGDwaPBRVdu4tGrot9CdSTz4S5bQQEy"
+              },
+              {
+                "name": "પ્રકરણ 11. આર્થિક વિચારો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1a047zT1v8AgoKZhFE1OsCIBZMRu4i13s"
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "eName": "Business Studies",
+            "gName": "ધંધાકીય ભણતર",
+            "image": "https://www.emeraldgrouppublishing.com/sites/default/files/image/MicrosoftTeams-image%20%2821%29_0.png.jpg",
+            "paper": [
+              {
+                "id": "1",
+                "name": "BA - 2018 July",
+                "pdf": "https://drive.google.com/uc?export=view&id=18DlVVEbuiye0EDsyh6S7rSt2iUf-1wmi"
+              },
+              {
+                "id": "2",
+                "name": "BA - 2018 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1INM_7kOZnSCejpnj5s47AfGMbyH1Gwnj"
+              },
+              {
+                "id": "3",
+                "name": "BA - 2019 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=10OubKAqYuK42f7oMvzAcmO80O_J__m8x"
+              },
+              {
+                "id": "4",
+                "name": "BA - 2020 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1bw9ibDZDqN6d_iQ1VKHrHNSv8acOb5QK"
+              },
+              {
+                "id": "5",
+                "name": "BA - 2022 July",
+                "pdf": "https://drive.google.com/uc?export=view&id=1-mw_r90y5ZS-_n-LLdJJP-fqKQItjqGd"
+              },
+              {
+                "id": "6",
+                "name": "BA - 2022 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1LQnbdumG7VyQDzy_W_RNAm8Cn3R0CBvE"
+              }
+            ],
+            "books": [
+              {
+                "name": "પ્રકરણ 1 ધંધાનું સ્વરૂપ, હેતુ અને કાર્યક્ષેત્ર",
+                "pdf": "https://drive.google.com/uc?export=view&id=1QaNm2p0G4Q-Fq8hXuzEvOqC8V5xxArWd"
+              },
+              {
+                "name": "પ્રકરણ 2. ધંધાકીય સેવાઓ-1",
+                "pdf": "https://drive.google.com/uc?export=view&id=1jtdUCeSoqzbDA3-Zt9_ZZU3u0FWwmbW2"
+              },
+              {
+                "name": "પ્રકરણ ૩. ધંધાકીય સેવાઓ-2",
+                "pdf": "https://drive.google.com/uc?export=view&id=1kjPTJ98gvl4uiUtMQSdEsGB-bkX4YIYT"
+              },
+              {
+                "name": "પ્રકરણ 4. માહિતીસંચાર, ઈ-કૉમર્સ અને આઉટસોર્સિંગ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1LA0Kb2Fcc7b3zxOC_fOxgv9K4pu9J8MZ"
+              },
+              {
+                "name": "પ્રકરણ 5. ધંધાકીય વ્યવસ્થાનાં સ્વરૂપો-1",
+                "pdf": "https://drive.google.com/uc?export=view&id=1sQke38XwwrD76WOjrXdNN7wQakKbcFLm"
+              },
+              {
+                "name": "પ્રકરણ 6. ધંધાકીય વ્યવસ્થાનાં સ્વરૂપો-2",
+                "pdf": "https://drive.google.com/uc?export=view&id=1-SEj06UZ6eOjqZkuwyeQ4y8-p8KecGi3"
+              },
+              {
+                "name": "પપ્રકરણ 7. જાહેરક્ષેત્ર, ખાનગીક્ષેત્ર અને વૈશ્વિક સાહસો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1SLI2od_rZwDnRsCzpohPFJl17F9-vx_D"
+              },
+              {
+                "name": "પપ્રકરણ 8. તધંધાકીય મૂડીનાં પ્રાપ્તિસ્થાનો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1TWXq-hMtMtQQAT1b_XaTaFsRygfb01RB"
+              },
+              {
+                "name": "પ્રકરણ 9. આંતરિક વેપાર",
+                "pdf": "https://drive.google.com/uc?export=view&id=1mh-qTTr2e8WQpA9fL5AwySAuLFV3oJmc"
+              },
+              {
+                "name": "પ્રકરણ 10. આંતરરાષ્ટ્રીય વેપાર",
+                "pdf": "https://drive.google.com/uc?export=view&id=1DW9MOkAm5VWhXAtef7j2fPT4rBAcaXWV"
+              },
+              {
+                "name": "પ્રકરણ 11. ધંધાની સામાજિક જવાબદારી",
+                "pdf": "https://drive.google.com/uc?export=view&id=1G9rq2y_CVdJmgFef3FgmoogrkVyBS92q"
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "eName": "Accountancy Part",
+            "gName": "એકાઉન્ટન્સી",
+            "image": "https://www.pngmagic.com/product_images/yellow-orange-gradient-vector-background.jpg",
+            "paper": [
+              {
+                "id": "1",
+                "name": "Account - 2022 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1PfSg8xME4RlIIM6f8ijaYruCfNiUtYNs"
+              },
+              {
+                "id": "2",
+                "name": "Account - 2021 July",
+                "pdf": "https://drive.google.com/uc?export=view&id=1uN34jjgDgQBB37Af4FL5navcFc_O6as9"
+              },
+              {
+                "id": "3",
+                "name": "Account - 2020 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=14F3Be7jL-bUmRBKdHJ8Si0Z5EDDV0qxS"
+              },
+              {
+                "id": "4",
+                "name": "Account - 2019 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1IhzCLeR5CnCOMXOP6WTvlf6VGnJlsFQg"
+              },
+              {
+                "id": "5",
+                "name": "Account - 2018 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=10SGaTW4Hl9-AzYXjIcM9BXcSZHoqx33W"
+              },
+              {
+                "id": "6",
+                "name": "Account - 2018 July",
+                "pdf": "https://drive.google.com/uc?export=view&id=1_k_Iz8gas6tF-1mHDxBg45CNz3pvXBPY"
+              }
+            ],
+            "books": [
+              {
+                "name": "પ્રકરણ 1 - હિસાબીપદ્ધતિ અને તેના પારિભાષિક શબ્દો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1_XBS5UGBflLhB-NtCeNDL-xV1TwH0lJK"
+              },
+              {
+                "name": "પ્રકરણ 2 - વ્યવહારોની દ્વિ-અસર અને ખાતાનાં પ્રકાર",
+                "pdf": "https://drive.google.com/uc?export=view&id=1188-M0_pKUEsXgC0kj719XW8AX6zYzDc"
+              },
+              {
+                "name": "પપ્રકરણ 3 - વસ્તુઓ અને સેવાઓ કર : પરિચય",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Uj1TJJ4AP5Inxydi10T7cdVcFp-gH5BO"
+              },
+              {
+                "name": "પ્રકરણ 4 - આમનોંધ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1_RxoMTEVbSlEgMYGxLkxQF4JbigIxRoD"
+              },
+              {
+                "name": "પ્રકરણ 5 - હિસાબી સમીકરણ અને ધંધાના વ્યવહારો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1njdYIWP2AIJJFjWgMzxPieXF5YVRrTsr"
+              },
+              {
+                "name": "પ્રકરણ 6 - પેટાનોંધો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1CbeyHUWnmtH-hW5UkDU5OagVCtlCFV0_"
+              },
+              {
+                "name": "પ્રકરણ 7 - રોકડમેળ અને તેના પ્રકારો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1h4xazLUAoHG2aUJafi_aDGtvY3tLw6xi"
+              },
+              {
+                "name": "પ્રકરણ 8 - ખાસ આમનોંધ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1LiiPbe7EiRB-9FuWKpj97sfpHd_iwXOB"
+              },
+              {
+                "name": "પ્રકરણ 9 - ખાતાવહી-ખતવણી",
+                "pdf": "https://drive.google.com/uc?export=view&id=1aTqP5_fmgEfOEG7CnYK1b95lm_voV4mD"
+              },
+              {
+                "name": "પ્રકરણ 10 - કાચું સરવૈયું",
+                "pdf": "https://drive.google.com/uc?export=view&id=1fqAjs4MvqLCpFhNYumoWHm-qPz8T4g5v"
+              },
+              {
+                "name": "પ્રકરણ 11 - બૅન્ક સિલકમેળ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Q-ety-e9vA-In0jEGJh8XvcCADn8QRtw"
+              },
+              {
+                "name": "પ્રકરણ 1 - ભૂલ-સુધારણા",
+                "pdf": "https://drive.google.com/uc?export=view&id=1OPFETXy49dxNjK228zO9Glr-5LsGu4ZL"
+              },
+              {
+                "name": "પ્રકરણ 2 - ઘસારાના હિસાબો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1a5uwPhMn4JAsfVLFyHMprBm46zXRii4v"
+              },
+              {
+                "name": "પ્રકરણ 3 - જોગવાઇઓ અને અનામતો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1oaQOBU8GcBhA4PZtXSoqewoGR-nqzH8t"
+              },
+              {
+                "name": "પ્રકરણ 4 - હૂંડીઓ",
+                "pdf": "https://drive.google.com/uc?export=view&id=11636b8R19rwKeQXV5t7DuSxYn0n1Y6HE"
+              },
+              {
+                "name": "પ્રકરણ 5 - ધંધાકીય એકમોના નાણાકીય (હિસાબી) પત્રકો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1X3AVGkKrXQ4ICfB8rr_vmwMtJ4a2dZhR"
+              },
+              {
+                "name": "પ્રકરણ 6 - હિસાબીપદ્ધતિની પ્રણાલિકાઓ-ધારણાઓ, ખ્યાલો અને સિદ્ધાંતો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1mqU58RPz1tljMlAZRMNHcCIq5C7zKko3"
+              },
+              {
+                "name": "પ્રકરણ 7 - હિસાબી ધોરણો : ખ્યાલ અને ઉદ્દેશો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1DLk74wPswrdwtz9TT_AtwLVR7-lyyDNM"
+              },
+              {
+                "name": "પ્રકરણ 8 - દેશી નામાપદ્ધતિ : પરિચય",
+                "pdf": "https://drive.google.com/uc?export=view&id=1NJUkJIh3FnHSiftlNsXXAEDbO307uShw"
+              },
+              {
+                "name": "પ્રકરણ 9 - બિનવેપારી સંસ્થાના હિસાબો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Kl6rXRtNv5vF3UzHn17rPKRCS8XqdtM7"
+              },
+              {
+                "name": "પ્રકરણ 10 - અપૂર્ણ (અધૂરી) માહિતી પરથી હિસાબો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1QApH3VrWjmmdWYaIL9_q8zblzJUN1IBI"
+              },
+              {
+                "name": "પ્રકરણ 11 - હિસાબીપદ્ધતિ અને કમ્પ્યૂટર",
+                "pdf": "https://drive.google.com/uc?export=view&id=1DxGUBBO7_xf2nYRO7S454yRmwLBkaD7D"
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "eName": "English",
+            "gName": "અંગ્રેજી",
+            "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg",
+            "paper": [
+              {
+                "id": "1",
+                "name": "English (SL) - 2022 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1-_hKKPcSf39y_D5CPl0cYvqaj5VL0F53"
+              },
+              {
+                "id": "2",
+                "name": "English (SL) - 2022 July",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Hl46GwYj5dXut1MU3MQLvAQz0rDXtcUx"
+              },
+              {
+                "id": "3",
+                "name": "English - 2020 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1ju_2_L7mVTXEOUjdYwtIHFsaWvtJse7g"
+              },
+              {
+                "id": "4",
+                "name": "English - 2019 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1keNVB6HH8W22PrFemnDe6cxrmco7W4NK"
+              },
+              {
+                "id": "5",
+                "name": "English - 2018 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1x0JlXfBOdWkQismoCGsFjaWm9CNIgUWx"
+              },
+              {
+                "id": "6",
+                "name": "English - 2018 July",
+                "pdf": "https://drive.google.com/uc?export=view&id=1eAdIkcuKt-shVXwRP6X6grf44b1oM2Do"
+              }
+            ],
+            "books": [
+              {
+                "name": "UNIT 1",
+                "pdf": "https://drive.google.com/uc?export=view&id=1gq7vbwD2RflXkLHBbg63hThEkB9MJtGe"
+              },
+              {
+                "name": "UNIT 2",
+                "pdf": "https://drive.google.com/uc?export=view&id=1vp5Syku-vJDkGohsZuYi8GID2t7IxJ5J"
+              },
+              {
+                "name": "UNIT 3",
+                "pdf": "https://drive.google.com/uc?export=view&id=1St2TxNuH0CgvOV7SuL9BULO0oc3UvKB6"
+              },
+              {
+                "name": "UNIT 4",
+                "pdf": "https://drive.google.com/uc?export=view&id=19E2EyBa9SoTro5nq_SetyyRGNbippA1Q"
+              },
+              {
+                "name": "UNIT 5",
+                "pdf": "https://drive.google.com/uc?export=view&id=1hRBhJdRNFxqGleui0lKfd7ZTyigoNR36"
+              },
+              {
+                "name": "UNIT 6",
+                "pdf": "https://drive.google.com/uc?export=view&id=1pvYNTiGC5EnEY9cifVdbCLKRpupvSjoE"
+              },
+              {
+                "name": "UNIT 7",
+                "pdf": "https://drive.google.com/uc?export=view&id=1ZVG4e6hnAW_MjTGKcJbc0NFDGtz5IT71"
+              },
+              {
+                "name": "UNIT 8",
+                "pdf": "https://drive.google.com/uc?export=view&id=1275PitYYc9eyKx5dIpqT42QiR8TI80gL"
+              },
+              {
+                "name": "UNIT 9",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Wk4WS5iqXUg36yuTkW9nnfuhQ3Xgca_L"
+              },
+              {
+                "name": "UNIT 10",
+                "pdf": "https://drive.google.com/uc?export=view&id=13daqQ_1GelXqWJzMKH38poJuzaYAqg64"
+              }
+            ]
+          },
+          {
+            "id": "5",
+            "eName": "Statistics",
+            "gName": "આંકડા શાસ્ત્ર",
+            "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/04/Gradient-Featured-Image-03.jpg?w=960&h=600&crop=1",
+            "paper": [
+              {
+                "id": "1",
+                "name": "Statistics - 2022 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1CA5KJF_tdkRq7ZNH_mvQxbqf8PXfY2Eh"
+              },
+              {
+                "id": "2",
+                "name": "Statistics - 2022 July",
+                "pdf": "https://drive.google.com/uc?export=view&id=1xEeckhL3ANd6KEpSw3zWisXpWx4AcUX1"
+              },
+              {
+                "id": "3",
+                "name": "Statistics - 2020 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Exs8Ugru9eeVW0gP5HtZx3dg3lbTinN0"
+              },
+              {
+                "id": "4",
+                "name": "Statistics - 2019 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1o34G7vKU7kDjxX6ZR3_6Rd6Ar1yaqtk9"
+              },
+              {
+                "id": "5",
+                "name": "Statistics - 2018 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1rwgwxSd24-gUZCEM7-uCZelMGdHNt5Qp"
+              },
+              {
+                "id": "6",
+                "name": "Statistics - 2018 July",
+                "pdf": "https://drive.google.com/uc?export=view&id=1HJUeMMWjuUBUOVytgVc8wnw03SoGGk-s"
+              }
+            ],
+            "books": [
+              {
+                "name": "પ્રકરણ 1 - માહિતીનું એકત્રિકીકરણ0",
+                "pdf": "https://drive.google.com/uc?export=view&id=1KT74MVj1_RM8ZXtpehvWdhUVBkGjhVr0"
+              },
+              {
+                "name": "પ્રકરણ 2 - માહિતીનું નિરૂપણ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1OeydpZBMPNozEvfZI5HL4puAQCNiKMn6"
+              },
+              {
+                "name": "પ્રકરણ 3 - મધ્યવર્તી સ્થિતિનાં માપ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1_Y5gqanMwYkAojj3D6r4YZtDan5gM0g5"
+              },
+              {
+                "name": "પ્રકરણ 4 - પ્રસારમાન",
+                "pdf": "https://drive.google.com/uc?export=view&id=13vz5jle2FWagbD_EA1k-NGN_6tX4MLeJ"
+              },
+              {
+                "name": "પ્રકરણ 5 - આવૃત્તિ-વિતરણની વિષમતા",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Q7dHNLktrCp1Mm4pE-2WoBc6K-0g9rnm"
+              },
+              {
+                "name": "પ્રકરણ 6 - ક્રમચય, સંચય અને દ્વિપદી વિસ્તરણ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1ZykPgHONxcjYrOxNbh6P_wwVsnAQS8kI"
+              },
+              {
+                "name": "પ્રકરણ 7 - નિદર્શન પદ્ધતિઓ",
+                "pdf": "https://drive.google.com/uc?export=view&id=19xH8maR9ssqLAghykYIbxqA2Ci5R7-E0"
+              },
+              {
+                "name": "પ્રકરણ 8 - વિધેય",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Gb9j7UQqJvYJoDBDyq472ew3YCd6LZJf"
+              },
+              {
+                "name": "પ્રકરણ 9 - ગુણોત્તર-શ્રેણી",
+                "pdf": "https://drive.google.com/uc?export=view&id=1iIyOZl4zWHkZqDzNFTb4W074TbRXKEyZ"
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "eName": "Gujarati",
+            "gName": "ગુજરાતી",
+            "image": "https://media.istockphoto.com/illustrations/dark-technology-wallpaper-art-abstract-blue-background-illustration-id1307733990?k=20&m=1307733990&s=612x612&w=0&h=xZXebk6U1ZDX1NEk1TRNN8-ZZf2E57K0gP2q6n0hjOk=",
+            "paper": [
+              {
+                "id": "1",
+                "name": "Gujarati - 2022 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1zZOC4jkRZ9OOTEH-Xo2S1dv98AjeTwJJ"
+              },
+              {
+                "id": "2",
+                "name": "Gujarati - 2020 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1qaHY9JpS1eu-erRaIe5F2rv-ofpJLN8l"
+              },
+              {
+                "id": "3",
+                "name": "Gujarati - 2019 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1l5aQx7qQimOuRQSG9j5ZJYpv6gRFbr6i"
+              },
+              {
+                "id": "4",
+                "name": "Gujarati - 2018 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1odmU320jpQeIVVJHz4w_7mCC5mfZZBCW"
+              },
+              {
+                "id": "5",
+                "name": "Gujarati - 2018 July",
+                "pdf": "https://drive.google.com/uc?export=view&id=11KEz9OIlCHg8UWcJNfHr7dB4laSIYK38"
+              }
+            ],
+            "books": [
+              {
+                "name": "પ્રકરણ 1 નાવિક વળતો બોલિયો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1as6ZYwPIGmnUY3nqNH4YOxQRaSdgX10Y"
+              },
+              {
+                "name": "પ્રકરણ 2. પોસ્ટઑફિસ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Nm3sPBc5KvDuxlX1Ceh7rr95zfMj15Ys"
+              },
+              {
+                "name": "પ્રકરણ ૩. એમ ઉગાર્યો ચંદ્રહાસ",
+                "pdf": "https://drive.google.com/uc?export=view&id=13PszPrShqZLNdljofh-To5wOru4smq0k"
+              },
+              {
+                "name": "પ્રકરણ 4. અમૃતા",
+                "pdf": "https://drive.google.com/uc?export=view&id=14p7Rb1IWAmTLi7blEa3a54_d9NGt6A1C"
+              },
+              {
+                "name": "પ્રકરણ 5. છપ્પા/ઉખાણાં",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Na4SMD0hNQJuXG3CLIb049TQqt1MgSW9"
+              },
+              {
+                "name": "પ્રકરણ 6. સુંદરીની શોધ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1KZksKtQQjVc1wg-Ae-VCvzp5On0O-h6z"
+              },
+              {
+                "name": "પપ્રકરણ 7. વનમાં ચાંદલિયો ઊગ્યો",
+                "pdf": "https://drive.google.com/uc?export=view&id=1WJH2otLXt58iGkME2LGuhINBfKl4sG_C"
+              },
+              {
+                "name": "પપ્રકરણ 8. બૂરાઈના દ્વાર પરથી",
+                "pdf": "https://drive.google.com/uc?export=view&id=1sFodaVk4QFD75M0Xr2ISqdrWA7jN2QKQ"
+              },
+              {
+                "name": "પ્રકરણ 9. ચક્રવામિથુન",
+                "pdf": "https://drive.google.com/uc?export=view&id=1lF6MQv3k7w7KIDwZCZZ5vvqdMS5UIjPl"
+              },
+              {
+                "name": "પ્રકરણ 10. જીભ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1hZawrEE9-x1vlwuLvGAbyvVr0gK5vmVz"
+              },
+              {
+                "name": "પ્રકરણ 11. સીમ અને ઘર",
+                "pdf": "https://drive.google.com/uc?export=view&id=1KuoOFc1FMyJG2l5ywNTZlUR1_lKzPw87"
+              },
+              {
+                "name": "પ્રકરણ 12. પ્રસંગદીપ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1jqA3iiaFgozhHgR0_z-IvdH10uZ1Kd2J"
+              },
+              {
+                "name": "પ્રકરણ 13. પરાજયની જીત",
+                "pdf": "https://drive.google.com/uc?export=view&id=1u0eHIYy_Jtcu0fcFZ49Oo0WqyEDTpFTh"
+              },
+              {
+                "name": "પ્રકરણ 14. વાત એક શાપની",
+                "pdf": "https://drive.google.com/uc?export=view&id=1_wTtu93o1UoHWVDI_KaFun2ecXH2bBUg"
+              },
+              {
+                "name": "પ્રકરણ 15. મારા ફળીનાં ઝાડવાં બે...",
+                "pdf": "https://drive.google.com/uc?export=view&id=1lqIDPM8YYe2bkAkONsCqyicCJBn0mpYL"
+              },
+              {
+                "name": "પ્રકરણ 16. તપસ્વી સારસ્વત",
+                "pdf": "https://drive.google.com/uc?export=view&id=1PQnJTDJx0l8Ts8SCPXgkcnk1XXXREIdN"
+              },
+              {
+                "name": "પ્રકરણ 17. ભજન કરે તે જીતે",
+                "pdf": "https://drive.google.com/uc?export=view&id=18x2YQnzmFzhBq5CrrMBrgtQSb9Mr662f"
+              },
+              {
+                "name": "પ્રકરણ 18. ભજન કરે તે જીતે",
+                "pdf": "https://drive.google.com/uc?export=view&id=1FHt3o9ysN9hm_TyLUdQg3QEpXGmmMjFe"
+              },
+              {
+                "name": "પ્રકરણ 19. કાવ્યદ્રયી",
+                "pdf": "https://drive.google.com/uc?export=view&id=11WTJuH_ieB9kY3tZ5rBz6axKJkk1aDDD"
+              },
+              {
+                "name": "પ્રકરણ 20. સ્ટેચ્યૂ રમવાની મઝા",
+                "pdf": "https://drive.google.com/uc?export=view&id=1wKpnl9v3U2Uz6zRN-aPCLDtF0cEtptLd"
+              },
+              {
+                "name": "પ્રકરણ 21. સ્ટેચ્યૂ રમવાની મઝા",
+                "pdf": "https://drive.google.com/uc?export=view&id=13ItVF1TSFqlaYrLLBWZ34R0Md-RV7f7s"
+              },
+              {
+                "name": "પ્રકરણ 22. જમાના પ્રમાણે",
+                "pdf": "https://drive.google.com/uc?export=view&id=17AtC8vN5dbSS9t5d6WsvX1IeHKnGsSwo"
+              },
+              {
+                "name": "પ્રકરણ 23. સહી નથી",
+                "pdf": "https://drive.google.com/uc?export=view&id=1dF3lMMBL7L6Ql9LZ7Ee8hAVWVm8Okeii"
+              },
+              {
+                "name": "પ્રકરણ 24. રેફરન્સ બુક",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Fk6boYwz7yHv_Tw2vM6qrbE7QIyJclBQ"
+              },
+              {
+                "name": "પ્રકરણ 25. દુહા, મુક્તક, હાઇકુ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1pbEZPo0a1Sr5LAbpwuTLvt567tKsUKZd"
+              },
+              {
+                "name": "પ્રકરણ 26. બે દૃષ્ટાંત કથાઓ",
+                "pdf": "https://drive.google.com/uc?export=view&id=1TUdG7KA0hR6ZdZxZ4m9RCM03BCkwWj5z"
+              }
+            ]
+          },
+          {
+            "id": "7",
+            "eName": "SPCC",
+            "gName": "વાણિજ્યિક પત્રવ્યવહાર અને સચિવાલય પ્રેક્ટિસ",
+            "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg",
+            "paper": [
+              {
+                "id": "1",
+                "name": "SPCC - 2022 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=11FBYgbiXwRT5swemRAKhI949Kb-TvHQp"
+              },
+              {
+                "id": "2",
+                "name": "SPCC - 2020 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1vGIApuq7EQFFqxkg-3ZQcDg-uBf1HULA"
+              },
+              {
+                "id": "3",
+                "name": "SPCC - 2019 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1dihrcJLFONzwppfpTIbHbREX1pAWs_kf"
+              },
+              {
+                "id": "4",
+                "name": "SPCC - 2018 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=17SCFgUGhJJOthZUyKbIy7yU8sGjHieqn"
+              },
+              {
+                "id": "5",
+                "name": "SPCC - 2018 July",
+                "pdf": "https://drive.google.com/uc?export=view&id=1UJsgaxMC1p-xzlpW8TmjNiCh4y_tOA7H"
+              }
+            ],
+            "books": []
+          },
+          {
+            "id": "8",
+            "eName": "Computer",
+            "gName": "કોમ્પ્યુટર",
+            "image": "https://c4.wallpaperflare.com/wallpaper/707/220/899/gradient-blue-pink-abstract-art-wallpaper-preview.jpg",
+            "paper": [
+              {
+                "id": "1",
+                "name": "Computer - 2022 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=11p7haip9GJ_Eb_-fCckT8HxpU-8q2trf"
+              },
+              {
+                "id": "2",
+                "name": "Computer - 2021 July",
+                "pdf": "https://drive.google.com/uc?export=view&id=1psjI0j80sIc5OpTEa08kkjqRK-LtXtnr"
+              },
+              {
+                "id": "3",
+                "name": "Computer - 2020 October",
+                "pdf": "https://drive.google.com/uc?export=view&id=1ttVMyITYVYFqufqc-1YUnRCRXeo31pnL"
+              },
+              {
+                "id": "4",
+                "name": "Computer - 2020 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Bu3uMXnGq8SCySRGSJADF8oFa8qy9qps"
+              },
+              {
+                "id": "5",
+                "name": "Computer - 2019 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1TfV1Va_gJFzv2D2bJ1x_5d7tPz9BQcep"
+              },
+              {
+                "id": "6",
+                "name": "Computer - 2018 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1ZHFaT2Do1zQzsaMwzX12j5ai16EKo868"
+              },
+              {
+                "id": "7",
+                "name": "Computer - 2017 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1Fs6KIzwNkFWvhxp6QrZpF7O0dBfFEsBC"
+              },
+              {
+                "id": "8",
+                "name": "Computer - 2016 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1uyOEMzMD_YpKtBKgDfbw8BRYW9Q7Ekem"
+              },
+              {
+                "id": "9",
+                "name": "Computer - 2015 March",
+                "pdf": "https://drive.google.com/uc?export=view&id=1IbyWONooj2S7fjDqvzW1Xqf5dFnpGHLa"
+              }
+            ],
+            "books": []
+          }
+        ]
+      }
+    ]
+  }
