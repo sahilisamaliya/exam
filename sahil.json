@@ -866,7 +866,7 @@
         },
         {
           "id": "3",
-          "eName": "Accountancy Part - 1",
+          "eName": "Accountancy Part",
           "gName": "એકાઉન્ટન્સી",
           "image": "https://www.pngmagic.com/product_images/yellow-orange-gradient-vector-background.jpg",
           "paper": [
@@ -935,37 +935,7 @@
             {
               "name": "પ્રકરણ 11 - બૅન્ક સિલકમેળ",
               "pdf": "https://drive.google.com/uc?export=view&id=1Q-ety-e9vA-In0jEGJh8XvcCADn8QRtw"
-            }
-          ]
-        },
-        {
-          "id": "4",
-          "eName": "Accountancy Part - 2",
-          "gName": "એકાઉન્ટન્સી",
-          "image": "https://www.pngmagic.com/product_images/yellow-orange-gradient-vector-background.jpg",
-          "paper": [
-            {
-              "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
             },
-            {
-              "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            }
-          ],
-          "books": [
             {
               "name": "પ્રકરણ 1 - ભૂલ-સુધારણા",
               "pdf": "https://drive.google.com/uc?export=view&id=1OPFETXy49dxNjK228zO9Glr-5LsGu4ZL"
@@ -1013,7 +983,7 @@
           ]
         },
         {
-          "id": "5",
+          "id": "4",
           "eName": "English",
           "gName": "અંગ્રેજી",
           "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg",
@@ -1083,7 +1053,7 @@
           ]
         },
         {
-          "id": "6",
+          "id": "5",
           "eName": "Statistics",
           "gName": "આંકડા શાસ્ત્ર",
           "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/04/Gradient-Featured-Image-03.jpg?w=960&h=600&crop=1",
@@ -1149,7 +1119,7 @@
           ]
         },
         {
-          "id": "7",
+          "id": "6",
           "eName": "Gujarati",
           "gName": "ગુજરાતી",
           "image": "https://media.istockphoto.com/illustrations/dark-technology-wallpaper-art-abstract-blue-background-illustration-id1307733990?k=20&m=1307733990&s=612x612&w=0&h=xZXebk6U1ZDX1NEk1TRNN8-ZZf2E57K0gP2q6n0hjOk=",
@@ -1382,23 +1352,33 @@
           "paper": [
             {
               "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "BA - 2018 July",
+              "pdf": "https://drive.google.com/uc?export=view&id=18DlVVEbuiye0EDsyh6S7rSt2iUf-1wmi"
             },
             {
               "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "BA - 2018 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1INM_7kOZnSCejpnj5s47AfGMbyH1Gwnj"
             },
             {
               "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "BA - 2019 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=10OubKAqYuK42f7oMvzAcmO80O_J__m8x"
             },
             {
               "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "BA - 2020 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1bw9ibDZDqN6d_iQ1VKHrHNSv8acOb5QK"
+            },
+            {
+              "id": "5",
+              "name": "BA - 2022 July",
+              "pdf": "https://drive.google.com/uc?export=view&id=1-mw_r90y5ZS-_n-LLdJJP-fqKQItjqGd"
+            },
+            {
+              "id": "6",
+              "name": "BA - 2022 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1LQnbdumG7VyQDzy_W_RNAm8Cn3R0CBvE"
             }
           ],
           "books": [
@@ -1450,29 +1430,39 @@
         },
         {
           "id": "3",
-          "eName": "Accountancy Part - 1",
+          "eName": "Accountancy Part",
           "gName": "એકાઉન્ટન્સી",
           "image": "https://www.pngmagic.com/product_images/yellow-orange-gradient-vector-background.jpg",
           "paper": [
             {
               "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "Account - 2022 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1PfSg8xME4RlIIM6f8ijaYruCfNiUtYNs"
             },
             {
               "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "Account - 2021 July",
+              "pdf": "https://drive.google.com/uc?export=view&id=1uN34jjgDgQBB37Af4FL5navcFc_O6as9"
             },
             {
               "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "Account - 2020 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=14F3Be7jL-bUmRBKdHJ8Si0Z5EDDV0qxS"
             },
             {
               "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "Account - 2019 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1IhzCLeR5CnCOMXOP6WTvlf6VGnJlsFQg"
+            },
+            {
+              "id": "5",
+              "name": "Account - 2018 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=10SGaTW4Hl9-AzYXjIcM9BXcSZHoqx33W"
+            },
+            {
+              "id": "6",
+              "name": "Account - 2018 July",
+              "pdf": "https://drive.google.com/uc?export=view&id=1_k_Iz8gas6tF-1mHDxBg45CNz3pvXBPY"
             }
           ],
           "books": [
@@ -1519,37 +1509,7 @@
             {
               "name": "પ્રકરણ 11 - બૅન્ક સિલકમેળ",
               "pdf": "https://drive.google.com/uc?export=view&id=1Q-ety-e9vA-In0jEGJh8XvcCADn8QRtw"
-            }
-          ]
-        },
-        {
-          "id": "4",
-          "eName": "Accountancy Part - 2",
-          "gName": "એકાઉન્ટન્સી",
-          "image": "https://www.pngmagic.com/product_images/yellow-orange-gradient-vector-background.jpg",
-          "paper": [
-            {
-              "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
             },
-            {
-              "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            },
-            {
-              "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
-            }
-          ],
-          "books": [
             {
               "name": "પ્રકરણ 1 - ભૂલ-સુધારણા",
               "pdf": "https://drive.google.com/uc?export=view&id=1OPFETXy49dxNjK228zO9Glr-5LsGu4ZL"
@@ -1597,30 +1557,40 @@
           ]
         },
         {
-          "id": "5",
+          "id": "4",
           "eName": "English",
           "gName": "અંગ્રેજી",
           "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg",
           "paper": [
             {
               "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "English (SL) - 2022 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1-_hKKPcSf39y_D5CPl0cYvqaj5VL0F53"
             },
             {
               "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "English (SL) - 2022 July",
+              "pdf": "https://drive.google.com/uc?export=view&id=1Hl46GwYj5dXut1MU3MQLvAQz0rDXtcUx"
             },
             {
               "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "English - 2020 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1ju_2_L7mVTXEOUjdYwtIHFsaWvtJse7g"
             },
             {
               "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "English - 2019 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1keNVB6HH8W22PrFemnDe6cxrmco7W4NK"
+            },
+            {
+              "id": "5",
+              "name": "English - 2018 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1x0JlXfBOdWkQismoCGsFjaWm9CNIgUWx"
+            },
+            {
+              "id": "6",
+              "name": "English - 2018 July",
+              "pdf": "https://drive.google.com/uc?export=view&id=1eAdIkcuKt-shVXwRP6X6grf44b1oM2Do"
             }
           ],
           "books": [
@@ -1667,30 +1637,40 @@
           ]
         },
         {
-          "id": "6",
+          "id": "5",
           "eName": "Statistics",
           "gName": "આંકડા શાસ્ત્ર",
           "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/04/Gradient-Featured-Image-03.jpg?w=960&h=600&crop=1",
           "paper": [
             {
               "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "Statistics - 2022 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1CA5KJF_tdkRq7ZNH_mvQxbqf8PXfY2Eh"
             },
             {
               "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "Statistics - 2022 July",
+              "pdf": "https://drive.google.com/uc?export=view&id=1xEeckhL3ANd6KEpSw3zWisXpWx4AcUX1"
             },
             {
               "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "Statistics - 2020 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1Exs8Ugru9eeVW0gP5HtZx3dg3lbTinN0"
             },
             {
               "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "Statistics - 2019 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1o34G7vKU7kDjxX6ZR3_6Rd6Ar1yaqtk9"
+            },
+            {
+              "id": "5",
+              "name": "Statistics - 2018 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1rwgwxSd24-gUZCEM7-uCZelMGdHNt5Qp"
+            },
+            {
+              "id": "6",
+              "name": "Statistics - 2018 July",
+              "pdf": "https://drive.google.com/uc?export=view&id=1HJUeMMWjuUBUOVytgVc8wnw03SoGGk-s"
             }
           ],
           "books": [
@@ -1733,30 +1713,35 @@
           ]
         },
         {
-          "id": "7",
+          "id": "6",
           "eName": "Gujarati",
           "gName": "ગુજરાતી",
           "image": "https://media.istockphoto.com/illustrations/dark-technology-wallpaper-art-abstract-blue-background-illustration-id1307733990?k=20&m=1307733990&s=612x612&w=0&h=xZXebk6U1ZDX1NEk1TRNN8-ZZf2E57K0gP2q6n0hjOk=",
           "paper": [
             {
               "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "Gujarati - 2022 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1zZOC4jkRZ9OOTEH-Xo2S1dv98AjeTwJJ"
             },
             {
               "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "Gujarati - 2020 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1qaHY9JpS1eu-erRaIe5F2rv-ofpJLN8l"
             },
             {
               "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "Gujarati - 2019 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1l5aQx7qQimOuRQSG9j5ZJYpv6gRFbr6i"
             },
             {
               "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "Gujarati - 2018 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1odmU320jpQeIVVJHz4w_7mCC5mfZZBCW"
+            },
+            {
+              "id": "5",
+              "name": "Gujarati - 2018 July",
+              "pdf": "https://drive.google.com/uc?export=view&id=11KEz9OIlCHg8UWcJNfHr7dB4laSIYK38"
             }
           ],
           "books": [
@@ -1865,6 +1850,94 @@
               "pdf": "https://drive.google.com/uc?export=view&id=1TUdG7KA0hR6ZdZxZ4m9RCM03BCkwWj5z"
             }
           ]
+        },
+        {
+          "id": "7",
+          "eName": "SPCC",
+          "gName": "વાણિજ્યિક પત્રવ્યવહાર અને સચિવાલય પ્રેક્ટિસ",
+          "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg",
+          "paper": [
+            {
+              "id": "1",
+              "name": "SPCC - 2022 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=11FBYgbiXwRT5swemRAKhI949Kb-TvHQp"
+            },
+            {
+              "id": "2",
+              "name": "SPCC - 2020 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1vGIApuq7EQFFqxkg-3ZQcDg-uBf1HULA"
+            },
+            {
+              "id": "3",
+              "name": "SPCC - 2019 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1dihrcJLFONzwppfpTIbHbREX1pAWs_kf"
+            },
+            {
+              "id": "4",
+              "name": "SPCC - 2018 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=17SCFgUGhJJOthZUyKbIy7yU8sGjHieqn"
+            },
+            {
+              "id": "5",
+              "name": "SPCC - 2018 July",
+              "pdf": "https://drive.google.com/uc?export=view&id=1UJsgaxMC1p-xzlpW8TmjNiCh4y_tOA7H"
+            }
+          ],
+          "books": []
+        },
+        {
+          "id": "8",
+          "eName": "Computer",
+          "gName": "કોમ્પ્યુટર",
+          "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg",
+          "paper": [
+            {
+              "id": "1",
+              "name": "Computer - 2022 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=11p7haip9GJ_Eb_-fCckT8HxpU-8q2trf"
+            },
+            {
+              "id": "2",
+              "name": "Computer - 2021 July",
+              "pdf": "https://drive.google.com/uc?export=view&id=1psjI0j80sIc5OpTEa08kkjqRK-LtXtnr"
+            },
+            {
+              "id": "3",
+              "name": "Computer - 2020 October",
+              "pdf": "https://drive.google.com/uc?export=view&id=1ttVMyITYVYFqufqc-1YUnRCRXeo31pnL"
+            },
+            {
+              "id": "4",
+              "name": "Computer - 2020 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1Bu3uMXnGq8SCySRGSJADF8oFa8qy9qps"
+            },
+            {
+              "id": "5",
+              "name": "Computer - 2019 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1TfV1Va_gJFzv2D2bJ1x_5d7tPz9BQcep"
+            },
+            {
+              "id": "6",
+              "name": "Computer - 2018 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1ZHFaT2Do1zQzsaMwzX12j5ai16EKo868"
+            },
+            {
+              "id": "7",
+              "name": "Computer - 2017 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1Fs6KIzwNkFWvhxp6QrZpF7O0dBfFEsBC"
+            },
+            {
+              "id": "8",
+              "name": "Computer - 2016 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1uyOEMzMD_YpKtBKgDfbw8BRYW9Q7Ekem"
+            },
+            {
+              "id": "9",
+              "name": "Computer - 2015 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1IbyWONooj2S7fjDqvzW1Xqf5dFnpGHLa"
+            }
+          ],
+          "books": []
         }
       ]
     }
