@@ -1298,23 +1298,33 @@
           "paper": [
             {
               "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "Eco - 2022 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1-B56xzCOtVcct_p4g1d4UTTu9VN3R1J1"
             },
             {
               "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "Economics - 2022 July",
+              "pdf": "https://drive.google.com/uc?export=view&id=1ksprZ6MDPJ44Q7T7RK4OkxcpcM0ARDhm"
             },
             {
               "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "Economics - 2020 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1c_H6wZnVHNJ-G7wyMcAEmQySFS0XxXlp"
             },
             {
               "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4",
-              "pdf": "http://www.africau.edu/images/default/sample.pdf"
+              "name": "Economics - 2019 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1nkIT2EW1K1mSpd91j1kqBt6mkzO8LOmj"
+            },
+            {
+              "id": "5",
+              "name": "Economics - 2018 March",
+              "pdf": "https://drive.google.com/uc?export=view&id=1HI6Qf9_Qgp-lEpiJqcOFiU7JioHi4nA9"
+            },
+            {
+              "id": "6",
+              "name": "Economics - 2018 July",
+              "pdf": "https://drive.google.com/uc?export=view&id=1q3EpglZ5tl2vJ5ZKTwGlG55EA6NXL2ys"
             }
           ],
           "books": [
