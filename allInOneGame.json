@@ -1,0 +1,63 @@
+{
+    "status": "success",
+    "slider": [
+        {
+            "id": "0",
+            "gameurl": "",
+            "gameimage":"",
+            "gamename":"",
+            "gamedes" : ""
+        }
+    ],
+    "suggested" : [
+        {
+            "id": "0",
+            "gameurl": "",
+            "gameimage": "",
+            "gamename": "",
+            "gamedes": ""
+        }
+    ],
+    "newgame": [
+        {
+            "id": "0",
+            "gameurl": "",
+            "gameimage": "",
+            "gamename": "",
+            "gamedes": ""
+        }
+    ],
+    "toprating": [
+        {
+            "id": "0",
+            "gameurl": "",
+            "gameimage": "",
+            "gamename": "",
+            "gamedes": ""
+        }
+    ],
+    "topcharting": [
+        {
+            "id": "0",
+            "gameurl": "",
+            "gameimage": "",
+            "gamename": "",
+            "gamedes": ""
+        }
+    ],
+    "category": [
+        {
+            "id": "0",
+            "name": "Action",
+            "icon": "",
+           "actionList" : [
+            {
+                "gameurl": "",
+                "gameimage": "",
+                "gamename": "",
+                "gamedes": ""
+            }
+           ]
+        }
+    ]
+}
