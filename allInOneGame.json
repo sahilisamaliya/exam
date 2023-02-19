@@ -43,6 +43,19 @@
             "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/41e1eb2b214fcebb66ddcb924e936f96.png",
             "gamename": "Venge",
             "gamedes": "Venge.io is an online multiplayer First-Person Shooter game. It is a fast-paced shooter with an engaged and competitive community."
+        },{
+            "id": "1",
+            "gameurl": "https://poki.com/en/g/shape-fold-html5#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/f200da6eee6516670ed2dda7c65e7891.png",
+            "gamename": "Shape Fold",
+            "gamedes": "Shape Fold is a puzzle game created by Bikas. Shape Fold offers a fresh and unique spin on the classic jigsaw puzzle genre."
+        },
+        {
+            "id": "2",
+            "gameurl": "https://poki.com/en/g/murder#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=94,height=94,fit=cover,f=auto/baccf9660bfb476fe2c8ae9f5a2ec4d2.png",
+            "gamename": "Murder",
+            "gamedes": "Murder is a fun assasination game created by Studio Seufz. Creep up behind the king and take him out quickly and quietly. Be careful – if he catches you, it’s off to the dungeon with you!"
         }
     ],
     "newgame": [
