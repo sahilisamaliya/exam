@@ -64,7 +64,21 @@
             "id": "0",
             "name": "Action",
             "icon": "",
-            "actionList": [
+            "gameList": [
+                {
+                    "id": "0",
+                    "gameurl": "https://poki.com/en/g/subway-surfers#fullscreen",
+                    "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/584bae3da91feb104678e9c2a78d47c3.jpeg",
+                    "gamename": "Subway Surfers",
+                    "gamedes": "Subway Surfers is a classic endless runner game. You play as Jake, who surfs the subways and tries to escape from the grumpy Inspector and his dog. You'll need to dodge trains, trams, obstacles, and more to go as far as you can in this endless running game. Collect coins to unlock power-ups and special gear to help you go further every time in Subway Surfers. Furthermore, coins can be used to unlock different characters and boards. With your keys you can customize the characters and upgrade your hoverboards with special powers. Don't forget to complete the awards, since they give you keys. In 'MyTour' you can collect rewards from completing daily Word Hunts. You can also find missions there. Subway Surfers was created by Sybo in 2012. And till this day it is one of the most popular games online!"
+                }
+            ]
+        },
+        {
+            "id": "0",
+            "name": "Racing",
+            "icon": "",
+            "gameList": [
                 {
                     "id": "0",
                     "gameurl": "https://poki.com/en/g/subway-surfers#fullscreen",
