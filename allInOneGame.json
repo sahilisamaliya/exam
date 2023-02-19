@@ -6,7 +6,7 @@
             "gameurl": "https://poki.com/en/g/subway-surfers#fullscreen",
             "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/584bae3da91feb104678e9c2a78d47c3.jpeg",
             "gamename": "Subway Surfers",
-            "gamedes": "Subway Surfers is a classic endless runner game. You play as Jake, who surfs the subways and tries to escape from the grumpy Inspector and his dog. You'll need to dodge trains, trams, obstacles, and more to go as far as you can in this endless running game. Collect coins to unlock power-ups and special gear to help you go further every time in Subway Surfers. Furthermore, coins can be used to unlock different characters and boards. With your keys you can customize the characters and upgrade your hoverboards with special powers. Don't forget to complete the awards, since they give you keys. In 'MyTour' you can collect rewards from completing daily Word Hunts. You can also find missions there. Subway Surfers was created by Sybo in 2012. And till this day it is one of the most popular games online!"
+            "gamedes": "Subway Surfers is a classic endless runner game. You play as Jake, who surfs the subways and tries to escape from the grumpy Inspector and his dog."
         },
         {
             "id": "1",
@@ -14,6 +14,26 @@
             "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/41e1eb2b214fcebb66ddcb924e936f96.png",
             "gamename": "Venge",
             "gamedes": "Venge.io is an online multiplayer First-Person Shooter game. It is a fast-paced shooter with an engaged and competitive community. There are four standard game modes and maps and countless custom maps/game modes."
+        },
+        {
+            "id": "2",
+            "gameurl": "https://poki.com/en/g/monkey-mart#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/b3668d7deb043d0f43b5813b0365be8f.png",
+            "gamename": "Monkey Mart",
+            "gamedes": "Monkey Mart is an idle/management game made by TinyDobbins. You control a cute monkey character that just created their supermarket."
+        },
+        {
+            "id": "3",
+            "gameurl": "https://poki.com/en/g/sushi-party-io#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/e327f46027899af3e9573ef51450bb54.png",
+            "gamename": "Sushi Party",
+            "gamedes": "Sushi Party is a snake game in Kawaii-style. You are in an arena with other snakes and the goal is to make them bump into you."
+        },{
+            "id": "4",
+            "gameurl": "https://poki.com/en/g/soccer-skills-world-cup#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/1a9642e779cab413962255ea953d1155.png",
+            "gamename": "Soccer Skills World Cup",
+            "gamedes": "Drag your finger our mouse towards the direction you want to move. When you let go, you will kick the ball. The intensity of your drag will affect your speed as well as your power."
         }
     ],
     "suggested": [
@@ -22,7 +42,7 @@
             "gameurl": "https://poki.com/en/g/venge-io#fullscreen",
             "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/41e1eb2b214fcebb66ddcb924e936f96.png",
             "gamename": "Venge",
-            "gamedes": "Venge.io is an online multiplayer First-Person Shooter game. It is a fast-paced shooter with an engaged and competitive community. There are four standard game modes and maps and countless custom maps/game modes. Play with 7 different weapons and 4 different heroes. In the shop you can buy skins for your heroes and camos for your guns. Invite your friends by sharing the link in the lobby screen and enjoy this amazing game together!You can play Venge.io completely for free on your PC, mobile phone, or tablet. There is no download needed, just access the game directly in your browser. For the PC we also have full-screen mode available. Enjoy playing Venge.io on Poki and maybe we will see you on top of the leaderboards!"
+            "gamedes": "Venge.io is an online multiplayer First-Person Shooter game. It is a fast-paced shooter with an engaged and competitive community."
         }
     ],
     "newgame": [
@@ -31,16 +51,16 @@
             "gameurl": "https://poki.com/en/g/subway-surfers#fullscreen",
             "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/584bae3da91feb104678e9c2a78d47c3.jpeg",
             "gamename": "Subway Surfers",
-            "gamedes": "Subway Surfers is a classic endless runner game. You play as Jake, who surfs the subways and tries to escape from the grumpy Inspector and his dog. You'll need to dodge trains, trams, obstacles, and more to go as far as you can in this endless running game. Collect coins to unlock power-ups and special gear to help you go further every time in Subway Surfers. Furthermore, coins can be used to unlock different characters and boards. With your keys you can customize the characters and upgrade your hoverboards with special powers. Don't forget to complete the awards, since they give you keys. In 'MyTour' you can collect rewards from completing daily Word Hunts. You can also find missions there. Subway Surfers was created by Sybo in 2012. And till this day it is one of the most popular games online!"
+            "gamedes": "Subway Surfers is a classic endless runner game. You play as Jake, who surfs the subways and tries to escape from the grumpy Inspector and his dog."
         }
     ],
     "toprating": [
         {
-           "id": "0",
-        "gameurl": "https://poki.com/en/g/subway-surfers#fullscreen",
-        "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/584bae3da91feb104678e9c2a78d47c3.jpeg",
-        "gamename": "Subway Surfers",
-        "gamedes": "Subway Surfers is a classic endless runner game. You play as Jake, who surfs the subways and tries to escape from the grumpy Inspector and his dog. You'll need to dodge trains, trams, obstacles, and more to go as far as you can in this endless running game. Collect coins to unlock power-ups and special gear to help you go further every time in Subway Surfers. Furthermore, coins can be used to unlock different characters and boards. With your keys you can customize the characters and upgrade your hoverboards with special powers. Don't forget to complete the awards, since they give you keys. In 'MyTour' you can collect rewards from completing daily Word Hunts. You can also find missions there. Subway Surfers was created by Sybo in 2012. And till this day it is one of the most popular games online!"
+            "id": "0",
+            "gameurl": "https://poki.com/en/g/subway-surfers#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/584bae3da91feb104678e9c2a78d47c3.jpeg",
+            "gamename": "Subway Surfers",
+            "gamedes": "Subway Surfers is a classic endless runner game. You play as Jake, who surfs the subways and tries to escape from the grumpy Inspector and his dog."
         }
     ],
     "topcharting": [
@@ -49,14 +69,14 @@
             "gameurl": "https://poki.com/en/g/subway-surfers#fullscreen",
             "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/584bae3da91feb104678e9c2a78d47c3.jpeg",
             "gamename": "Subway Surfers",
-            "gamedes": "Subway Surfers is a classic endless runner game. You play as Jake, who surfs the subways and tries to escape from the grumpy Inspector and his dog. You'll need to dodge trains, trams, obstacles, and more to go as far as you can in this endless running game. Collect coins to unlock power-ups and special gear to help you go further every time in Subway Surfers. Furthermore, coins can be used to unlock different characters and boards. With your keys you can customize the characters and upgrade your hoverboards with special powers. Don't forget to complete the awards, since they give you keys. In 'MyTour' you can collect rewards from completing daily Word Hunts. You can also find missions there. Subway Surfers was created by Sybo in 2012. And till this day it is one of the most popular games online!"
+            "gamedes": "Subway Surfers is a classic endless runner game. You play as Jake, who surfs the subways and tries to escape from the grumpy Inspector and his dog."
         },
         {
             "id": "1",
             "gameurl": "https://poki.com/en/g/venge-io#fullscreen",
             "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/41e1eb2b214fcebb66ddcb924e936f96.png",
             "gamename": "Venge",
-            "gamedes": "Venge.io is an online multiplayer First-Person Shooter game. It is a fast-paced shooter with an engaged and competitive community. There are four standard game modes and maps and countless custom maps/game modes."
+            "gamedes": "Subway Surfers is a classic endless runner game. You play as Jake, who surfs the subways and tries to escape from the grumpy Inspector and his dog."
         }
     ],
     "category": [
@@ -70,7 +90,7 @@
                     "gameurl": "https://poki.com/en/g/subway-surfers#fullscreen",
                     "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/584bae3da91feb104678e9c2a78d47c3.jpeg",
                     "gamename": "Subway Surfers",
-                    "gamedes": "Subway Surfers is a classic endless runner game. You play as Jake, who surfs the subways and tries to escape from the grumpy Inspector and his dog. You'll need to dodge trains, trams, obstacles, and more to go as far as you can in this endless running game. Collect coins to unlock power-ups and special gear to help you go further every time in Subway Surfers. Furthermore, coins can be used to unlock different characters and boards. With your keys you can customize the characters and upgrade your hoverboards with special powers. Don't forget to complete the awards, since they give you keys. In 'MyTour' you can collect rewards from completing daily Word Hunts. You can also find missions there. Subway Surfers was created by Sybo in 2012. And till this day it is one of the most popular games online!"
+                    "gamedes": "Subway Surfers is a classic endless runner game. You play as Jake, who surfs the subways and tries to escape from the grumpy Inspector and his dog."
                 }
             ]
         },
@@ -83,15 +103,8 @@
                     "id": "0",
                     "gameurl": "https://poki.com/en/g/subway-surfers#fullscreen",
                     "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/584bae3da91feb104678e9c2a78d47c3.jpeg",
-                    "gamename": "Venom",
-                    "gamedes": "Subway Surfers is a classic endless runner game. You play as Jake, who surfs the subways and tries to escape from the grumpy Inspector and his dog. You'll need to dodge trains, trams, obstacles, and more to go as far as you can in this endless running game. Collect coins to unlock power-ups and special gear to help you go further every time in Subway Surfers. Furthermore, coins can be used to unlock different characters and boards. With your keys you can customize the characters and upgrade your hoverboards with special powers. Don't forget to complete the awards, since they give you keys. In 'MyTour' you can collect rewards from completing daily Word Hunts. You can also find missions there. Subway Surfers was created by Sybo in 2012. And till this day it is one of the most popular games online!"
-                },
-                {
-                    "id": "1",
-                    "gameurl": "https://poki.com/en/g/subway-surfers#fullscreen",
-                    "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/584bae3da91feb104678e9c2a78d47c3.jpeg",
-                    "gamename": "Venom",
-                    "gamedes": "Subway Surfers is a classic endless runner game. You play as Jake, who surfs the subways and tries to escape from the grumpy Inspector and his dog. You'll need to dodge trains, trams, obstacles, and more to go as far as you can in this endless running game. Collect coins to unlock power-ups and special gear to help you go further every time in Subway Surfers. Furthermore, coins can be used to unlock different characters and boards. With your keys you can customize the characters and upgrade your hoverboards with special powers. Don't forget to complete the awards, since they give you keys. In 'MyTour' you can collect rewards from completing daily Word Hunts. You can also find missions there. Subway Surfers was created by Sybo in 2012. And till this day it is one of the most popular games online!"
+                    "gamename": "Subway Surfers",
+                    "gamedes": "Subway Surfers is a classic endless runner game. You play as Jake, who surfs the subways and tries to escape from the grumpy Inspector and his dog."
                 }
             ]
         }
