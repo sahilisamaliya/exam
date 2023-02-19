@@ -82,16 +82,31 @@
         },
         {
             "id": "6",
-            "gameurl": "https://poki.com/en/g/gold-digger-frvr#fullscreen",
+            "gameurl": "https://poki.com/en/g/retro-bowl#fullscreen",
             "gameimage": "https://www.operationsports.com/wp-content/uploads/2022/02/cover.png",
             "gamename": "Retro Bowl",
             "gamedes": "Retro Bowl is an American style football game created by New Star Games. Are you ready to manage your dream team into victory? Be the boss of your NFL franchise."
-        },{
+        },
+        {
             "id": "7",
             "gameurl": "https://poki.com/en/g/like-a-king#fullscreen",
             "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/f0cd739414e134d667d7025aafaedb35.png",
             "gamename": "Like a King",
             "gamedes": "Like a King is a tower defense and deck-building game created by LAK Games. You are a king who must battle other kings using and combining the units in your collection of cards."
+        },
+        {
+            "id": "8",
+            "gameurl": "https://poki.com/en/g/who-is#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/373740bfb89dd3e6c1fb96674148e806.png",
+            "gamename": "Who Is?",
+            "gamedes": "Who Is? is a puzzle game created by Unico Studio. This is a fun riddle game that presents you with over a hundred tricky scenarios and you have to think outside the box to solve them."
+        },
+        {
+            "id": "9",
+            "gameurl": "https://poki.com/en/g/stick-merge#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/3b3f4aeacf600fd3910f1c3d513c0636.png",
+            "gamename": "Stick Merge",
+            "gamedes": "Who Is? is a puzzle game created by Unico Studio. This is a fun riddle game that presents you with over a hundred tricky scenarios and you have to think outside the box to solve them."
         }
     ],
     "newgame": [
