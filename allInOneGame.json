@@ -31,11 +31,12 @@
         },
         {
             "id": "4",
-            "gameurl": "https://poki.com/en/g/soccer-skills-world-cup#fullscreen",
-            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/1a9642e779cab413962255ea953d1155.png",
-            "gamename": "Soccer Skills World Cup",
-            "gamedes": "Drag your finger our mouse towards the direction you want to move. When you let go, you will kick the ball. The intensity of your drag will affect your speed as well as your power."
+            "gameurl": "https://poki.com/en/g/temple-run-2-holi-festival",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/b897d1356f5270be2ba5a3f392aaa4d1.png",
+            "gamename": "Temple Run 2: Holi Festival",
+            "gamedes": "Temple Run 2: Holi Festival is an endless runner game developed by Imangi. Celebrate the Holi Festival in the reimagined colorful temples in Temple Run 2"
         }
+    
     ],
     "suggested": [
         {
@@ -116,6 +117,69 @@
             "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/584bae3da91feb104678e9c2a78d47c3.jpeg",
             "gamename": "Subway Surfers",
             "gamedes": "Subway Surfers is a classic endless runner game. You play as Jake, who surfs the subways and tries to escape from the grumpy Inspector and his dog."
+        },
+        {
+            "id": "1",
+            "gameurl": "https://poki.com/en/g/merge-arena?#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/28b1a724027f7fd76a8fcced2c89a51e.png",
+            "gamename": "Merge Arena",
+            "gamedes": "Merge Arena is a 3D tower defense game about defending your territory from various different types of enemies while constantly improving your army."
+        },
+        {
+            "id": "2",
+            "gameurl": "https://poki.com/en/g/merge-arena?#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/a8e38af649693531e20fcd0ace566c73.png",
+            "gamename": "It's Story Time!",
+            "gamedes": "It's Story Time is a puzzle game created by Sakkat Studio. Do you want to put your brainpower to the test? "
+        },
+        {
+            "id": "3",
+            "gameurl": "https://poki.com/en/g/emoji-sort-master#fullscreen",
+            "gameimage": "https://play-lh.googleusercontent.com/Oxk1GgJswzqEc9CZxJozFH02FN8y96zfj6Hk6IIlxNutyde4YsfLvG_Ig6MjmY0esGVj",
+            "gamename": "Emoji Sort Master",
+            "gamedes": "Emoji Sort Master is a sorting-puzzle game in which your objective is to sort emojis by mixing them together."
+        },
+        {
+            "id": "4",
+            "gameurl": "https://poki.com/en/g/tribals-io#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/0e49f86ec1509ef756fadeefa0ce917c.png",
+            "gamename": "Tribals",
+            "gamedes": "Tribals.io is a multiplayer survival game where you craft, mine, build and explore an island trying to survive."
+        },
+        {
+            "id": "5",
+            "gameurl": "https://poki.com/en/g/emoji-sort-master#fullscreen",
+            "gameimage": "https://play-lh.googleusercontent.com/Oxk1GgJswzqEc9CZxJozFH02FN8y96zfj6Hk6IIlxNutyde4YsfLvG_Ig6MjmY0esGVj",
+            "gamename": "Emoji Sort Master",
+            "gamedes": "Emoji Sort Master is a sorting-puzzle game in which your objective is to sort emojis by mixing them together."
+        },
+        {
+            "id": "6",
+            "gameurl": "https://poki.com/en/g/onet-master#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/db6315053336a87ed71553a3a18120d4.png",
+            "gamename": "Onet Master",
+            "gamedes": "Onet Master is the sequel to the popular puzzle game Onet Paradise. Find two identical tiles and connect them with three or less straight lines!"
+        },
+        {
+            "id": "7",
+            "gameurl": "https://poki.com/en/g/drive-mad#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/f8a2160e52333ee0d44ec19e8ca65139.png",
+            "gamename": "Drive Mad",
+            "gamedes": "Drive Mad is a car game where you drive on a track filled with obstacles. Your aim is to reach the finish line in one piece."
+        },
+        {
+            "id": "8",
+            "gameurl": "https://poki.com/en/g/game-of-farmers#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/b30b92f7ef56451792c76d014402406a.png",
+            "gamename": "Game of Farmers",
+            "gamedes": "Game of Farmers is a casual idle farming game created by AppyApp. Leave the chaotic city life behind and start building your dream farm."
+        },
+        {
+            "id": "9",
+            "gameurl": "https://poki.com/en/g/temple-run-2-holi-festival",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/b897d1356f5270be2ba5a3f392aaa4d1.png",
+            "gamename": "Temple Run 2: Holi Festival",
+            "gamedes": "Temple Run 2: Holi Festival is an endless runner game developed by Imangi. Celebrate the Holi Festival in the reimagined colorful temples in Temple Run 2"
         }
     ],
     "toprating": [
@@ -125,6 +189,13 @@
             "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/584bae3da91feb104678e9c2a78d47c3.jpeg",
             "gamename": "Subway Surfers",
             "gamedes": "Subway Surfers is a classic endless runner game. You play as Jake, who surfs the subways and tries to escape from the grumpy Inspector and his dog."
+        },
+        {
+            "id": "1",
+            "gameurl": "https://poki.com/en/g/soccer-skills-world-cup#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/1a9642e779cab413962255ea953d1155.png",
+            "gamename": "Soccer Skills World Cup",
+            "gamedes": "Drag your finger our mouse towards the direction you want to move. When you let go, you will kick the ball. The intensity of your drag will affect your speed as well as your power."
         }
     ],
     "topcharting": [
