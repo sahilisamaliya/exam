@@ -36,7 +36,6 @@
             "gamename": "Temple Run 2: Holi Festival",
             "gamedes": "Temple Run 2: Holi Festival is an endless runner game developed by Imangi. Celebrate the Holi Festival in the reimagined colorful temples in Temple Run 2"
         }
-    
     ],
     "suggested": [
         {
@@ -185,10 +184,10 @@
     "toprating": [
         {
             "id": "0",
-            "gameurl": "https://poki.com/en/g/subway-surfers#fullscreen",
-            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/584bae3da91feb104678e9c2a78d47c3.jpeg",
-            "gamename": "Subway Surfers",
-            "gamedes": "Subway Surfers is a classic endless runner game. You play as Jake, who surfs the subways and tries to escape from the grumpy Inspector and his dog."
+            "gameurl": "https://poki.com/en/g/temple-run-2-holi-festival",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/b897d1356f5270be2ba5a3f392aaa4d1.png",
+            "gamename": "Temple Run 2: Holi Festival",
+            "gamedes": "Temple Run 2: Holi Festival is an endless runner game developed by Imangi. Celebrate the Holi Festival in the reimagined colorful temples in Temple Run 2"
         },
         {
             "id": "1",
@@ -196,6 +195,55 @@
             "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/1a9642e779cab413962255ea953d1155.png",
             "gamename": "Soccer Skills World Cup",
             "gamedes": "Drag your finger our mouse towards the direction you want to move. When you let go, you will kick the ball. The intensity of your drag will affect your speed as well as your power."
+        },
+        {
+            "id": "2",
+            "gameurl": "https://poki.com/en/g/duo-survival#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/874d68cb26daf46ff1ad69e3467edf33.png",
+            "gamename": "Duo Survival",
+            "gamedes": "Duo Survival is a 2-player cooperative game by 7Spot Games where you help two apocalypse survivors escape from the zombies through obstacle-filled levels."
+        },
+        {
+            "id": "3",
+            "gameurl": "https://poki.com/en/g/stickman-hook#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/99e090d154caf30f3625df7e456d5984.png",
+            "gamename": "Stickman Hook",
+            "gamedes": "Stickman Hook is a skill game where you play as a swinging stickman through hundreds of challenging levels. "
+        },
+        {
+            "id": "4",
+            "gameurl": "https://poki.com/en/g/blockpost#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/d012d72ef238513d8ddd5cc77e6b612a.png",
+            "gamename": "Blockpost",
+            "gamedes": "Blockpost is a 3D first person shooting game created by Skullcap Studios. In this procedural cubic 3D-shooter."
+        },
+        {
+            "id": "5",
+            "gameurl": "https://poki.com/en/g/football-legends#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/7336e7ac04f8c0a88fac674d112ad77c.png",
+            "gamename": "Football Legends",
+            "gamedes": "Football Legends is a sports game created by MadPuffers."
+        },
+        {
+            "id": "6",
+            "gameurl": "https://poki.com/en/g/little-master-cricket#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/e59cb3dd8207039fa03a8745c4917e18.png",
+            "gamename": "Little Master Cricket",
+            "gamedes": "Little Master Cricket is a sports game where you exercise your batting skills. Featuring a ragdoll physics engine and a unique control scheme to put you in direct control of the bat."
+        },
+        {
+            "id": "7",
+            "gameurl": "https://poki.com/en/g/cricket-world-cup#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/a9d84b22bc87dc97bcd8ca7a60893404.png",
+            "gamename": "Cricket World Cup",
+            "gamedes": "Cricket World Cup is a cool cricket sports game where you compete for the World Cup."
+        },
+        {
+            "id": "8",
+            "gameurl": "https://poki.com/en/g/master-chess#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=204,height=204,fit=cover,f=auto/505695b9-1b21-47fd-a8e1-93345afb57de.png",
+            "gamename": "Master Chess",
+            "gamedes": "Master Chess is a board and thinking game that you can play online locally."
         }
     ],
     "topcharting": [
