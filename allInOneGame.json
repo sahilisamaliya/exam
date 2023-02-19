@@ -72,6 +72,26 @@
             "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/9b373b5219cd66a82389d81d7cda8e23.jpeg",
             "gamename": "YoHoHo",
             "gamedes": "YoHoHo Matey! In this game you are a pirate and you have had a shipwreck. You stranded on a desolate island with the other pirates that were on board."
+        },
+        {
+            "id": "5",
+            "gameurl": "https://poki.com/en/g/gold-digger-frvr#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/ada621ee3a066ab12be8484017fd6297.png",
+            "gamename": "Gold Digger FRVR",
+            "gamedes": "Gold Digger FRVR is a 2D adventure game by FRVR Games. You are a miner with a shovel and you are discovering the underground world."
+        },
+        {
+            "id": "6",
+            "gameurl": "https://poki.com/en/g/gold-digger-frvr#fullscreen",
+            "gameimage": "https://www.operationsports.com/wp-content/uploads/2022/02/cover.png",
+            "gamename": "Retro Bowl",
+            "gamedes": "Retro Bowl is an American style football game created by New Star Games. Are you ready to manage your dream team into victory? Be the boss of your NFL franchise."
+        },{
+            "id": "7",
+            "gameurl": "https://poki.com/en/g/like-a-king#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/f0cd739414e134d667d7025aafaedb35.png",
+            "gamename": "Like a King",
+            "gamedes": "Like a King is a tower defense and deck-building game created by LAK Games. You are a king who must battle other kings using and combining the units in your collection of cards."
         }
     ],
     "newgame": [
