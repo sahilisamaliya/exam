@@ -31,7 +31,7 @@
         },
         {
             "id": "4",
-            "gameurl": "https://poki.com/en/g/temple-run-2-holi-festival",
+            "gameurl": "https://poki.com/en/g/temple-run-2-holi-festival#fullscreen",
             "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/b897d1356f5270be2ba5a3f392aaa4d1.png",
             "gamename": "Temple Run 2: Holi Festival",
             "gamedes": "Temple Run 2: Holi Festival is an endless runner game developed by Imangi. Celebrate the Holi Festival in the reimagined colorful temples in Temple Run 2"
@@ -146,13 +146,6 @@
             "gamedes": "Tribals.io is a multiplayer survival game where you craft, mine, build and explore an island trying to survive."
         },
         {
-            "id": "5",
-            "gameurl": "https://poki.com/en/g/emoji-sort-master#fullscreen",
-            "gameimage": "https://play-lh.googleusercontent.com/Oxk1GgJswzqEc9CZxJozFH02FN8y96zfj6Hk6IIlxNutyde4YsfLvG_Ig6MjmY0esGVj",
-            "gamename": "Emoji Sort Master",
-            "gamedes": "Emoji Sort Master is a sorting-puzzle game in which your objective is to sort emojis by mixing them together."
-        },
-        {
             "id": "6",
             "gameurl": "https://poki.com/en/g/onet-master#fullscreen",
             "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/db6315053336a87ed71553a3a18120d4.png",
@@ -184,7 +177,7 @@
     "toprating": [
         {
             "id": "0",
-            "gameurl": "https://poki.com/en/g/temple-run-2-holi-festival",
+            "gameurl": "https://poki.com/en/g/temple-run-2-holi-festival#fullscreen",
             "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/b897d1356f5270be2ba5a3f392aaa4d1.png",
             "gamename": "Temple Run 2: Holi Festival",
             "gamedes": "Temple Run 2: Holi Festival is an endless runner game developed by Imangi. Celebrate the Holi Festival in the reimagined colorful temples in Temple Run 2"
@@ -256,10 +249,10 @@
         },
         {
             "id": "1",
-            "gameurl": "https://poki.com/en/g/venge-io#fullscreen",
-            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/41e1eb2b214fcebb66ddcb924e936f96.png",
-            "gamename": "Venge",
-            "gamedes": "Subway Surfers is a classic endless runner game. You play as Jake, who surfs the subways and tries to escape from the grumpy Inspector and his dog."
+            "gameurl": "https://poki.com/en/g/slime-laboratory-2#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/58ad1066794ccb9a97500e4a9aef246e.png",
+            "gamename": "Slime Laboratory 2",
+            "gamedes": "Slime Laboratory 2 is a is the sequel to the physics-based platform game where you embark on a slimy journey through a mysterious laboratory. "
         }
     ],
     "category": [
