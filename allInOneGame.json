@@ -253,6 +253,27 @@
             "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/58ad1066794ccb9a97500e4a9aef246e.png",
             "gamename": "Slime Laboratory 2",
             "gamedes": "Slime Laboratory 2 is a is the sequel to the physics-based platform game where you embark on a slimy journey through a mysterious laboratory. "
+        },
+        {
+            "id": "2",
+            "gameurl": "https://poki.com/en/g/tiny-fishing#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/c8cb366d52fc2a67fb313c344efdbc9e.png",
+            "gamename": "Tiny Fishing",
+            "gamedes": "Tiny Fishing is a fishing game where you have to upgrade your gear to get bigger fish! Each fish you catch will earn you some money."
+        },
+        {
+            "id": "3",
+            "gameurl": "https://poki.com/en/g/yohoho-io#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/9b373b5219cd66a82389d81d7cda8e23.jpeg",
+            "gamename": "YoHoHo",
+            "gamedes": "YoHoHo Matey! In this game you are a pirate and you have had a shipwreck. You stranded on a desolate island with the other pirates that were on board."
+        },
+        {
+            "id": "4",
+            "gameurl": "https://poki.com/en/g/gold-digger-frvr#fullscreen",
+            "gameimage": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/ada621ee3a066ab12be8484017fd6297.png",
+            "gamename": "Gold Digger FRVR",
+            "gamedes": "Gold Digger FRVR is a 2D adventure game by FRVR Games. You are a miner with a shovel and you are discovering the underground world."
         }
     ],
     "category": [
