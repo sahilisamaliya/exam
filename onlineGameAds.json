@@ -1,0 +1,14 @@
+{
+    "status": "success",
+    "data": {
+        "adsClickLimit": "2",
+        "isAdVisible": "1",
+        "isAdVisibleLimit": "1",
+        "topChartLength": 3,
+        "categoryChartLength": 3,
+        "openAdId": "bb7efb72e6ad7780",
+        "interAdId": "e6d975d8a21f7bd5",
+        "mrecAdId": "906e1e4a319a2008",
+        "bannerAdId": "98e2f1bd281dc453"
+    }
+}
