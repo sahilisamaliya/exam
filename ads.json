@@ -9,6 +9,10 @@
         "openAdId": "bb7efb72e6ad7780",
         "interAdId": "e6d975d8a21f7bd5",
         "mrecAdId": "906e1e4a319a2008",
-        "bannerAdId": "98e2f1bd281dc453"
+        "bannerAdId": "98e2f1bd281dc453",
+        "googleBannerAdId" : "ca-app-pub-3940256099942544/6300978111",
+        "googleInterstitialAdId" : "ca-app-pub-3940256099942544/1033173712",
+        "googleNativeAdId" : "ca-app-pub-3940256099942544/2247696110",
+         "googleAppOpenAdId" : "ca-app-pub-3940256099942544/3419835294"
     }
 }
