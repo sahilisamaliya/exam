@@ -6,7 +6,7 @@
         "isAdVisibleLimit": "1",
         "topChartLength": 3,
         "categoryChartLength": 3,
-        "isGoogleAd": true,
+        "isGoogleAd": false,
         "openAdId": "567bc53b31e8421a",
         "interAdId": "246777deceb4ebac",
         "mrecAdId": "03bb111b0dfcb91a",
